@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LexiCard — Multi-Language Vocabulary</title>
+  <meta name="description"
+    content="Learn vocabulary in any language with beautiful flashcards, example sentences, and organized decks." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="style.css?v=3" />
+  <!-- Twemoji: renders flag emojis as images on Windows -->
+  <script src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/dist/twemoji.min.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <!-- ════════════════ NAVBAR ════════════════ -->
+  <header class="navbar">
+    <div class="navbar-inner">
+      <div class="logo" id="nav-logo">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">LexiCard</span>
+      </div>
+      <div class="navbar-right">
+        <nav class="navbar-actions" id="navbar-actions"></nav>
+        <button class="btn btn-ghost btn-icon-only navbar-settings" id="btn-settings" title="AI Settings">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18">
+            <circle cx="12" cy="12" r="3" />
+            <path
+              d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z" />
+          </svg>
+          <span class="ai-status-dot" id="ai-status-dot"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ════════════════ SCREENS ════════════════ -->
+  <main class="app-main">
+
+    <!-- ── LANGUAGE HOME SCREEN ── -->
+    <section class="screen active" id="screen-home">
+      <div class="screen-hero">
+        <h1 class="hero-title">Your <span class="gradient-text">Languages</span></h1>
+        <p class="hero-sub">Choose a language to study, or add a new one to your collection.</p>
+      </div>
+      <div class="lang-grid" id="lang-grid">
+        <!-- Language cards + Add Language card injected here -->
+      </div>
+    </section>
+
+    <!-- ── LANGUAGE DECKS SCREEN ── -->
+    <section class="screen hidden" id="screen-lang-decks">
+      <div class="lang-decks-header">
+        <button class="btn btn-ghost btn-back" id="btn-back-languages">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="btn-icon">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+          Languages
+        </button>
+        <div class="lang-decks-title-area">
+          <span class="lang-decks-flag" id="lang-decks-flag"></span>
+          <h1 class="lang-decks-title" id="lang-decks-title">English</h1>
+        </div>
+        <button class="btn btn-primary btn-sm" id="btn-new-deck">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="btn-icon" width="14"
+            height="14">
+            <line x1="12" y1="5" x2="12" y2="19" />
+            <line x1="5" y1="12" x2="19" y2="12" />
+          </svg>
+          New Deck
+        </button>
+      </div>
+
+      <div class="deck-grid" id="deck-grid">
+        <!-- Deck cards injected here -->
+      </div>
+
+      <div class="empty-state hidden" id="home-empty">
+        <div class="empty-icon">📚</div>
+        <h2>No decks yet</h2>
+        <p>Create your first deck to start learning!</p>
+      </div>
+    </section>
+
+    <!-- ── DECK VIEW SCREEN ── -->
+    <section class="screen hidden" id="screen-deck">
+      <div class="deck-header">
+        <button class="btn btn-ghost btn-back" id="btn-back-home">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="btn-icon">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+          <span id="btn-back-home-label">Back</span>
+        </button>
+        <div class="deck-title-area">
+          <h1 class="deck-view-title" id="deck-view-title">Deck Name</h1>
+          <div class="deck-title-meta">
+            <span class="deck-lang-badge" id="deck-lang-badge"></span>
+            <span class="deck-card-count" id="deck-card-count">0 cards</span>
+          </div>
+        </div>
+        <div class="deck-actions">
+          <button class="btn btn-outline" id="btn-study-deck" disabled>
+            <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <polygon points="5 3 19 12 5 21 5 3" />
+            </svg>
+            Study
+          </button>
+          <button class="btn btn-outline btn-quiz" id="btn-quiz-deck" disabled>
+            <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M9 11l3 3L22 4" />
+              <path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11" />
+            </svg>
+            Quiz
+          </button>
+          <button class="btn btn-primary" id="btn-add-card">
+            <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19" />
+              <line x1="5" y1="12" x2="19" y2="12" />
+            </svg>
+            Add Card
+          </button>
+        </div>
+      </div>
+
+      <div class="search-bar-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8" />
+          <line x1="21" y1="21" x2="16.65" y2="16.65" />
+        </svg>
+        <input class="search-bar" type="text" id="card-search" placeholder="Search cards…" autocomplete="off" />
+      </div>
+
+      <div class="card-list" id="card-list">
+        <!-- Cards injected here -->
+      </div>
+
+      <div class="empty-state hidden" id="deck-empty">
+        <div class="empty-icon">🃏</div>
+        <h2>No cards in this deck</h2>
+        <p>Add your first flashcard to get started!</p>
+      </div>
+    </section>
+
+    <!-- ── STUDY MODE SCREEN ── -->
+    <section class="screen hidden" id="screen-study">
+      <div class="study-header">
+        <button class="btn btn-ghost btn-back" id="btn-back-deck">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="btn-icon">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+          Back
+        </button>
+        <div class="study-meta">
+          <span class="study-deck-name" id="study-deck-name">Deck</span>
+          <span class="study-progress-text" id="study-progress-text">1 / 10</span>
+        </div>
+        <div></div>
+      </div>
+
+      <div class="study-progress-bar-track">
+        <div class="study-progress-bar-fill" id="study-progress-bar"></div>
+      </div>
+
+      <div class="study-arena" id="study-arena">
+        <div class="flashcard-wrap" id="flashcard-wrap" tabindex="0">
+          <div class="flashcard" id="flashcard">
+            <div class="flashcard-face flashcard-front">
+              <div class="flashcard-lang-badge" id="fc-lang-badge">🇬🇧 English</div>
+              <div class="fc-pos-row">
+                <span class="fc-pos-badge" id="fc-pos"></span>
+              </div>
+              <div class="flashcard-word" id="fc-word"></div>
+              <div class="flashcard-phonetic" id="fc-phonetic"></div>
+              <div class="flashcard-hint">Click or press Space to flip</div>
+            </div>
+            <div class="flashcard-face flashcard-back">
+              <div class="flashcard-lang-badge">🇹🇷 Türkçe</div>
+              <div class="flashcard-translation" id="fc-translation"></div>
+              <div class="flashcard-sentences" id="fc-sentences"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="study-controls">
+          <button class="btn btn-ghost btn-circle study-nav" id="btn-prev-card" title="Previous (←)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <polyline points="15 18 9 12 15 6" />
+            </svg>
+          </button>
+          <button class="btn btn-outline btn-flip" id="btn-flip-card">Flip Card</button>
+          <button class="btn btn-ghost btn-circle study-nav" id="btn-next-card" title="Next (→)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <polyline points="9 18 15 12 9 6" />
+            </svg>
+          </button>
+        </div>
+
+        <div class="study-keyboard-hint">
+          <kbd>←</kbd> Previous &nbsp; <kbd>Space</kbd> Flip &nbsp; <kbd>→</kbd> Next
+        </div>
+      </div>
+
+      <!-- Completion screen -->
+      <div class="study-complete hidden" id="study-complete">
+        <div class="complete-icon">🎉</div>
+        <h2>Deck Complete!</h2>
+        <p id="complete-msg">You've reviewed all cards in this deck.</p>
+        <div class="complete-actions">
+          <button class="btn btn-outline" id="btn-restart-study">Study Again</button>
+          <button class="btn btn-primary" id="btn-back-from-complete">Back to Deck</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ SWIPE QUIZ SCREEN ══════════ -->
+    <section id="screen-swipe-study" class="screen hidden">
+      <header class="study-header">
+        <button id="btn-back-swipe" class="btn btn-ghost btn-sm">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+          Back
+        </button>
+        <div class="study-title-group">
+          <h2 id="swipe-deck-name"></h2>
+          <span id="swipe-progress-text" class="study-progress-text">1 / 0</span>
+        </div>
+        <div></div>
+      </header>
+
+      <div class="study-progress-bar-track">
+        <div id="swipe-progress-bar" class="study-progress-bar-fill" style="width:0%"></div>
+      </div>
+
+      <!-- Quiz Arena -->
+      <div class="swipe-arena" id="swipe-arena">
+        <div class="swipe-side-hint swipe-side-wrong" id="swipe-hint-wrong">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" width="28" height="28">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+          Wrong
+        </div>
+
+        <div class="swipe-card-wrap" id="swipe-card-wrap">
+          <div class="swipe-card" id="swipe-card" tabindex="0">
+            <div class="swipe-overlay wrong-overlay" id="swipe-overlay-wrong"></div>
+            <div class="swipe-overlay correct-overlay" id="swipe-overlay-correct"></div>
+            <div class="swipe-card-inner">
+              <div class="fc-pos-row hidden"><span id="swipe-fc-pos" class="fc-pos-badge"></span></div>
+              <div class="swipe-word" id="swipe-word"></div>
+              <div class="flashcard-phonetic" id="swipe-phonetic"></div>
+              <div class="swipe-tap-hint" id="swipe-tap-hint">Tap to reveal translation</div>
+              <div class="swipe-reveal hidden" id="swipe-reveal">
+                <div class="swipe-divider"></div>
+                <div class="swipe-translation" id="swipe-translation"></div>
+                <div class="swipe-sentences" id="swipe-sentences"></div>
+                <div class="swipe-action-hint">&#8592; Wrong &nbsp;&nbsp; Right &#8594;</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="swipe-side-hint swipe-side-correct" id="swipe-hint-correct">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" width="28" height="28">
+            <polyline points="20 6 9 17 4 12" />
+          </svg>
+          Correct
+        </div>
+      </div>
+
+      <!-- Bottom Action Buttons -->
+      <div class="swipe-buttons" id="swipe-buttons">
+        <button class="swipe-btn swipe-btn-wrong" id="btn-swipe-wrong" disabled>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" width="22" height="22">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+          Wrong
+        </button>
+        <button class="swipe-btn swipe-btn-reveal" id="btn-swipe-reveal">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="18" height="18">
+            <circle cx="12" cy="12" r="10" />
+            <line x1="12" y1="8" x2="12" y2="12" />
+            <line x1="12" y1="16" x2="12.01" y2="16" />
+          </svg>
+          Reveal
+        </button>
+        <button class="swipe-btn swipe-btn-correct" id="btn-swipe-correct" disabled>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" width="22" height="22">
+            <polyline points="20 6 9 17 4 12" />
+          </svg>
+          Correct
+        </button>
+      </div>
+
+      <!-- Complete / Results -->
+      <div class="swipe-complete hidden" id="swipe-complete">
+        <div class="swipe-complete-card">
+          <div class="swipe-complete-emoji" id="swipe-complete-emoji">🎉</div>
+          <h2 class="swipe-complete-title" id="swipe-complete-title">Session Complete!</h2>
+          <div class="swipe-score-wrap" id="swipe-score-wrap">
+            <div class="swipe-score-circle" id="swipe-score-circle">
+              <span class="swipe-score-num" id="swipe-score-num">0</span>
+              <span class="swipe-score-denom" id="swipe-score-denom">/0</span>
+            </div>
+            <div class="swipe-score-label" id="swipe-score-label">Keep practicing!</div>
+          </div>
+          <div class="swipe-results-header">
+            <span>Word</span><span>Result</span>
+          </div>
+          <div class="swipe-results-list" id="swipe-results-list"></div>
+          <div class="swipe-complete-actions">
+            <button class="btn btn-ghost" id="btn-swipe-restart">&#8635; Restart</button>
+            <button class="btn btn-primary" id="btn-swipe-back-deck">Back to Deck</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ════════════════ MODALS ════════════════ -->
+
+  <!-- Card Editor Modal -->
+  <div class="modal-backdrop hidden" id="modal-card-editor">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <h2 class="modal-title" id="modal-title">Add New Card</h2>
+        <button class="modal-close" id="btn-close-modal" aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="card-form" novalidate>
+          <!-- AI Suggest Bar -->
+          <div class="ai-suggest-bar" id="ai-suggest-bar">
+            <div class="ai-suggest-input-wrap">
+              <input class="form-input ai-word-input" type="text" id="input-word" placeholder="e.g. Perseverance"
+                required autocomplete="off" />
+            </div>
+            <button type="button" class="btn ai-suggest-btn" id="btn-ai-suggest" title="AI ile doldur">
+              <span class="ai-btn-icon">✨</span>
+              <span class="ai-btn-text">AI Suggest</span>
+              <span class="ai-btn-loading hidden" id="ai-loading">
+                <svg class="ai-spinner" viewBox="0 0 24 24" width="16" height="16">
+                  <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="3"
+                    stroke-dasharray="30 70" stroke-linecap="round" />
+                </svg>
+              </span>
+            </button>
+          </div>
+
+          <div class="form-row form-row-2col">
+            <div class="form-group">
+              <label class="form-label" for="input-translation">Turkish Translation</label>
+              <input class="form-input" type="text" id="input-translation" placeholder="e.g. Azim" required
+                autocomplete="off" />
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="input-pos">Part of Speech</label>
+              <select class="form-input form-select" id="input-pos">
+                <option value="noun">noun</option>
+                <option value="verb">verb</option>
+                <option value="adjective">adjective</option>
+                <option value="adverb">adverb</option>
+                <option value="preposition">preposition</option>
+                <option value="conjunction">conjunction</option>
+                <option value="pronoun">pronoun</option>
+                <option value="determiner">determiner</option>
+                <option value="phrase">phrase</option>
+                <option value="other">other</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-row form-row-2col">
+            <div class="form-group">
+              <label class="form-label" for="input-phonetic-us" id="label-phonetic-d1">US Pronunciation (IPA)</label>
+              <input class="form-input" type="text" id="input-phonetic-us" placeholder="e.g. /ˈkʌlər/"
+                autocomplete="off" />
+            </div>
+          </div>
+
+          <div class="form-row form-row-2col">
+            <div class="form-group">
+              <label class="form-label" for="input-phonetic-gb" id="label-phonetic-d2">UK Pronunciation (IPA)</label>
+              <input class="form-input" type="text" id="input-phonetic-gb"
+                placeholder="e.g. /ˈkʌlə/ — leave blank if same as D1" autocomplete="off" />
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="input-alt-spelling" id="label-phonetic-alt">Alt Spelling (UK) <span
+                  class="label-optional">(optional)</span></label>
+              <input class="form-input" type="text" id="input-alt-spelling" placeholder="e.g. colour, favourite"
+                autocomplete="off" />
+            </div>
+          </div>
+
+          <div class="form-divider">
+            <span>Example Sentences</span>
+            <span class="sentences-optional-hint">optional</span>
+          </div>
+
+          <div class="sentence-counter-row">
+            <div class="sentence-counter-info">
+              <span class="sentence-counter-label" id="sentence-counter-label">No sentences added</span>
+              <span class="sentence-counter-max">max 10</span>
+            </div>
+            <div class="sentence-stepper">
+              <button type="button" class="stepper-btn" id="btn-dec-sentences" disabled aria-label="Remove sentence">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                </svg>
+              </button>
+              <span class="stepper-value" id="sentence-count-display">0</span>
+              <button type="button" class="stepper-btn" id="btn-inc-sentences" aria-label="Add sentence">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <line x1="12" y1="5" x2="12" y2="19" />
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="sentence-pairs-container" id="sentence-pairs-container"></div>
+
+          <div class="modal-footer">
+            <button type="button" class="btn btn-ghost" id="btn-cancel-card">Cancel</button>
+            <button type="submit" class="btn btn-primary" id="btn-save-card">Save Card</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- New Deck Modal -->
+  <div class="modal-backdrop hidden" id="modal-new-deck">
+    <div class="modal modal-sm" role="dialog" aria-modal="true" aria-labelledby="deck-modal-title">
+      <div class="modal-header">
+        <h2 class="modal-title" id="deck-modal-title">New Deck</h2>
+        <button class="modal-close" id="btn-close-deck-modal" aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="deck-form" novalidate>
+          <div class="form-group">
+            <label class="form-label" for="input-deck-name">Deck Name</label>
+            <input class="form-input" type="text" id="input-deck-name"
+              placeholder="e.g. Business Words, Travel Phrases…" required autocomplete="off" />
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-ghost" id="btn-cancel-deck">Cancel</button>
+            <button type="submit" class="btn btn-primary" id="btn-save-deck">Create Deck</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Add Language Modal -->
+  <div class="modal-backdrop hidden" id="modal-add-language">
+    <div class="modal modal-sm" role="dialog" aria-modal="true" aria-labelledby="lang-modal-title">
+      <div class="modal-header">
+        <h2 class="modal-title" id="lang-modal-title">Add New Language</h2>
+        <button class="modal-close" id="btn-close-lang-modal" aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="lang-form" novalidate>
+          <div class="form-group">
+            <label class="form-label">Quick Select</label>
+            <div class="lang-presets" id="lang-presets">
+              <button type="button" class="lang-preset-btn" data-name="English" data-flag="🇬🇧">🇬🇧 English</button>
+              <button type="button" class="lang-preset-btn" data-name="Spanish" data-flag="🇪🇸">🇪🇸 Spanish</button>
+              <button type="button" class="lang-preset-btn" data-name="French" data-flag="🇫🇷">🇫🇷 French</button>
+              <button type="button" class="lang-preset-btn" data-name="German" data-flag="🇩🇪">🇩🇪 German</button>
+              <button type="button" class="lang-preset-btn" data-name="Italian" data-flag="🇮🇹">🇮🇹 Italian</button>
+              <button type="button" class="lang-preset-btn" data-name="Portuguese" data-flag="🇵🇹">🇵🇹
+                Portuguese</button>
+              <button type="button" class="lang-preset-btn" data-name="Arabic" data-flag="🇸🇦">🇸🇦 Arabic</button>
+              <button type="button" class="lang-preset-btn" data-name="Japanese" data-flag="🇯🇵">🇯🇵 Japanese</button>
+              <button type="button" class="lang-preset-btn" data-name="Korean" data-flag="🇰🇷">🇰🇷 Korean</button>
+              <button type="button" class="lang-preset-btn" data-name="Russian" data-flag="🇷🇺">🇷🇺 Russian</button>
+              <button type="button" class="lang-preset-btn" data-name="Chinese" data-flag="🇨🇳">🇨🇳 Chinese</button>
+              <button type="button" class="lang-preset-btn" data-name="Dutch" data-flag="🇳🇱">🇳🇱 Dutch</button>
+            </div>
+          </div>
+          <div class="form-divider"><span>Or custom</span></div>
+          <div class="form-row form-row-2col">
+            <div class="form-group">
+              <label class="form-label" for="input-lang-flag">Flag Emoji</label>
+              <input class="form-input" type="text" id="input-lang-flag" placeholder="e.g. 🇧🇷" maxlength="4"
+                autocomplete="off" />
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="input-lang-name">Language Name</label>
+              <input class="form-input" type="text" id="input-lang-name" placeholder="e.g. Brazilian Portuguese"
+                autocomplete="off" />
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-ghost" id="btn-cancel-lang">Cancel</button>
+            <button type="submit" class="btn btn-primary" id="btn-save-lang">Add Language</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Confirm Delete Modal -->
+  <div class="modal-backdrop hidden" id="modal-confirm">
+    <div class="modal modal-sm" role="dialog" aria-modal="true">
+      <div class="modal-header">
+        <h2 class="modal-title" id="confirm-title">Delete?</h2>
+      </div>
+      <div class="modal-body">
+        <p class="confirm-msg" id="confirm-msg">Are you sure you want to delete this?</p>
+        <div class="modal-footer">
+          <button class="btn btn-ghost" id="btn-confirm-cancel">Cancel</button>
+          <button class="btn btn-danger" id="btn-confirm-ok">Delete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quiz Options Modal -->
+  <div class="modal-backdrop hidden" id="modal-quiz-options">
+    <div class="modal modal-sm" role="dialog" aria-modal="true" aria-labelledby="quiz-options-title">
+      <div class="modal-header">
+        <h2 class="modal-title" id="quiz-options-title">Quiz Options</h2>
+        <button class="modal-close" id="btn-close-quiz-options" aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p id="quiz-opt-text" style="margin-top: 0; line-height: 1.5; color: var(--color-base-content-muted);">
+          You answered <strong id="quiz-opt-incorrect-count">0</strong> words incorrectly in your last quiz session for
+          this deck.
+        </p>
+        <div class="modal-footer" style="flex-direction: column; gap: 0.75rem; align-items: stretch;">
+          <button class="btn btn-primary" id="btn-quiz-opt-primary" style="width: 100%; justify-content: center;">Study
+            Incorrect Only</button>
+          <button class="btn btn-outline" id="btn-quiz-opt-secondary"
+            style="width: 100%; justify-content: center;">Restart
+            All Cards</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast-container" id="toast-container"></div>
+
+
+
+  <!-- AI Settings Modal -->
+  <div class="modal-backdrop hidden" id="modal-settings">
+    <div class="modal modal-sm" role="dialog" aria-modal="true">
+      <div class="modal-header">
+        <h2 class="modal-title">AI Settings</h2>
+        <button class="modal-close" id="btn-close-settings" aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="settings-section">
+          <div class="settings-ai-badge">
+            <span class="settings-ai-icon">🤖</span>
+            <span>Google Gemini API</span>
+          </div>
+          <p class="settings-desc">Enter your Gemini API key to enable AI-powered suggestions. Get a free key at <a
+              href="https://aistudio.google.com/apikey" target="_blank" class="settings-link">aistudio.google.com</a>
+          </p>
+          <div class="form-group">
+            <label class="form-label" for="input-api-key">API Key</label>
+            <div class="api-key-input-wrap">
+              <input class="form-input" type="password" id="input-api-key" placeholder="AIzaSy..." autocomplete="off" />
+              <button type="button" class="btn btn-ghost btn-icon-only api-key-toggle" id="btn-toggle-key"
+                title="Show/Hide">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+                  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                  <circle cx="12" cy="12" r="3" />
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="api-key-status" id="api-key-status"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-ghost" id="btn-test-key">Test Connection</button>
+            <button type="button" class="btn btn-primary" id="btn-save-key">Save Key</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="oxford3000_data.js"></script>
+  <script src="oxford_c1_data.js"></script>
+  <script src="spanish_data.js"></script>
+  <script src="italian_data.js"></script>
+  <script src="french_data.js"></script>
+  <script src="app.js?v=12"></script>
+</body>
+
+</html>

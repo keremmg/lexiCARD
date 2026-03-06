@@ -1,0 +1,10010 @@
+{
+  "A1": [
+    {
+      "base_en": "a",
+      "target_word": "un",
+      "pos": "other"
+    },
+    {
+      "base_en": "about",
+      "target_word": "à propos",
+      "pos": "other"
+    },
+    {
+      "base_en": "above",
+      "target_word": "ci-dessus",
+      "pos": "other"
+    },
+    {
+      "base_en": "across",
+      "target_word": "à travers",
+      "pos": "other"
+    },
+    {
+      "base_en": "action",
+      "target_word": "action",
+      "pos": "noun"
+    },
+    {
+      "base_en": "activity",
+      "target_word": "activité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "actor",
+      "target_word": "acteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "actress",
+      "target_word": "actrice",
+      "pos": "noun"
+    },
+    {
+      "base_en": "add",
+      "target_word": "ajouter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "address",
+      "target_word": "adresse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "adult",
+      "target_word": "adulte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "advice",
+      "target_word": "conseils",
+      "pos": "noun"
+    },
+    {
+      "base_en": "afraid",
+      "target_word": "peur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "after",
+      "target_word": "après",
+      "pos": "other"
+    },
+    {
+      "base_en": "afternoon",
+      "target_word": "après-midi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "again",
+      "target_word": "encore une fois",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "age",
+      "target_word": "âge",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ago",
+      "target_word": "il y a",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "agree",
+      "target_word": "d'accord",
+      "pos": "verb"
+    },
+    {
+      "base_en": "air",
+      "target_word": "air",
+      "pos": "noun"
+    },
+    {
+      "base_en": "airport",
+      "target_word": "aéroport",
+      "pos": "noun"
+    },
+    {
+      "base_en": "all",
+      "target_word": "tout",
+      "pos": "other"
+    },
+    {
+      "base_en": "also",
+      "target_word": "aussi",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "always",
+      "target_word": "toujours",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "amazing",
+      "target_word": "incroyable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "and",
+      "target_word": "et",
+      "pos": "other"
+    },
+    {
+      "base_en": "angry",
+      "target_word": "en colère",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "animal",
+      "target_word": "animal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "another",
+      "target_word": "un autre",
+      "pos": "other"
+    },
+    {
+      "base_en": "answer",
+      "target_word": "réponse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "any",
+      "target_word": "n'importe quel",
+      "pos": "other"
+    },
+    {
+      "base_en": "anyone",
+      "target_word": "n'importe qui",
+      "pos": "other"
+    },
+    {
+      "base_en": "anything",
+      "target_word": "n'importe quoi",
+      "pos": "other"
+    },
+    {
+      "base_en": "apartment",
+      "target_word": "appartement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "apple",
+      "target_word": "pomme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "April",
+      "target_word": "avril",
+      "pos": "noun"
+    },
+    {
+      "base_en": "area",
+      "target_word": "zone",
+      "pos": "noun"
+    },
+    {
+      "base_en": "arm",
+      "target_word": "bras",
+      "pos": "noun"
+    },
+    {
+      "base_en": "around",
+      "target_word": "autour",
+      "pos": "other"
+    },
+    {
+      "base_en": "arrive",
+      "target_word": "arriver",
+      "pos": "verb"
+    },
+    {
+      "base_en": "art",
+      "target_word": "art",
+      "pos": "noun"
+    },
+    {
+      "base_en": "article",
+      "target_word": "article",
+      "pos": "noun"
+    },
+    {
+      "base_en": "artist",
+      "target_word": "artiste",
+      "pos": "noun"
+    },
+    {
+      "base_en": "as",
+      "target_word": "comme",
+      "pos": "other"
+    },
+    {
+      "base_en": "ask",
+      "target_word": "demander",
+      "pos": "verb"
+    },
+    {
+      "base_en": "at",
+      "target_word": "à",
+      "pos": "other"
+    },
+    {
+      "base_en": "August",
+      "target_word": "août",
+      "pos": "noun"
+    },
+    {
+      "base_en": "aunt",
+      "target_word": "tante",
+      "pos": "noun"
+    },
+    {
+      "base_en": "autumn",
+      "target_word": "automne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "away",
+      "target_word": "loin",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "baby",
+      "target_word": "bébé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "back",
+      "target_word": "retour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bad",
+      "target_word": "mauvais",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "bag",
+      "target_word": "sac",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ball",
+      "target_word": "balle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "banana",
+      "target_word": "banane",
+      "pos": "noun"
+    },
+    {
+      "base_en": "band",
+      "target_word": "bande",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bank",
+      "target_word": "banque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bath",
+      "target_word": "bain",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bathroom",
+      "target_word": "salle de bain",
+      "pos": "noun"
+    },
+    {
+      "base_en": "be",
+      "target_word": "être",
+      "pos": "verb"
+    },
+    {
+      "base_en": "beach",
+      "target_word": "plage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "beautiful",
+      "target_word": "belle",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "because",
+      "target_word": "parce que",
+      "pos": "other"
+    },
+    {
+      "base_en": "become",
+      "target_word": "devenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bed",
+      "target_word": "lit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bedroom",
+      "target_word": "chambre à coucher",
+      "pos": "noun"
+    },
+    {
+      "base_en": "beer",
+      "target_word": "bière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "before",
+      "target_word": "avant",
+      "pos": "other"
+    },
+    {
+      "base_en": "begin",
+      "target_word": "commencer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "beginning",
+      "target_word": "début",
+      "pos": "noun"
+    },
+    {
+      "base_en": "behind",
+      "target_word": "derrière",
+      "pos": "other"
+    },
+    {
+      "base_en": "believe",
+      "target_word": "crois",
+      "pos": "verb"
+    },
+    {
+      "base_en": "below",
+      "target_word": "ci-dessous",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "best",
+      "target_word": "meilleur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "better",
+      "target_word": "mieux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "between",
+      "target_word": "entre",
+      "pos": "other"
+    },
+    {
+      "base_en": "bicycle",
+      "target_word": "vélo",
+      "pos": "noun"
+    },
+    {
+      "base_en": "big",
+      "target_word": "grand",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "bike",
+      "target_word": "vélo",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bill",
+      "target_word": "facture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bird",
+      "target_word": "oiseau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "birthday",
+      "target_word": "anniversaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "black",
+      "target_word": "noir",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "blog",
+      "target_word": "bloguer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "blonde",
+      "target_word": "blonde",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "blue",
+      "target_word": "bleu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "boat",
+      "target_word": "bateau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "body",
+      "target_word": "corps",
+      "pos": "noun"
+    },
+    {
+      "base_en": "book",
+      "target_word": "livre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "boot",
+      "target_word": "démarrer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bored",
+      "target_word": "ennuyé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "boring",
+      "target_word": "ennuyeux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "born",
+      "target_word": "né",
+      "pos": "verb"
+    },
+    {
+      "base_en": "both",
+      "target_word": "les deux",
+      "pos": "other"
+    },
+    {
+      "base_en": "bottle",
+      "target_word": "bouteille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "box",
+      "target_word": "boîte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "boy",
+      "target_word": "garçon",
+      "pos": "noun"
+    },
+    {
+      "base_en": "boyfriend",
+      "target_word": "petit ami",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bread",
+      "target_word": "pain",
+      "pos": "noun"
+    },
+    {
+      "base_en": "break",
+      "target_word": "pause",
+      "pos": "verb"
+    },
+    {
+      "base_en": "breakfast",
+      "target_word": "petit déjeuner",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bring",
+      "target_word": "apporter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "brother",
+      "target_word": "frère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "brown",
+      "target_word": "marron",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "build",
+      "target_word": "construire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "building",
+      "target_word": "bâtiment",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bus",
+      "target_word": "autobus",
+      "pos": "noun"
+    },
+    {
+      "base_en": "business",
+      "target_word": "entreprise",
+      "pos": "noun"
+    },
+    {
+      "base_en": "busy",
+      "target_word": "occupé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "but",
+      "target_word": "mais",
+      "pos": "other"
+    },
+    {
+      "base_en": "butter",
+      "target_word": "beurre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "buy",
+      "target_word": "acheter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "by",
+      "target_word": "par",
+      "pos": "other"
+    },
+    {
+      "base_en": "bye",
+      "target_word": "au revoir",
+      "pos": "other"
+    },
+    {
+      "base_en": "cafe",
+      "target_word": "café",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cake",
+      "target_word": "gâteau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "call",
+      "target_word": "appeler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "camera",
+      "target_word": "caméra",
+      "pos": "noun"
+    },
+    {
+      "base_en": "can1",
+      "target_word": "peut1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cannot",
+      "target_word": "ne peux pas",
+      "pos": "verb"
+    },
+    {
+      "base_en": "capital",
+      "target_word": "capitale",
+      "pos": "noun"
+    },
+    {
+      "base_en": "car",
+      "target_word": "voiture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "card",
+      "target_word": "carte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "career",
+      "target_word": "carrière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "carrot",
+      "target_word": "carotte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "carry",
+      "target_word": "porter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cat",
+      "target_word": "chat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "CD",
+      "target_word": "CD",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cent",
+      "target_word": "cent",
+      "pos": "noun"
+    },
+    {
+      "base_en": "centre",
+      "target_word": "centre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "century",
+      "target_word": "siècle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chair",
+      "target_word": "chaise",
+      "pos": "noun"
+    },
+    {
+      "base_en": "change",
+      "target_word": "changement",
+      "pos": "verb"
+    },
+    {
+      "base_en": "chart",
+      "target_word": "graphique",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cheap",
+      "target_word": "pas cher",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "check",
+      "target_word": "vérifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cheese",
+      "target_word": "fromage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chicken",
+      "target_word": "poulet",
+      "pos": "noun"
+    },
+    {
+      "base_en": "child",
+      "target_word": "enfant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chocolate",
+      "target_word": "chocolat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "choose",
+      "target_word": "choisir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cinema",
+      "target_word": "cinéma",
+      "pos": "noun"
+    },
+    {
+      "base_en": "city",
+      "target_word": "ville",
+      "pos": "noun"
+    },
+    {
+      "base_en": "class",
+      "target_word": "classe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "classroom",
+      "target_word": "salle de classe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "clean",
+      "target_word": "nettoyer",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "climb",
+      "target_word": "grimper",
+      "pos": "verb"
+    },
+    {
+      "base_en": "clock",
+      "target_word": "horloge",
+      "pos": "noun"
+    },
+    {
+      "base_en": "close1",
+      "target_word": "fermer1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "clothes",
+      "target_word": "vêtements",
+      "pos": "noun"
+    },
+    {
+      "base_en": "club",
+      "target_word": "club",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coat",
+      "target_word": "manteau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coffee",
+      "target_word": "café",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cold",
+      "target_word": "froid",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "college",
+      "target_word": "collège",
+      "pos": "noun"
+    },
+    {
+      "base_en": "colour",
+      "target_word": "couleur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "come",
+      "target_word": "viens",
+      "pos": "verb"
+    },
+    {
+      "base_en": "common",
+      "target_word": "commun",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "company",
+      "target_word": "entreprise",
+      "pos": "noun"
+    },
+    {
+      "base_en": "compare",
+      "target_word": "comparer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "complete",
+      "target_word": "complet",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "computer",
+      "target_word": "ordinateur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "concert",
+      "target_word": "concert",
+      "pos": "noun"
+    },
+    {
+      "base_en": "conversation",
+      "target_word": "conversation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cook",
+      "target_word": "cuisinier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cooking",
+      "target_word": "cuisine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cool",
+      "target_word": "cool",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "correct",
+      "target_word": "correct",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cost",
+      "target_word": "coût",
+      "pos": "noun"
+    },
+    {
+      "base_en": "could",
+      "target_word": "pourrait",
+      "pos": "verb"
+    },
+    {
+      "base_en": "country",
+      "target_word": "pays",
+      "pos": "noun"
+    },
+    {
+      "base_en": "course",
+      "target_word": "cours",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cousin",
+      "target_word": "cousine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cow",
+      "target_word": "vache",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cream",
+      "target_word": "crème",
+      "pos": "noun"
+    },
+    {
+      "base_en": "create",
+      "target_word": "créer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "culture",
+      "target_word": "culturelle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cup",
+      "target_word": "tasse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "customer",
+      "target_word": "client",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cut",
+      "target_word": "couper",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dad",
+      "target_word": "papa",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dance",
+      "target_word": "danse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dancer",
+      "target_word": "danseur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dancing",
+      "target_word": "danser",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dangerous",
+      "target_word": "dangereux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "dark",
+      "target_word": "sombre",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "date",
+      "target_word": "rendez-vous",
+      "pos": "noun"
+    },
+    {
+      "base_en": "daughter",
+      "target_word": "fille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "day",
+      "target_word": "jour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dear",
+      "target_word": "cher",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "December",
+      "target_word": "décembre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "decide",
+      "target_word": "décider",
+      "pos": "verb"
+    },
+    {
+      "base_en": "delicious",
+      "target_word": "délicieux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "describe",
+      "target_word": "décrire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "description",
+      "target_word": "descriptif",
+      "pos": "noun"
+    },
+    {
+      "base_en": "design",
+      "target_word": "conception",
+      "pos": "noun"
+    },
+    {
+      "base_en": "desk",
+      "target_word": "bureau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "detail",
+      "target_word": "détail",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dialogue",
+      "target_word": "dialoguer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dictionary",
+      "target_word": "dictionnaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "die",
+      "target_word": "mourir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "diet",
+      "target_word": "régime",
+      "pos": "noun"
+    },
+    {
+      "base_en": "difference",
+      "target_word": "différence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "different",
+      "target_word": "différent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "difficult",
+      "target_word": "difficile",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "dinner",
+      "target_word": "dîner",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dirty",
+      "target_word": "sale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "discuss",
+      "target_word": "discuter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dish",
+      "target_word": "plat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "do1",
+      "target_word": "faire1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "doctor",
+      "target_word": "docteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dog",
+      "target_word": "chien",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dollar",
+      "target_word": "dollars",
+      "pos": "noun"
+    },
+    {
+      "base_en": "door",
+      "target_word": "porte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "down",
+      "target_word": "vers le bas",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "downstairs",
+      "target_word": "en bas",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "draw",
+      "target_word": "dessiner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dress",
+      "target_word": "robe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drink",
+      "target_word": "boire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drive",
+      "target_word": "conduire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "driver",
+      "target_word": "conducteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "during",
+      "target_word": "pendant",
+      "pos": "other"
+    },
+    {
+      "base_en": "DVD",
+      "target_word": "DVD",
+      "pos": "noun"
+    },
+    {
+      "base_en": "each",
+      "target_word": "chacun",
+      "pos": "other"
+    },
+    {
+      "base_en": "ear",
+      "target_word": "oreille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "early",
+      "target_word": "tôt",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "east",
+      "target_word": "est",
+      "pos": "noun"
+    },
+    {
+      "base_en": "easy",
+      "target_word": "facile",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "eat",
+      "target_word": "manger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "egg",
+      "target_word": "oeuf",
+      "pos": "noun"
+    },
+    {
+      "base_en": "eight number",
+      "target_word": "chiffre huit",
+      "pos": "other"
+    },
+    {
+      "base_en": "eighteen number",
+      "target_word": "numéro dix-huit",
+      "pos": "other"
+    },
+    {
+      "base_en": "eighty number",
+      "target_word": "nombre quatre vingt",
+      "pos": "other"
+    },
+    {
+      "base_en": "elephant",
+      "target_word": "éléphant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "eleven number",
+      "target_word": "numéro onze",
+      "pos": "other"
+    },
+    {
+      "base_en": "else",
+      "target_word": "sinon",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "email",
+      "target_word": "email",
+      "pos": "noun"
+    },
+    {
+      "base_en": "end",
+      "target_word": "fin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "enjoy",
+      "target_word": "profiter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "enough",
+      "target_word": "assez",
+      "pos": "other"
+    },
+    {
+      "base_en": "euro",
+      "target_word": "euros",
+      "pos": "noun"
+    },
+    {
+      "base_en": "even",
+      "target_word": "même",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "evening",
+      "target_word": "soirée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "event",
+      "target_word": "événement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ever",
+      "target_word": "jamais",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "every",
+      "target_word": "chaque",
+      "pos": "other"
+    },
+    {
+      "base_en": "everybody",
+      "target_word": "tout le monde",
+      "pos": "other"
+    },
+    {
+      "base_en": "everyone",
+      "target_word": "tout le monde",
+      "pos": "other"
+    },
+    {
+      "base_en": "everything",
+      "target_word": "tout",
+      "pos": "other"
+    },
+    {
+      "base_en": "exam",
+      "target_word": "examen",
+      "pos": "noun"
+    },
+    {
+      "base_en": "example",
+      "target_word": "exemple",
+      "pos": "noun"
+    },
+    {
+      "base_en": "excited",
+      "target_word": "excité",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "exciting",
+      "target_word": "passionnant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "exercise",
+      "target_word": "exercice",
+      "pos": "noun"
+    },
+    {
+      "base_en": "expensive",
+      "target_word": "cher",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "explain",
+      "target_word": "expliquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "extra",
+      "target_word": "supplémentaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "eye",
+      "target_word": "oeil",
+      "pos": "noun"
+    },
+    {
+      "base_en": "face",
+      "target_word": "visage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fact",
+      "target_word": "fait",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fall",
+      "target_word": "tomber",
+      "pos": "verb"
+    },
+    {
+      "base_en": "false",
+      "target_word": "faux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "family",
+      "target_word": "famille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "famous",
+      "target_word": "célèbre",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fantastic",
+      "target_word": "fantastique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "far",
+      "target_word": "loin",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "farm",
+      "target_word": "ferme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "farmer",
+      "target_word": "agriculteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fast",
+      "target_word": "rapide",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fat",
+      "target_word": "graisse",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "father",
+      "target_word": "père",
+      "pos": "noun"
+    },
+    {
+      "base_en": "favourite",
+      "target_word": "préféré",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "February",
+      "target_word": "Février",
+      "pos": "noun"
+    },
+    {
+      "base_en": "feel",
+      "target_word": "sentir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "feeling",
+      "target_word": "sentiment",
+      "pos": "noun"
+    },
+    {
+      "base_en": "festival",
+      "target_word": "fête",
+      "pos": "noun"
+    },
+    {
+      "base_en": "few",
+      "target_word": "peu",
+      "pos": "other"
+    },
+    {
+      "base_en": "fifteen number",
+      "target_word": "chiffre quinze",
+      "pos": "other"
+    },
+    {
+      "base_en": "fifth number",
+      "target_word": "cinquième numéro",
+      "pos": "other"
+    },
+    {
+      "base_en": "fifty number",
+      "target_word": "nombre cinquante",
+      "pos": "other"
+    },
+    {
+      "base_en": "fill",
+      "target_word": "remplir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "film",
+      "target_word": "cinéma",
+      "pos": "noun"
+    },
+    {
+      "base_en": "final",
+      "target_word": "finale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "find",
+      "target_word": "trouver",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fine",
+      "target_word": "bien",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "finish",
+      "target_word": "terminer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fire",
+      "target_word": "feu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "first",
+      "target_word": "d'abord",
+      "pos": "other"
+    },
+    {
+      "base_en": "fish",
+      "target_word": "poisson",
+      "pos": "noun"
+    },
+    {
+      "base_en": "five number",
+      "target_word": "numéro cinq",
+      "pos": "other"
+    },
+    {
+      "base_en": "flat",
+      "target_word": "plat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flight",
+      "target_word": "vol",
+      "pos": "noun"
+    },
+    {
+      "base_en": "floor",
+      "target_word": "sol",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flower",
+      "target_word": "fleur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fly",
+      "target_word": "voler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "follow",
+      "target_word": "suivre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "food",
+      "target_word": "nourriture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "foot",
+      "target_word": "pied",
+      "pos": "noun"
+    },
+    {
+      "base_en": "football",
+      "target_word": "football",
+      "pos": "noun"
+    },
+    {
+      "base_en": "for",
+      "target_word": "pour",
+      "pos": "other"
+    },
+    {
+      "base_en": "forget",
+      "target_word": "oublier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "form",
+      "target_word": "formulaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "forty number",
+      "target_word": "nombre quarante",
+      "pos": "other"
+    },
+    {
+      "base_en": "four number",
+      "target_word": "quatre nombre",
+      "pos": "other"
+    },
+    {
+      "base_en": "fourteen number",
+      "target_word": "quatorze nombre",
+      "pos": "other"
+    },
+    {
+      "base_en": "fourth number",
+      "target_word": "quatrième numéro",
+      "pos": "other"
+    },
+    {
+      "base_en": "free",
+      "target_word": "gratuit",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "Friday",
+      "target_word": "vendredi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "friend",
+      "target_word": "ami",
+      "pos": "noun"
+    },
+    {
+      "base_en": "friendly",
+      "target_word": "amical",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "from",
+      "target_word": "de",
+      "pos": "other"
+    },
+    {
+      "base_en": "front",
+      "target_word": "avant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fruit",
+      "target_word": "fruits",
+      "pos": "noun"
+    },
+    {
+      "base_en": "full",
+      "target_word": "plein",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fun",
+      "target_word": "amusant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "funny",
+      "target_word": "drôle",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "future",
+      "target_word": "avenir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "game",
+      "target_word": "jeu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "garden",
+      "target_word": "jardin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "geography",
+      "target_word": "géographie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "get",
+      "target_word": "obtenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "girl",
+      "target_word": "fille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "girlfriend",
+      "target_word": "petite amie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "give",
+      "target_word": "donner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "glass",
+      "target_word": "verre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "go",
+      "target_word": "aller",
+      "pos": "verb"
+    },
+    {
+      "base_en": "good",
+      "target_word": "bien",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "goodbye",
+      "target_word": "au revoir",
+      "pos": "other"
+    },
+    {
+      "base_en": "grandfather",
+      "target_word": "grand-père",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grandmother",
+      "target_word": "grand-mère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grandparent",
+      "target_word": "grand-parent",
+      "pos": "noun"
+    },
+    {
+      "base_en": "great",
+      "target_word": "super",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "green",
+      "target_word": "vert",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "grey",
+      "target_word": "gris",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "group",
+      "target_word": "groupe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grow",
+      "target_word": "grandir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "guess",
+      "target_word": "devine",
+      "pos": "verb"
+    },
+    {
+      "base_en": "guitar",
+      "target_word": "guitare",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gym",
+      "target_word": "salle de gym",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hair",
+      "target_word": "cheveux",
+      "pos": "noun"
+    },
+    {
+      "base_en": "half",
+      "target_word": "la moitié",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hand",
+      "target_word": "main",
+      "pos": "noun"
+    },
+    {
+      "base_en": "happen",
+      "target_word": "arriver",
+      "pos": "verb"
+    },
+    {
+      "base_en": "happy",
+      "target_word": "heureux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hard",
+      "target_word": "dur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hat",
+      "target_word": "chapeau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hate",
+      "target_word": "détester",
+      "pos": "verb"
+    },
+    {
+      "base_en": "have",
+      "target_word": "avoir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "have to",
+      "target_word": "je dois",
+      "pos": "verb"
+    },
+    {
+      "base_en": "he",
+      "target_word": "il",
+      "pos": "other"
+    },
+    {
+      "base_en": "head",
+      "target_word": "tête",
+      "pos": "noun"
+    },
+    {
+      "base_en": "health",
+      "target_word": "santé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "healthy",
+      "target_word": "en bonne santé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hear",
+      "target_word": "entendre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "hello",
+      "target_word": "bonjour",
+      "pos": "other"
+    },
+    {
+      "base_en": "help",
+      "target_word": "aide",
+      "pos": "verb"
+    },
+    {
+      "base_en": "her",
+      "target_word": "elle",
+      "pos": "other"
+    },
+    {
+      "base_en": "here",
+      "target_word": "ici",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "hey",
+      "target_word": "hé",
+      "pos": "other"
+    },
+    {
+      "base_en": "hi",
+      "target_word": "salut",
+      "pos": "other"
+    },
+    {
+      "base_en": "high",
+      "target_word": "haut",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "him",
+      "target_word": "lui",
+      "pos": "other"
+    },
+    {
+      "base_en": "his",
+      "target_word": "son",
+      "pos": "other"
+    },
+    {
+      "base_en": "history",
+      "target_word": "histoire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hobby",
+      "target_word": "passe-temps",
+      "pos": "noun"
+    },
+    {
+      "base_en": "holiday",
+      "target_word": "vacances",
+      "pos": "noun"
+    },
+    {
+      "base_en": "home",
+      "target_word": "maison",
+      "pos": "noun"
+    },
+    {
+      "base_en": "homework",
+      "target_word": "devoirs",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hope",
+      "target_word": "j'espère",
+      "pos": "verb"
+    },
+    {
+      "base_en": "horse",
+      "target_word": "cheval",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hospital",
+      "target_word": "hôpital",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hot",
+      "target_word": "chaud",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hotel",
+      "target_word": "hôtel",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hour",
+      "target_word": "heure",
+      "pos": "noun"
+    },
+    {
+      "base_en": "house",
+      "target_word": "maison",
+      "pos": "noun"
+    },
+    {
+      "base_en": "how",
+      "target_word": "comment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "however",
+      "target_word": "cependant",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "hundred number",
+      "target_word": "nombre de centaines",
+      "pos": "other"
+    },
+    {
+      "base_en": "hungry",
+      "target_word": "faim",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "husband",
+      "target_word": "mari",
+      "pos": "noun"
+    },
+    {
+      "base_en": "I",
+      "target_word": "Je",
+      "pos": "other"
+    },
+    {
+      "base_en": "ice",
+      "target_word": "glace",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ice cream",
+      "target_word": "glace",
+      "pos": "noun"
+    },
+    {
+      "base_en": "idea",
+      "target_word": "idée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "if",
+      "target_word": "si",
+      "pos": "other"
+    },
+    {
+      "base_en": "imagine",
+      "target_word": "imaginer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "important",
+      "target_word": "important",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "improve",
+      "target_word": "améliorer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "in",
+      "target_word": "dans",
+      "pos": "other"
+    },
+    {
+      "base_en": "include",
+      "target_word": "inclure",
+      "pos": "verb"
+    },
+    {
+      "base_en": "information",
+      "target_word": "informations",
+      "pos": "noun"
+    },
+    {
+      "base_en": "interest",
+      "target_word": "intérêt",
+      "pos": "noun"
+    },
+    {
+      "base_en": "interested",
+      "target_word": "intéressé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "interesting",
+      "target_word": "intéressant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "internet",
+      "target_word": "Internet",
+      "pos": "noun"
+    },
+    {
+      "base_en": "interview",
+      "target_word": "entretien",
+      "pos": "noun"
+    },
+    {
+      "base_en": "into",
+      "target_word": "dans",
+      "pos": "other"
+    },
+    {
+      "base_en": "introduce",
+      "target_word": "présenter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "island",
+      "target_word": "île",
+      "pos": "noun"
+    },
+    {
+      "base_en": "it",
+      "target_word": "il",
+      "pos": "other"
+    },
+    {
+      "base_en": "its",
+      "target_word": "c'est",
+      "pos": "other"
+    },
+    {
+      "base_en": "jacket",
+      "target_word": "veste",
+      "pos": "noun"
+    },
+    {
+      "base_en": "January",
+      "target_word": "janvier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "jeans",
+      "target_word": "jean",
+      "pos": "noun"
+    },
+    {
+      "base_en": "job",
+      "target_word": "travail",
+      "pos": "noun"
+    },
+    {
+      "base_en": "join",
+      "target_word": "rejoindre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "journey",
+      "target_word": "voyage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "juice",
+      "target_word": "jus",
+      "pos": "noun"
+    },
+    {
+      "base_en": "July",
+      "target_word": "juillet",
+      "pos": "noun"
+    },
+    {
+      "base_en": "June",
+      "target_word": "juin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "just",
+      "target_word": "juste",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "keep",
+      "target_word": "garder",
+      "pos": "verb"
+    },
+    {
+      "base_en": "key",
+      "target_word": "clé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "kilometre",
+      "target_word": "kilomètre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "kind",
+      "target_word": "gentil",
+      "pos": "noun"
+    },
+    {
+      "base_en": "kitchen",
+      "target_word": "cuisine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "know",
+      "target_word": "sais",
+      "pos": "verb"
+    },
+    {
+      "base_en": "land",
+      "target_word": "terre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "language",
+      "target_word": "langue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "large",
+      "target_word": "grand",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "last1",
+      "target_word": "dernier1",
+      "pos": "other"
+    },
+    {
+      "base_en": "late",
+      "target_word": "en retard",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "later",
+      "target_word": "plus tard",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "laugh",
+      "target_word": "rire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "learn",
+      "target_word": "apprendre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "leave",
+      "target_word": "partir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "left",
+      "target_word": "à gauche",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "leg",
+      "target_word": "jambe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lesson",
+      "target_word": "leçon",
+      "pos": "noun"
+    },
+    {
+      "base_en": "let",
+      "target_word": "laisser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "letter",
+      "target_word": "lettre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "library",
+      "target_word": "bibliothèque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lie1",
+      "target_word": "mensonge1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "life",
+      "target_word": "la vie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "light",
+      "target_word": "lumière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "adj.",
+      "target_word": "adj.",
+      "pos": "other"
+    },
+    {
+      "base_en": "like",
+      "target_word": "comme",
+      "pos": "other"
+    },
+    {
+      "base_en": "like",
+      "target_word": "comme",
+      "pos": "verb"
+    },
+    {
+      "base_en": "line",
+      "target_word": "ligne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lion",
+      "target_word": "lion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "list",
+      "target_word": "liste",
+      "pos": "noun"
+    },
+    {
+      "base_en": "listen",
+      "target_word": "écoute",
+      "pos": "verb"
+    },
+    {
+      "base_en": "little",
+      "target_word": "peu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "live1",
+      "target_word": "vivre1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "local",
+      "target_word": "locale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "long1",
+      "target_word": "long1",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "look",
+      "target_word": "regarde",
+      "pos": "verb"
+    },
+    {
+      "base_en": "lose",
+      "target_word": "perdre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "lot",
+      "target_word": "beaucoup",
+      "pos": "other"
+    },
+    {
+      "base_en": "love",
+      "target_word": "amour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lunch",
+      "target_word": "déjeuner",
+      "pos": "noun"
+    },
+    {
+      "base_en": "machine",
+      "target_word": "machine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "magazine",
+      "target_word": "magazine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "main",
+      "target_word": "principal",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "make",
+      "target_word": "faire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "man",
+      "target_word": "homme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "many",
+      "target_word": "beaucoup",
+      "pos": "other"
+    },
+    {
+      "base_en": "map",
+      "target_word": "carte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "March",
+      "target_word": "Mars",
+      "pos": "noun"
+    },
+    {
+      "base_en": "market",
+      "target_word": "marché",
+      "pos": "noun"
+    },
+    {
+      "base_en": "married",
+      "target_word": "marié",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "match",
+      "target_word": "correspondre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "May",
+      "target_word": "mai",
+      "pos": "noun"
+    },
+    {
+      "base_en": "maybe",
+      "target_word": "peut-être",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "me",
+      "target_word": "moi",
+      "pos": "other"
+    },
+    {
+      "base_en": "meal",
+      "target_word": "repas",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mean",
+      "target_word": "signifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "meaning",
+      "target_word": "sens",
+      "pos": "noun"
+    },
+    {
+      "base_en": "meat",
+      "target_word": "viande",
+      "pos": "noun"
+    },
+    {
+      "base_en": "meet",
+      "target_word": "rencontrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "meeting",
+      "target_word": "réunion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "member",
+      "target_word": "membre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "menu",
+      "target_word": "menus",
+      "pos": "noun"
+    },
+    {
+      "base_en": "message",
+      "target_word": "message",
+      "pos": "noun"
+    },
+    {
+      "base_en": "metre",
+      "target_word": "mètre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "midnight",
+      "target_word": "minuit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mile",
+      "target_word": "mille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "milk",
+      "target_word": "lait",
+      "pos": "noun"
+    },
+    {
+      "base_en": "million number",
+      "target_word": "nombre de millions",
+      "pos": "other"
+    },
+    {
+      "base_en": "minute1",
+      "target_word": "minute1",
+      "pos": "noun"
+    },
+    {
+      "base_en": "miss",
+      "target_word": "mademoiselle",
+      "pos": "verb"
+    },
+    {
+      "base_en": "mistake",
+      "target_word": "erreur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "model",
+      "target_word": "modèle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "modern",
+      "target_word": "moderne",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "moment",
+      "target_word": "moment",
+      "pos": "noun"
+    },
+    {
+      "base_en": "Monday",
+      "target_word": "lundi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "money",
+      "target_word": "argent",
+      "pos": "noun"
+    },
+    {
+      "base_en": "month",
+      "target_word": "mois",
+      "pos": "noun"
+    },
+    {
+      "base_en": "more",
+      "target_word": "plus",
+      "pos": "other"
+    },
+    {
+      "base_en": "morning",
+      "target_word": "matin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "most",
+      "target_word": "la plupart",
+      "pos": "other"
+    },
+    {
+      "base_en": "mother",
+      "target_word": "mère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mountain",
+      "target_word": "montagne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mouse",
+      "target_word": "souris",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mouth",
+      "target_word": "bouche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "move",
+      "target_word": "bouger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "movie",
+      "target_word": "film",
+      "pos": "noun"
+    },
+    {
+      "base_en": "much",
+      "target_word": "beaucoup",
+      "pos": "other"
+    },
+    {
+      "base_en": "mum",
+      "target_word": "maman",
+      "pos": "noun"
+    }
+  ],
+  "A2": [
+    {
+      "base_en": "ability",
+      "target_word": "capacité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "able",
+      "target_word": "capable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "abroad",
+      "target_word": "à l'étranger",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "accept",
+      "target_word": "accepter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "accident",
+      "target_word": "accident",
+      "pos": "noun"
+    },
+    {
+      "base_en": "according to",
+      "target_word": "d'après",
+      "pos": "other"
+    },
+    {
+      "base_en": "achieve",
+      "target_word": "atteindre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "act",
+      "target_word": "agir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "active",
+      "target_word": "actif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "actually",
+      "target_word": "en fait",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "adult",
+      "target_word": "adulte",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "advantage",
+      "target_word": "avantage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "adventure",
+      "target_word": "aventure",
+      "pos": "noun"
+    },
+    {
+      "base_en": "advertise",
+      "target_word": "faire de la publicité",
+      "pos": "verb"
+    },
+    {
+      "base_en": "advertisement",
+      "target_word": "publicité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "advertising",
+      "target_word": "publicité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "affect",
+      "target_word": "affecter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "after",
+      "target_word": "après",
+      "pos": "other"
+    },
+    {
+      "base_en": "against",
+      "target_word": "contre",
+      "pos": "other"
+    },
+    {
+      "base_en": "ah",
+      "target_word": "ah",
+      "pos": "other"
+    },
+    {
+      "base_en": "airline",
+      "target_word": "compagnie aérienne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "alive",
+      "target_word": "vivant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "all",
+      "target_word": "tout",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "all right",
+      "target_word": "très bien",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "allow",
+      "target_word": "permettre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "almost",
+      "target_word": "presque",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "alone",
+      "target_word": "seul",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "along",
+      "target_word": "le long",
+      "pos": "other"
+    },
+    {
+      "base_en": "already",
+      "target_word": "déjà",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "alternative",
+      "target_word": "alternative",
+      "pos": "noun"
+    },
+    {
+      "base_en": "although",
+      "target_word": "bien que",
+      "pos": "other"
+    },
+    {
+      "base_en": "among",
+      "target_word": "parmi",
+      "pos": "other"
+    },
+    {
+      "base_en": "amount",
+      "target_word": "montant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ancient",
+      "target_word": "ancien",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "ankle",
+      "target_word": "cheville",
+      "pos": "noun"
+    },
+    {
+      "base_en": "any",
+      "target_word": "n'importe quel",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "anybody",
+      "target_word": "n'importe qui",
+      "pos": "other"
+    },
+    {
+      "base_en": "any more",
+      "target_word": "plus",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "anyway",
+      "target_word": "de toute façon",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "anywhere",
+      "target_word": "n'importe où",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "app",
+      "target_word": "application",
+      "pos": "noun"
+    },
+    {
+      "base_en": "appear",
+      "target_word": "apparaître",
+      "pos": "verb"
+    },
+    {
+      "base_en": "appearance",
+      "target_word": "apparence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "apply",
+      "target_word": "postuler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "architect",
+      "target_word": "architecte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "architecture",
+      "target_word": "architecture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "argue",
+      "target_word": "argumenter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "argument",
+      "target_word": "argument",
+      "pos": "noun"
+    },
+    {
+      "base_en": "army",
+      "target_word": "armée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "arrange",
+      "target_word": "arranger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "arrangement",
+      "target_word": "disposition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "as",
+      "target_word": "comme",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "asleep",
+      "target_word": "endormi",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "assistant",
+      "target_word": "assistant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "athlete",
+      "target_word": "athlète",
+      "pos": "noun"
+    },
+    {
+      "base_en": "attack",
+      "target_word": "attaque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "attend",
+      "target_word": "assister",
+      "pos": "verb"
+    },
+    {
+      "base_en": "attention",
+      "target_word": "attention",
+      "pos": "noun"
+    },
+    {
+      "base_en": "attractive",
+      "target_word": "attrayant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "audience",
+      "target_word": "public",
+      "pos": "noun"
+    },
+    {
+      "base_en": "author",
+      "target_word": "auteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "available",
+      "target_word": "disponible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "average",
+      "target_word": "moyenne",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "avoid",
+      "target_word": "éviter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "award",
+      "target_word": "récompense",
+      "pos": "noun"
+    },
+    {
+      "base_en": "awful",
+      "target_word": "horrible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "back",
+      "target_word": "retour",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "background",
+      "target_word": "fond",
+      "pos": "noun"
+    },
+    {
+      "base_en": "badly",
+      "target_word": "mal",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "bar",
+      "target_word": "barre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "baseball",
+      "target_word": "base-ball",
+      "pos": "noun"
+    },
+    {
+      "base_en": "based",
+      "target_word": "basé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "basketball",
+      "target_word": "basket-ball",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bean",
+      "target_word": "haricot",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bear",
+      "target_word": "ours",
+      "pos": "noun"
+    },
+    {
+      "base_en": "beat",
+      "target_word": "battre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "beef",
+      "target_word": "boeuf",
+      "pos": "noun"
+    },
+    {
+      "base_en": "before",
+      "target_word": "avant",
+      "pos": "other"
+    },
+    {
+      "base_en": "behave",
+      "target_word": "se comporter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "behaviour",
+      "target_word": "comportement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "belong",
+      "target_word": "appartenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "belt",
+      "target_word": "ceinture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "benefit",
+      "target_word": "bénéfice",
+      "pos": "noun"
+    },
+    {
+      "base_en": "best",
+      "target_word": "meilleur",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "better",
+      "target_word": "mieux",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "between",
+      "target_word": "entre",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "billion number",
+      "target_word": "nombre de milliards",
+      "pos": "other"
+    },
+    {
+      "base_en": "bin",
+      "target_word": "poubelle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "biology",
+      "target_word": "biologie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "birth",
+      "target_word": "naissance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "biscuit",
+      "target_word": "biscuit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bit",
+      "target_word": "peu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "blank",
+      "target_word": "vide",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "blood",
+      "target_word": "du sang",
+      "pos": "noun"
+    },
+    {
+      "base_en": "blow",
+      "target_word": "coup",
+      "pos": "verb"
+    },
+    {
+      "base_en": "board",
+      "target_word": "planche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "boil",
+      "target_word": "faire bouillir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bone",
+      "target_word": "os",
+      "pos": "noun"
+    },
+    {
+      "base_en": "book",
+      "target_word": "livre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "borrow",
+      "target_word": "emprunter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "boss",
+      "target_word": "patron",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bottom",
+      "target_word": "en bas",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bowl",
+      "target_word": "bol",
+      "pos": "noun"
+    },
+    {
+      "base_en": "brain",
+      "target_word": "cerveau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bridge",
+      "target_word": "pont",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bright",
+      "target_word": "brillant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "brilliant",
+      "target_word": "brillant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "broken",
+      "target_word": "cassé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "brush",
+      "target_word": "brosse",
+      "pos": "verb"
+    },
+    {
+      "base_en": "burn",
+      "target_word": "brûler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "businessman",
+      "target_word": "homme d'affaires",
+      "pos": "noun"
+    },
+    {
+      "base_en": "button",
+      "target_word": "bouton",
+      "pos": "noun"
+    },
+    {
+      "base_en": "camp",
+      "target_word": "camper",
+      "pos": "noun"
+    },
+    {
+      "base_en": "camping",
+      "target_word": "camper",
+      "pos": "noun"
+    },
+    {
+      "base_en": "can2",
+      "target_word": "can2",
+      "pos": "noun"
+    },
+    {
+      "base_en": "care",
+      "target_word": "prendre soin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "careful",
+      "target_word": "prudent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "carefully",
+      "target_word": "soigneusement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "carpet",
+      "target_word": "tapis",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cartoon",
+      "target_word": "dessin animé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "case",
+      "target_word": "cas",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cash",
+      "target_word": "en espèces",
+      "pos": "noun"
+    },
+    {
+      "base_en": "castle",
+      "target_word": "château",
+      "pos": "noun"
+    },
+    {
+      "base_en": "catch",
+      "target_word": "attraper",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cause",
+      "target_word": "cause",
+      "pos": "noun"
+    },
+    {
+      "base_en": "celebrate",
+      "target_word": "célébrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "celebrity",
+      "target_word": "célébrité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "certain",
+      "target_word": "certain",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "certainly",
+      "target_word": "certainement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "chance",
+      "target_word": "chance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "character",
+      "target_word": "personnage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "charity",
+      "target_word": "charité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chat",
+      "target_word": "discuter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "check",
+      "target_word": "vérifier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chef",
+      "target_word": "chef cuisinier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chemistry",
+      "target_word": "chimie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chip",
+      "target_word": "puce",
+      "pos": "noun"
+    },
+    {
+      "base_en": "choice",
+      "target_word": "choix",
+      "pos": "noun"
+    },
+    {
+      "base_en": "church",
+      "target_word": "église",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cigarette",
+      "target_word": "cigarette",
+      "pos": "noun"
+    },
+    {
+      "base_en": "circle",
+      "target_word": "cercle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "classical",
+      "target_word": "classique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "clear",
+      "target_word": "clair",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "clearly",
+      "target_word": "clairement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "clever",
+      "target_word": "intelligent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "climate",
+      "target_word": "climat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "close2",
+      "target_word": "fermer2",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "closed",
+      "target_word": "fermé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "clothing",
+      "target_word": "vêtements",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cloud",
+      "target_word": "nuage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coach",
+      "target_word": "entraîneur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coast",
+      "target_word": "côte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "code",
+      "target_word": "coder",
+      "pos": "noun"
+    },
+    {
+      "base_en": "colleague",
+      "target_word": "collègue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "collect",
+      "target_word": "recueillir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "column",
+      "target_word": "colonne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "comedy",
+      "target_word": "comédie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "comfortable",
+      "target_word": "confortable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "comment",
+      "target_word": "commentaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "communicate",
+      "target_word": "communiquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "community",
+      "target_word": "communauté",
+      "pos": "noun"
+    },
+    {
+      "base_en": "compete",
+      "target_word": "concourir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "competition",
+      "target_word": "compétition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "complain",
+      "target_word": "se plaindre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "completely",
+      "target_word": "complètement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "condition",
+      "target_word": "état",
+      "pos": "noun"
+    },
+    {
+      "base_en": "conference",
+      "target_word": "conférence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "connect",
+      "target_word": "connecter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "connected",
+      "target_word": "connecté",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "consider",
+      "target_word": "considérer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "contain",
+      "target_word": "contenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "context",
+      "target_word": "contexte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "continent",
+      "target_word": "continent",
+      "pos": "noun"
+    },
+    {
+      "base_en": "continue",
+      "target_word": "continuer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "control",
+      "target_word": "contrôle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cook",
+      "target_word": "cuisinier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cooker",
+      "target_word": "cuisinière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "copy",
+      "target_word": "copie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "corner",
+      "target_word": "coin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "correctly",
+      "target_word": "correctement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "count",
+      "target_word": "compter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "couple",
+      "target_word": "couple",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cover",
+      "target_word": "couverture",
+      "pos": "verb"
+    },
+    {
+      "base_en": "crazy",
+      "target_word": "fou",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "creative",
+      "target_word": "créatif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "credit",
+      "target_word": "crédit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "crime",
+      "target_word": "crime",
+      "pos": "noun"
+    },
+    {
+      "base_en": "criminal",
+      "target_word": "criminel",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cross",
+      "target_word": "traverser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "crowd",
+      "target_word": "foule",
+      "pos": "noun"
+    },
+    {
+      "base_en": "crowded",
+      "target_word": "bondé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cry",
+      "target_word": "pleurer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cupboard",
+      "target_word": "placard",
+      "pos": "noun"
+    },
+    {
+      "base_en": "curly",
+      "target_word": "frisé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cycle",
+      "target_word": "cycle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "daily",
+      "target_word": "quotidiennement",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "danger",
+      "target_word": "danger",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dark",
+      "target_word": "sombre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "data",
+      "target_word": "données",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dead",
+      "target_word": "mort",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "deal",
+      "target_word": "affaire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dear",
+      "target_word": "cher",
+      "pos": "other"
+    },
+    {
+      "base_en": "death",
+      "target_word": "la mort",
+      "pos": "noun"
+    },
+    {
+      "base_en": "decision",
+      "target_word": "décision",
+      "pos": "noun"
+    },
+    {
+      "base_en": "deep",
+      "target_word": "profond",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "definitely",
+      "target_word": "certainement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "degree",
+      "target_word": "diplôme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dentist",
+      "target_word": "dentiste",
+      "pos": "noun"
+    },
+    {
+      "base_en": "department",
+      "target_word": "département",
+      "pos": "noun"
+    },
+    {
+      "base_en": "depend",
+      "target_word": "dépendre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "desert",
+      "target_word": "désert",
+      "pos": "noun"
+    },
+    {
+      "base_en": "designer",
+      "target_word": "concepteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "destroy",
+      "target_word": "détruire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "detective",
+      "target_word": "détective",
+      "pos": "noun"
+    },
+    {
+      "base_en": "develop",
+      "target_word": "développer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "device",
+      "target_word": "appareil",
+      "pos": "noun"
+    },
+    {
+      "base_en": "diary",
+      "target_word": "journal intime",
+      "pos": "noun"
+    },
+    {
+      "base_en": "differently",
+      "target_word": "différemment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "digital",
+      "target_word": "numérique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "direct",
+      "target_word": "direct",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "direction",
+      "target_word": "direction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "director",
+      "target_word": "réalisateur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "disagree",
+      "target_word": "pas d'accord",
+      "pos": "verb"
+    },
+    {
+      "base_en": "disappear",
+      "target_word": "disparaître",
+      "pos": "verb"
+    },
+    {
+      "base_en": "disaster",
+      "target_word": "catastrophe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "discover",
+      "target_word": "découvrir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "discovery",
+      "target_word": "découverte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "discussion",
+      "target_word": "discussion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "disease",
+      "target_word": "maladie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "distance",
+      "target_word": "distance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "divorced",
+      "target_word": "divorcé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "document",
+      "target_word": "documents",
+      "pos": "noun"
+    },
+    {
+      "base_en": "double",
+      "target_word": "doubler",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "download",
+      "target_word": "télécharger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "downstairs",
+      "target_word": "en bas",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "drama",
+      "target_word": "drame",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drawing",
+      "target_word": "dessin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dream",
+      "target_word": "rêve",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drive",
+      "target_word": "conduire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "driving",
+      "target_word": "conduire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drop",
+      "target_word": "laisser tomber",
+      "pos": "verb"
+    },
+    {
+      "base_en": "drug",
+      "target_word": "drogue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dry",
+      "target_word": "sec",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "earn",
+      "target_word": "gagner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "earth",
+      "target_word": "terre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "easily",
+      "target_word": "facilement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "education",
+      "target_word": "éducation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "effect",
+      "target_word": "effet",
+      "pos": "noun"
+    },
+    {
+      "base_en": "either",
+      "target_word": "soit",
+      "pos": "other"
+    },
+    {
+      "base_en": "electric",
+      "target_word": "électrique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "electrical",
+      "target_word": "électrique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "electricity",
+      "target_word": "électricité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "electronic",
+      "target_word": "électronique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "employ",
+      "target_word": "employer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "employee",
+      "target_word": "employé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "employer",
+      "target_word": "employeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "empty",
+      "target_word": "vide",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "ending",
+      "target_word": "fin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "energy",
+      "target_word": "énergie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "engine",
+      "target_word": "moteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "engineer",
+      "target_word": "ingénieur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "enormous",
+      "target_word": "énorme",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "enter",
+      "target_word": "entrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "environment",
+      "target_word": "environnement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "equipment",
+      "target_word": "équipement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "error",
+      "target_word": "erreur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "especially",
+      "target_word": "surtout",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "essay",
+      "target_word": "essai",
+      "pos": "noun"
+    },
+    {
+      "base_en": "everyday",
+      "target_word": "tous les jours",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "everywhere",
+      "target_word": "partout",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "evidence",
+      "target_word": "preuve",
+      "pos": "noun"
+    },
+    {
+      "base_en": "exact",
+      "target_word": "exact",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "exactly",
+      "target_word": "exactement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "excellent",
+      "target_word": "excellent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "except",
+      "target_word": "sauf",
+      "pos": "other"
+    },
+    {
+      "base_en": "exist",
+      "target_word": "exister",
+      "pos": "verb"
+    },
+    {
+      "base_en": "expect",
+      "target_word": "s'attendre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "experience",
+      "target_word": "expérience",
+      "pos": "noun"
+    },
+    {
+      "base_en": "experiment",
+      "target_word": "expérimenter",
+      "pos": "noun"
+    },
+    {
+      "base_en": "expert",
+      "target_word": "expert",
+      "pos": "noun"
+    },
+    {
+      "base_en": "explanation",
+      "target_word": "explication",
+      "pos": "noun"
+    },
+    {
+      "base_en": "express",
+      "target_word": "exprimer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "expression",
+      "target_word": "expressions",
+      "pos": "noun"
+    },
+    {
+      "base_en": "extreme",
+      "target_word": "extrême",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "extremely",
+      "target_word": "extrêmement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "factor",
+      "target_word": "facteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "factory",
+      "target_word": "usine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fail",
+      "target_word": "échouer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fair",
+      "target_word": "juste",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fall",
+      "target_word": "tomber",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fan",
+      "target_word": "ventilateur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "farm",
+      "target_word": "ferme",
+      "pos": "verb"
+    },
+    {
+      "base_en": "farming",
+      "target_word": "agriculture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fashion",
+      "target_word": "mode",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fat",
+      "target_word": "graisse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fear",
+      "target_word": "peur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "feature",
+      "target_word": "fonctionnalité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "feed",
+      "target_word": "nourrir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "female",
+      "target_word": "femelle",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fiction",
+      "target_word": "fiction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "field",
+      "target_word": "champ",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fight",
+      "target_word": "se battre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "figure",
+      "target_word": "chiffre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "film",
+      "target_word": "cinéma",
+      "pos": "verb"
+    },
+    {
+      "base_en": "final",
+      "target_word": "finale",
+      "pos": "noun"
+    },
+    {
+      "base_en": "finally",
+      "target_word": "enfin",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "finger",
+      "target_word": "doigt",
+      "pos": "noun"
+    },
+    {
+      "base_en": "finish",
+      "target_word": "terminer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "first",
+      "target_word": "d'abord",
+      "pos": "noun"
+    },
+    {
+      "base_en": "firstly",
+      "target_word": "d'abord",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "fish",
+      "target_word": "poisson",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fishing",
+      "target_word": "pêche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fit",
+      "target_word": "en forme",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fix",
+      "target_word": "réparer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "flat",
+      "target_word": "plat",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "flu",
+      "target_word": "grippe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fly",
+      "target_word": "voler",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flying",
+      "target_word": "voler",
+      "pos": "noun"
+    },
+    {
+      "base_en": "focus",
+      "target_word": "se concentrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "following",
+      "target_word": "suivant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "foreign",
+      "target_word": "étranger",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "forest",
+      "target_word": "forêt",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fork",
+      "target_word": "fourchette",
+      "pos": "noun"
+    },
+    {
+      "base_en": "formal",
+      "target_word": "formel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fortunately",
+      "target_word": "heureusement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "forward",
+      "target_word": "en avant",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "free",
+      "target_word": "gratuit",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "fresh",
+      "target_word": "frais",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fridge",
+      "target_word": "réfrigérateur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "frog",
+      "target_word": "grenouille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fun",
+      "target_word": "amusant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "furniture",
+      "target_word": "meubles",
+      "pos": "noun"
+    },
+    {
+      "base_en": "further",
+      "target_word": "plus loin",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "future",
+      "target_word": "avenir",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "gallery",
+      "target_word": "galerie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gap",
+      "target_word": "écart",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gas",
+      "target_word": "gaz",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gate",
+      "target_word": "porte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "general",
+      "target_word": "général",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "gift",
+      "target_word": "cadeau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "goal",
+      "target_word": "objectif",
+      "pos": "noun"
+    },
+    {
+      "base_en": "god",
+      "target_word": "dieu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gold",
+      "target_word": "or",
+      "pos": "noun"
+    },
+    {
+      "base_en": "golf",
+      "target_word": "golfer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "good",
+      "target_word": "bien",
+      "pos": "noun"
+    },
+    {
+      "base_en": "government",
+      "target_word": "gouvernement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grass",
+      "target_word": "herbe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "greet",
+      "target_word": "saluer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "ground",
+      "target_word": "sol",
+      "pos": "noun"
+    },
+    {
+      "base_en": "guest",
+      "target_word": "invité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "guide",
+      "target_word": "guider",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gun",
+      "target_word": "arme à feu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "guy",
+      "target_word": "mec",
+      "pos": "noun"
+    },
+    {
+      "base_en": "habit",
+      "target_word": "habitude",
+      "pos": "noun"
+    },
+    {
+      "base_en": "half",
+      "target_word": "la moitié",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "hall",
+      "target_word": "salle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "happily",
+      "target_word": "heureusement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "have",
+      "target_word": "avoir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "headache",
+      "target_word": "mal de tête",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heart",
+      "target_word": "coeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heat",
+      "target_word": "chaleur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heavy",
+      "target_word": "lourd",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "height",
+      "target_word": "hauteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "helpful",
+      "target_word": "utile",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hero",
+      "target_word": "héros",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hers",
+      "target_word": "la sienne",
+      "pos": "other"
+    },
+    {
+      "base_en": "herself",
+      "target_word": "elle-même",
+      "pos": "other"
+    },
+    {
+      "base_en": "hide",
+      "target_word": "cacher",
+      "pos": "verb"
+    },
+    {
+      "base_en": "high",
+      "target_word": "haut",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "hill",
+      "target_word": "colline",
+      "pos": "noun"
+    },
+    {
+      "base_en": "himself",
+      "target_word": "lui-même",
+      "pos": "other"
+    },
+    {
+      "base_en": "his",
+      "target_word": "son",
+      "pos": "other"
+    },
+    {
+      "base_en": "hit",
+      "target_word": "frapper",
+      "pos": "verb"
+    },
+    {
+      "base_en": "hockey",
+      "target_word": "hockey",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hold",
+      "target_word": "tenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "hole",
+      "target_word": "trou",
+      "pos": "noun"
+    },
+    {
+      "base_en": "home",
+      "target_word": "maison",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hope",
+      "target_word": "j'espère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "huge",
+      "target_word": "énorme",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "human",
+      "target_word": "humain",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hurt",
+      "target_word": "blessé",
+      "pos": "verb"
+    },
+    {
+      "base_en": "ideal",
+      "target_word": "idéal",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "identify",
+      "target_word": "identifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "ill",
+      "target_word": "malade",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "illness",
+      "target_word": "maladie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "image",
+      "target_word": "photo",
+      "pos": "noun"
+    },
+    {
+      "base_en": "immediately",
+      "target_word": "immédiatement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "impossible",
+      "target_word": "impossible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "included",
+      "target_word": "inclus",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "including",
+      "target_word": "y compris",
+      "pos": "other"
+    },
+    {
+      "base_en": "increase",
+      "target_word": "augmenter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "incredible",
+      "target_word": "incroyable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "independent",
+      "target_word": "indépendant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "individual",
+      "target_word": "individuel",
+      "pos": "noun"
+    },
+    {
+      "base_en": "industry",
+      "target_word": "industrie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "informal",
+      "target_word": "informel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "injury",
+      "target_word": "blessure",
+      "pos": "noun"
+    },
+    {
+      "base_en": "insect",
+      "target_word": "insecte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "inside",
+      "target_word": "à l'intérieur",
+      "pos": "other"
+    },
+    {
+      "base_en": "instead",
+      "target_word": "à la place",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "instruction",
+      "target_word": "instruction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "instructor",
+      "target_word": "instructeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "instrument",
+      "target_word": "instrument",
+      "pos": "noun"
+    },
+    {
+      "base_en": "intelligent",
+      "target_word": "intelligent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "international",
+      "target_word": "internationale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "introduction",
+      "target_word": "présentation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "invent",
+      "target_word": "inventer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "invention",
+      "target_word": "invention",
+      "pos": "noun"
+    },
+    {
+      "base_en": "invitation",
+      "target_word": "invitation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "invite",
+      "target_word": "inviter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "involve",
+      "target_word": "impliquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "item",
+      "target_word": "article",
+      "pos": "noun"
+    },
+    {
+      "base_en": "itself",
+      "target_word": "lui-même",
+      "pos": "other"
+    },
+    {
+      "base_en": "jam",
+      "target_word": "confiture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "jazz",
+      "target_word": "jazz",
+      "pos": "noun"
+    },
+    {
+      "base_en": "jewellery",
+      "target_word": "bijoux",
+      "pos": "noun"
+    },
+    {
+      "base_en": "joke",
+      "target_word": "blague",
+      "pos": "noun"
+    },
+    {
+      "base_en": "journalist",
+      "target_word": "journaliste",
+      "pos": "noun"
+    },
+    {
+      "base_en": "jump",
+      "target_word": "sauter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "kid",
+      "target_word": "enfant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "kill",
+      "target_word": "tuer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "king",
+      "target_word": "roi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "knee",
+      "target_word": "genou",
+      "pos": "noun"
+    },
+    {
+      "base_en": "knife",
+      "target_word": "couteau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "knock",
+      "target_word": "frapper",
+      "pos": "verb"
+    },
+    {
+      "base_en": "knowledge",
+      "target_word": "connaissance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lab",
+      "target_word": "laboratoire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lady",
+      "target_word": "dame",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lake",
+      "target_word": "lac",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lamp",
+      "target_word": "lampe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "land",
+      "target_word": "terre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "laptop",
+      "target_word": "ordinateur portable",
+      "pos": "noun"
+    },
+    {
+      "base_en": "last1",
+      "target_word": "dernier1",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "last1",
+      "target_word": "dernier1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "later",
+      "target_word": "plus tard",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "laughter",
+      "target_word": "rire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "law",
+      "target_word": "loi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lawyer",
+      "target_word": "avocat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lazy",
+      "target_word": "paresseux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "lead1",
+      "target_word": "plomb1",
+      "pos": "verb"
+    },
+    {
+      "base_en": "leader",
+      "target_word": "chef",
+      "pos": "noun"
+    },
+    {
+      "base_en": "learning",
+      "target_word": "apprentissage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "least",
+      "target_word": "le moins",
+      "pos": "other"
+    },
+    {
+      "base_en": "lecture",
+      "target_word": "conférence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lemon",
+      "target_word": "citron",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lend",
+      "target_word": "prêter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "less",
+      "target_word": "moins",
+      "pos": "other"
+    },
+    {
+      "base_en": "level",
+      "target_word": "niveau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lifestyle",
+      "target_word": "style de vie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lift",
+      "target_word": "ascenseur",
+      "pos": "verb"
+    },
+    {
+      "base_en": "light",
+      "target_word": "lumière",
+      "pos": "verb"
+    },
+    {
+      "base_en": "light",
+      "target_word": "lumière",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "likely",
+      "target_word": "probablement",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "link",
+      "target_word": "lien",
+      "pos": "noun"
+    },
+    {
+      "base_en": "listener",
+      "target_word": "auditeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "little",
+      "target_word": "peu",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "lock",
+      "target_word": "verrouiller",
+      "pos": "verb"
+    },
+    {
+      "base_en": "look",
+      "target_word": "regarde",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lorry",
+      "target_word": "camion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lost",
+      "target_word": "perdu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "loud",
+      "target_word": "fort",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "loudly",
+      "target_word": "bruyamment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "lovely",
+      "target_word": "charmant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "low",
+      "target_word": "faible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "luck",
+      "target_word": "chance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lucky",
+      "target_word": "chanceux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "mail",
+      "target_word": "courrier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "major",
+      "target_word": "majeur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "male",
+      "target_word": "mâle",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "manage",
+      "target_word": "gérer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "manager",
+      "target_word": "directeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "manner",
+      "target_word": "manière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mark",
+      "target_word": "marquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "marry",
+      "target_word": "se marier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "material",
+      "target_word": "matériel",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mathematics",
+      "target_word": "mathématiques",
+      "pos": "noun"
+    },
+    {
+      "base_en": "maths",
+      "target_word": "mathématiques",
+      "pos": "noun"
+    },
+    {
+      "base_en": "matter",
+      "target_word": "importe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "may",
+      "target_word": "peut",
+      "pos": "verb"
+    },
+    {
+      "base_en": "media",
+      "target_word": "médias",
+      "pos": "noun"
+    },
+    {
+      "base_en": "medical",
+      "target_word": "médical",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "medicine",
+      "target_word": "médecine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "memory",
+      "target_word": "mémoire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mention",
+      "target_word": "mentionner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "metal",
+      "target_word": "métal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "method",
+      "target_word": "méthode",
+      "pos": "noun"
+    },
+    {
+      "base_en": "middle",
+      "target_word": "milieu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "might",
+      "target_word": "pourrait",
+      "pos": "verb"
+    },
+    {
+      "base_en": "mind",
+      "target_word": "esprit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mine",
+      "target_word": "le mien",
+      "pos": "other"
+    },
+    {
+      "base_en": "mirror",
+      "target_word": "miroir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "missing",
+      "target_word": "manquant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "mobile",
+      "target_word": "mobile",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "monkey",
+      "target_word": "singe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "moon",
+      "target_word": "lune",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mostly",
+      "target_word": "surtout",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "motorcycle",
+      "target_word": "moto",
+      "pos": "noun"
+    },
+    {
+      "base_en": "movement",
+      "target_word": "mouvement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "musical",
+      "target_word": "comédie musicale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "musician",
+      "target_word": "musicien",
+      "pos": "noun"
+    }
+  ],
+  "B1": [
+    {
+      "base_en": "absolutely",
+      "target_word": "absolument",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "academic",
+      "target_word": "académique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "access",
+      "target_word": "accès",
+      "pos": "noun"
+    },
+    {
+      "base_en": "accommodation",
+      "target_word": "hébergement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "account",
+      "target_word": "compte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "achievement",
+      "target_word": "réalisation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "act",
+      "target_word": "agir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ad",
+      "target_word": "annonce",
+      "pos": "noun"
+    },
+    {
+      "base_en": "addition",
+      "target_word": "ajout",
+      "pos": "noun"
+    },
+    {
+      "base_en": "admire",
+      "target_word": "admirer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "admit",
+      "target_word": "admettre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "advanced",
+      "target_word": "avancé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "advise",
+      "target_word": "conseiller",
+      "pos": "verb"
+    },
+    {
+      "base_en": "afford",
+      "target_word": "se permettre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "age",
+      "target_word": "âge",
+      "pos": "verb"
+    },
+    {
+      "base_en": "aged",
+      "target_word": "âgé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "agent",
+      "target_word": "agent",
+      "pos": "noun"
+    },
+    {
+      "base_en": "agreement",
+      "target_word": "accord",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ahead",
+      "target_word": "en avant",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "aim",
+      "target_word": "objectif",
+      "pos": "verb"
+    },
+    {
+      "base_en": "alarm",
+      "target_word": "alarme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "album",
+      "target_word": "album",
+      "pos": "noun"
+    },
+    {
+      "base_en": "alcohol",
+      "target_word": "alcool",
+      "pos": "noun"
+    },
+    {
+      "base_en": "alcoholic",
+      "target_word": "alcoolique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "alternative",
+      "target_word": "alternative",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "amazed",
+      "target_word": "étonné",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "ambition",
+      "target_word": "ambition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ambitious",
+      "target_word": "ambitieux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "analyse",
+      "target_word": "analyser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "analysis",
+      "target_word": "analyse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "announce",
+      "target_word": "annoncer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "announcement",
+      "target_word": "annonce",
+      "pos": "noun"
+    },
+    {
+      "base_en": "annoy",
+      "target_word": "ennuyer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "annoyed",
+      "target_word": "ennuyé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "annoying",
+      "target_word": "ennuyeux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "apart",
+      "target_word": "à part",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "apologize",
+      "target_word": "s'excuser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "application",
+      "target_word": "demande",
+      "pos": "noun"
+    },
+    {
+      "base_en": "appointment",
+      "target_word": "rendez-vous",
+      "pos": "noun"
+    },
+    {
+      "base_en": "appreciate",
+      "target_word": "apprécier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "approximately",
+      "target_word": "environ",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "arrest",
+      "target_word": "arrestation",
+      "pos": "verb"
+    },
+    {
+      "base_en": "arrival",
+      "target_word": "arrivée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "assignment",
+      "target_word": "mission",
+      "pos": "noun"
+    },
+    {
+      "base_en": "assist",
+      "target_word": "aider",
+      "pos": "verb"
+    },
+    {
+      "base_en": "atmosphere",
+      "target_word": "ambiance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "attach",
+      "target_word": "joindre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "attitude",
+      "target_word": "attitude",
+      "pos": "noun"
+    },
+    {
+      "base_en": "attract",
+      "target_word": "attirer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "attraction",
+      "target_word": "attraction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "authority",
+      "target_word": "autorité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "average",
+      "target_word": "moyenne",
+      "pos": "verb"
+    },
+    {
+      "base_en": "award",
+      "target_word": "récompense",
+      "pos": "verb"
+    },
+    {
+      "base_en": "aware",
+      "target_word": "conscient",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "backwards",
+      "target_word": "à l'envers",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "bake",
+      "target_word": "cuire au four",
+      "pos": "verb"
+    },
+    {
+      "base_en": "balance",
+      "target_word": "équilibre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ban",
+      "target_word": "interdire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bank",
+      "target_word": "banque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "base",
+      "target_word": "base",
+      "pos": "noun"
+    },
+    {
+      "base_en": "basic",
+      "target_word": "de base",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "basis",
+      "target_word": "base",
+      "pos": "noun"
+    },
+    {
+      "base_en": "battery",
+      "target_word": "batterie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "battle",
+      "target_word": "bataille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "beauty",
+      "target_word": "beauté",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bee",
+      "target_word": "abeille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "belief",
+      "target_word": "croyance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bell",
+      "target_word": "cloche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bend",
+      "target_word": "plier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "benefit",
+      "target_word": "avantage",
+      "pos": "verb"
+    },
+    {
+      "base_en": "better",
+      "target_word": "mieux",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bite",
+      "target_word": "mordre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "block",
+      "target_word": "bloquer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "board",
+      "target_word": "planche",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bomb",
+      "target_word": "bombe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "border",
+      "target_word": "frontière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bother",
+      "target_word": "déranger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "branch",
+      "target_word": "branche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "brand",
+      "target_word": "marque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "brave",
+      "target_word": "courageux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "breath",
+      "target_word": "souffle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "breathe",
+      "target_word": "respirer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "breathing",
+      "target_word": "respiration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bride",
+      "target_word": "mariée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bubble",
+      "target_word": "bulle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bury",
+      "target_word": "enterrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "by",
+      "target_word": "par",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "calm",
+      "target_word": "calme",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "campaign",
+      "target_word": "campagne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "campus",
+      "target_word": "campus",
+      "pos": "noun"
+    },
+    {
+      "base_en": "candidate",
+      "target_word": "candidat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cap",
+      "target_word": "casquette",
+      "pos": "noun"
+    },
+    {
+      "base_en": "captain",
+      "target_word": "capitaine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "careless",
+      "target_word": "insouciant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "category",
+      "target_word": "catégorie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ceiling",
+      "target_word": "plafond",
+      "pos": "noun"
+    },
+    {
+      "base_en": "celebration",
+      "target_word": "célébration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "central",
+      "target_word": "centrale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "centre",
+      "target_word": "centre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "ceremony",
+      "target_word": "cérémonie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chain",
+      "target_word": "chaîne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "challenge",
+      "target_word": "défi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "champion",
+      "target_word": "champion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "channel",
+      "target_word": "canal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chapter",
+      "target_word": "chapitre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "charge",
+      "target_word": "facturer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cheap",
+      "target_word": "pas cher",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "cheat",
+      "target_word": "tricher",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cheerful",
+      "target_word": "joyeux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "chemical",
+      "target_word": "produit chimique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "chest",
+      "target_word": "poitrine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "childhood",
+      "target_word": "enfance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "claim",
+      "target_word": "réclamation",
+      "pos": "verb"
+    },
+    {
+      "base_en": "clause",
+      "target_word": "clause",
+      "pos": "noun"
+    },
+    {
+      "base_en": "clear",
+      "target_word": "clair",
+      "pos": "verb"
+    },
+    {
+      "base_en": "click",
+      "target_word": "cliquez",
+      "pos": "verb"
+    },
+    {
+      "base_en": "client",
+      "target_word": "client",
+      "pos": "noun"
+    },
+    {
+      "base_en": "climb",
+      "target_word": "grimper",
+      "pos": "noun"
+    },
+    {
+      "base_en": "close2",
+      "target_word": "fermer2",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "cloth",
+      "target_word": "tissu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "clue",
+      "target_word": "indice",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coach",
+      "target_word": "entraîneur",
+      "pos": "verb"
+    },
+    {
+      "base_en": "coal",
+      "target_word": "charbon",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coin",
+      "target_word": "pièce de monnaie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "collection",
+      "target_word": "collecte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "coloured",
+      "target_word": "coloré",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "combine",
+      "target_word": "combiner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "comment",
+      "target_word": "commentaire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "commercial",
+      "target_word": "commercial",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "commit",
+      "target_word": "commettre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "communication",
+      "target_word": "communications",
+      "pos": "noun"
+    },
+    {
+      "base_en": "comparison",
+      "target_word": "comparaison",
+      "pos": "noun"
+    },
+    {
+      "base_en": "competitor",
+      "target_word": "concurrent",
+      "pos": "noun"
+    },
+    {
+      "base_en": "competitive",
+      "target_word": "compétitif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "complaint",
+      "target_word": "plainte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "complex",
+      "target_word": "complexe",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "concentrate",
+      "target_word": "concentré",
+      "pos": "verb"
+    },
+    {
+      "base_en": "conclude",
+      "target_word": "conclure",
+      "pos": "verb"
+    },
+    {
+      "base_en": "conclusion",
+      "target_word": "conclusion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "confident",
+      "target_word": "confiant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "confirm",
+      "target_word": "confirmer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "confuse",
+      "target_word": "confondre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "confused",
+      "target_word": "confus",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "connection",
+      "target_word": "connexion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "consequence",
+      "target_word": "conséquence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "consist",
+      "target_word": "consister",
+      "pos": "verb"
+    },
+    {
+      "base_en": "consume",
+      "target_word": "consommer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "consumer",
+      "target_word": "consommateur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "contact",
+      "target_word": "contacter",
+      "pos": "noun"
+    },
+    {
+      "base_en": "container",
+      "target_word": "conteneur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "content1",
+      "target_word": "contenu1",
+      "pos": "noun"
+    },
+    {
+      "base_en": "continuous",
+      "target_word": "continu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "contrast",
+      "target_word": "contraste",
+      "pos": "noun"
+    },
+    {
+      "base_en": "convenient",
+      "target_word": "pratique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "convince",
+      "target_word": "convaincre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cool",
+      "target_word": "cool",
+      "pos": "verb"
+    },
+    {
+      "base_en": "costume",
+      "target_word": "costume",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cottage",
+      "target_word": "chalet",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cotton",
+      "target_word": "coton",
+      "pos": "noun"
+    },
+    {
+      "base_en": "count",
+      "target_word": "compter",
+      "pos": "noun"
+    },
+    {
+      "base_en": "countryside",
+      "target_word": "campagne",
+      "pos": "noun"
+    },
+    {
+      "base_en": "court",
+      "target_word": "tribunal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cover",
+      "target_word": "couverture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "covered",
+      "target_word": "couvert",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cream",
+      "target_word": "crème",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "criminal",
+      "target_word": "criminel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cruel",
+      "target_word": "cruel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cultural",
+      "target_word": "culturel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "currency",
+      "target_word": "monnaie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "current",
+      "target_word": "courant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "currently",
+      "target_word": "actuellement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "curtain",
+      "target_word": "rideau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "custom",
+      "target_word": "personnalisé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cut",
+      "target_word": "couper",
+      "pos": "noun"
+    },
+    {
+      "base_en": "daily",
+      "target_word": "quotidiennement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "damage",
+      "target_word": "dommage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "deal",
+      "target_word": "affaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "decade",
+      "target_word": "décennie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "decorate",
+      "target_word": "décorer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "deep",
+      "target_word": "profond",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "define",
+      "target_word": "définir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "definite",
+      "target_word": "définitif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "definition",
+      "target_word": "définition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "deliver",
+      "target_word": "livrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "departure",
+      "target_word": "départ",
+      "pos": "noun"
+    },
+    {
+      "base_en": "despite",
+      "target_word": "malgré",
+      "pos": "other"
+    },
+    {
+      "base_en": "destination",
+      "target_word": "destination",
+      "pos": "noun"
+    },
+    {
+      "base_en": "determine",
+      "target_word": "déterminer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "determined",
+      "target_word": "déterminé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "development",
+      "target_word": "développement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "diagram",
+      "target_word": "diagramme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "diamond",
+      "target_word": "diamant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "difficulty",
+      "target_word": "difficulté",
+      "pos": "noun"
+    },
+    {
+      "base_en": "direct",
+      "target_word": "direct",
+      "pos": "verb"
+    },
+    {
+      "base_en": "directly",
+      "target_word": "directement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "dirt",
+      "target_word": "saleté",
+      "pos": "noun"
+    },
+    {
+      "base_en": "disadvantage",
+      "target_word": "désavantage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "disappointed",
+      "target_word": "déçu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "disappointing",
+      "target_word": "décevant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "discount",
+      "target_word": "réduction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dislike",
+      "target_word": "je n'aime pas",
+      "pos": "verb"
+    },
+    {
+      "base_en": "divide",
+      "target_word": "diviser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "documentary",
+      "target_word": "documentaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "donate",
+      "target_word": "faire un don",
+      "pos": "verb"
+    },
+    {
+      "base_en": "double",
+      "target_word": "doubler",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "doubt",
+      "target_word": "doute",
+      "pos": "noun"
+    },
+    {
+      "base_en": "dressed",
+      "target_word": "habillé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "drop",
+      "target_word": "laisser tomber",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drum",
+      "target_word": "tambour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drunk",
+      "target_word": "ivre",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "due",
+      "target_word": "dû",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "dust",
+      "target_word": "poussière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "duty",
+      "target_word": "devoir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "earthquake",
+      "target_word": "tremblement de terre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "eastern",
+      "target_word": "est",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "economic",
+      "target_word": "économique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "economy",
+      "target_word": "économie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "edge",
+      "target_word": "bord",
+      "pos": "noun"
+    },
+    {
+      "base_en": "editor",
+      "target_word": "éditeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "educate",
+      "target_word": "éduquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "educated",
+      "target_word": "instruit",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "educational",
+      "target_word": "éducatif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "effective",
+      "target_word": "efficace",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "effectively",
+      "target_word": "efficacement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "effort",
+      "target_word": "effort",
+      "pos": "noun"
+    },
+    {
+      "base_en": "election",
+      "target_word": "élection",
+      "pos": "noun"
+    },
+    {
+      "base_en": "element",
+      "target_word": "élément",
+      "pos": "noun"
+    },
+    {
+      "base_en": "embarrassed",
+      "target_word": "embarrassé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "embarrassing",
+      "target_word": "embarrassant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "emergency",
+      "target_word": "urgence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "emotion",
+      "target_word": "émotion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "employment",
+      "target_word": "emploi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "empty",
+      "target_word": "vide",
+      "pos": "verb"
+    },
+    {
+      "base_en": "encourage",
+      "target_word": "encourager",
+      "pos": "verb"
+    },
+    {
+      "base_en": "enemy",
+      "target_word": "ennemi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "engaged",
+      "target_word": "fiancé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "engineering",
+      "target_word": "ingénierie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "entertain",
+      "target_word": "divertir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "entertainment",
+      "target_word": "divertissement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "entrance",
+      "target_word": "entrée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "entry",
+      "target_word": "entrée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "environmental",
+      "target_word": "environnemental",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "episode",
+      "target_word": "épisode",
+      "pos": "noun"
+    },
+    {
+      "base_en": "equal",
+      "target_word": "égal",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "equally",
+      "target_word": "également",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "escape",
+      "target_word": "échapper",
+      "pos": "verb"
+    },
+    {
+      "base_en": "essential",
+      "target_word": "essentiel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "eventually",
+      "target_word": "finalement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "examine",
+      "target_word": "examiner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "except",
+      "target_word": "sauf",
+      "pos": "other"
+    },
+    {
+      "base_en": "exchange",
+      "target_word": "échange",
+      "pos": "noun"
+    },
+    {
+      "base_en": "excitement",
+      "target_word": "excitation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "exhibition",
+      "target_word": "exposition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "expand",
+      "target_word": "développer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "expected",
+      "target_word": "attendu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "expedition",
+      "target_word": "expédition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "experience",
+      "target_word": "expérience",
+      "pos": "verb"
+    },
+    {
+      "base_en": "experienced",
+      "target_word": "expérimenté",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "experiment",
+      "target_word": "expérimenter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "explode",
+      "target_word": "exploser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "explore",
+      "target_word": "explorer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "explosion",
+      "target_word": "explosion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "export",
+      "target_word": "exporter",
+      "pos": "noun"
+    },
+    {
+      "base_en": "extra",
+      "target_word": "supplémentaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "face",
+      "target_word": "visage",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fairly",
+      "target_word": "assez",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "familiar",
+      "target_word": "familier",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fancy",
+      "target_word": "fantaisie",
+      "pos": "verb"
+    },
+    {
+      "base_en": "far",
+      "target_word": "loin",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fascinating",
+      "target_word": "fascinant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fashionable",
+      "target_word": "à la mode",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fasten",
+      "target_word": "attacher",
+      "pos": "verb"
+    },
+    {
+      "base_en": "favour",
+      "target_word": "faveur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fear",
+      "target_word": "peur",
+      "pos": "verb"
+    },
+    {
+      "base_en": "feature",
+      "target_word": "fonctionnalité",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fence",
+      "target_word": "clôture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fighting",
+      "target_word": "combat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "file",
+      "target_word": "fichier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "financial",
+      "target_word": "financier",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fire",
+      "target_word": "feu",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fitness",
+      "target_word": "remise en forme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fixed",
+      "target_word": "fixe",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "flag",
+      "target_word": "drapeau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flood",
+      "target_word": "inondation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flour",
+      "target_word": "farine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flow",
+      "target_word": "flux",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fold",
+      "target_word": "plier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "folk",
+      "target_word": "populaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "following",
+      "target_word": "suivant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "force",
+      "target_word": "forcer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "forever",
+      "target_word": "pour toujours",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "frame",
+      "target_word": "cadre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "freeze",
+      "target_word": "geler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "frequently",
+      "target_word": "fréquemment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "friendship",
+      "target_word": "amitié",
+      "pos": "noun"
+    },
+    {
+      "base_en": "frighten",
+      "target_word": "effrayer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "frightened",
+      "target_word": "effrayé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "frightening",
+      "target_word": "effrayant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "frozen",
+      "target_word": "congelé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fry",
+      "target_word": "frire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fuel",
+      "target_word": "carburant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "function",
+      "target_word": "fonction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fur",
+      "target_word": "fourrure",
+      "pos": "noun"
+    },
+    {
+      "base_en": "further",
+      "target_word": "plus loin",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "garage",
+      "target_word": "garage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "gather",
+      "target_word": "rassembler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "generally",
+      "target_word": "généralement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "generation",
+      "target_word": "génération",
+      "pos": "noun"
+    },
+    {
+      "base_en": "generous",
+      "target_word": "généreux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "gentle",
+      "target_word": "doux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "gentleman",
+      "target_word": "monsieur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ghost",
+      "target_word": "fantôme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "giant",
+      "target_word": "géant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "glad",
+      "target_word": "content",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "global",
+      "target_word": "mondiale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "glove",
+      "target_word": "gant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "go",
+      "target_word": "aller",
+      "pos": "noun"
+    },
+    {
+      "base_en": "goods",
+      "target_word": "marchandises",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grade",
+      "target_word": "note",
+      "pos": "noun"
+    },
+    {
+      "base_en": "graduate",
+      "target_word": "diplômé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grain",
+      "target_word": "céréales",
+      "pos": "noun"
+    },
+    {
+      "base_en": "grateful",
+      "target_word": "reconnaissant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "growth",
+      "target_word": "croissance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "guard",
+      "target_word": "garde",
+      "pos": "noun"
+    },
+    {
+      "base_en": "guilty",
+      "target_word": "coupable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hand",
+      "target_word": "main",
+      "pos": "verb"
+    },
+    {
+      "base_en": "hang",
+      "target_word": "pendre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "happiness",
+      "target_word": "bonheur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hardly",
+      "target_word": "à peine",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "hate",
+      "target_word": "détester",
+      "pos": "noun"
+    },
+    {
+      "base_en": "head",
+      "target_word": "tête",
+      "pos": "verb"
+    },
+    {
+      "base_en": "headline",
+      "target_word": "titre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heating",
+      "target_word": "chauffage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heavily",
+      "target_word": "fortement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "helicopter",
+      "target_word": "hélicoptère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "highlight",
+      "target_word": "mettre en évidence",
+      "pos": "verb"
+    },
+    {
+      "base_en": "highly",
+      "target_word": "hautement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "hire",
+      "target_word": "embaucher",
+      "pos": "verb"
+    },
+    {
+      "base_en": "historic",
+      "target_word": "historique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "historical",
+      "target_word": "historique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "honest",
+      "target_word": "honnête",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "horrible",
+      "target_word": "horrible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "horror",
+      "target_word": "horreur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "host",
+      "target_word": "hôte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hunt",
+      "target_word": "chasser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "hurricane",
+      "target_word": "ouragan",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hurry",
+      "target_word": "dépêche-toi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "identity",
+      "target_word": "identité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ignore",
+      "target_word": "ignorer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "illegal",
+      "target_word": "illégal",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "imaginary",
+      "target_word": "imaginaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "immediate",
+      "target_word": "immédiat",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "immigrant",
+      "target_word": "immigré",
+      "pos": "noun"
+    },
+    {
+      "base_en": "impact",
+      "target_word": "impact",
+      "pos": "noun"
+    },
+    {
+      "base_en": "import",
+      "target_word": "importer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "importance",
+      "target_word": "important",
+      "pos": "noun"
+    },
+    {
+      "base_en": "impression",
+      "target_word": "impression",
+      "pos": "noun"
+    },
+    {
+      "base_en": "impressive",
+      "target_word": "impressionnant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "improvement",
+      "target_word": "amélioration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "incredibly",
+      "target_word": "incroyablement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "indeed",
+      "target_word": "en effet",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "indicate",
+      "target_word": "indiquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "indirect",
+      "target_word": "indirect",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "indoor",
+      "target_word": "intérieur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "indoors",
+      "target_word": "à l'intérieur",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "influence",
+      "target_word": "influencer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ingredient",
+      "target_word": "ingrédient",
+      "pos": "noun"
+    },
+    {
+      "base_en": "injure",
+      "target_word": "blesser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "injured",
+      "target_word": "blessé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "innocent",
+      "target_word": "innocent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "intelligence",
+      "target_word": "renseignement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "intend",
+      "target_word": "avoir l'intention",
+      "pos": "verb"
+    },
+    {
+      "base_en": "intention",
+      "target_word": "intention",
+      "pos": "noun"
+    },
+    {
+      "base_en": "invest",
+      "target_word": "investir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "investigate",
+      "target_word": "enquêter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "involved",
+      "target_word": "impliqué",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "iron",
+      "target_word": "fer à repasser",
+      "pos": "noun"
+    },
+    {
+      "base_en": "issue",
+      "target_word": "problème",
+      "pos": "noun"
+    },
+    {
+      "base_en": "IT",
+      "target_word": "informatique",
+      "pos": "noun"
+    },
+    {
+      "base_en": "journal",
+      "target_word": "journal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "judge",
+      "target_word": "juge",
+      "pos": "noun"
+    },
+    {
+      "base_en": "keen",
+      "target_word": "enthousiaste",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "key",
+      "target_word": "clé",
+      "pos": "verb"
+    },
+    {
+      "base_en": "keyboard",
+      "target_word": "clavier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "kick",
+      "target_word": "coup de pied",
+      "pos": "verb"
+    },
+    {
+      "base_en": "killing",
+      "target_word": "tuer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "kind",
+      "target_word": "gentil",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "kiss",
+      "target_word": "baiser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "knock",
+      "target_word": "frapper",
+      "pos": "noun"
+    },
+    {
+      "base_en": "label",
+      "target_word": "étiquette",
+      "pos": "noun"
+    },
+    {
+      "base_en": "laboratory",
+      "target_word": "laboratoire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lack",
+      "target_word": "manque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "latest",
+      "target_word": "dernier",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "lay",
+      "target_word": "poser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "layer",
+      "target_word": "couche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lead1",
+      "target_word": "plomb1",
+      "pos": "noun"
+    },
+    {
+      "base_en": "leading",
+      "target_word": "leader",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "leaf",
+      "target_word": "feuille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "leather",
+      "target_word": "cuir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "legal",
+      "target_word": "légal",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "leisure",
+      "target_word": "loisirs",
+      "pos": "noun"
+    },
+    {
+      "base_en": "length",
+      "target_word": "longueur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "level",
+      "target_word": "niveau",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "lie2",
+      "target_word": "mensonge2",
+      "pos": "verb"
+    },
+    {
+      "base_en": "like",
+      "target_word": "comme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "limit",
+      "target_word": "limite",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lip",
+      "target_word": "lèvre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "liquid",
+      "target_word": "liquide",
+      "pos": "noun"
+    },
+    {
+      "base_en": "literature",
+      "target_word": "littérature",
+      "pos": "noun"
+    },
+    {
+      "base_en": "live2",
+      "target_word": "vivre2",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "living",
+      "target_word": "vivre",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "local",
+      "target_word": "locale",
+      "pos": "noun"
+    },
+    {
+      "base_en": "locate",
+      "target_word": "localiser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "located",
+      "target_word": "situé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "location",
+      "target_word": "emplacement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lonely",
+      "target_word": "solitaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "loss",
+      "target_word": "perte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "luxury",
+      "target_word": "luxe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mad",
+      "target_word": "fou",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "magic",
+      "target_word": "magie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mainly",
+      "target_word": "principalement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "mall",
+      "target_word": "centre commercial",
+      "pos": "noun"
+    },
+    {
+      "base_en": "management",
+      "target_word": "gestion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "market",
+      "target_word": "marché",
+      "pos": "verb"
+    },
+    {
+      "base_en": "marketing",
+      "target_word": "commercialisation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "marriage",
+      "target_word": "mariage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "meanwhile",
+      "target_word": "pendant ce temps",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "measure",
+      "target_word": "mesurer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "medium",
+      "target_word": "moyen",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "mental",
+      "target_word": "mental",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "mention",
+      "target_word": "mentionner",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mess",
+      "target_word": "désordre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mild",
+      "target_word": "doux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "mine",
+      "target_word": "le mien",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mix",
+      "target_word": "mélanger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "mixture",
+      "target_word": "mélange",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mood",
+      "target_word": "humeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "move",
+      "target_word": "bouger",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mud",
+      "target_word": "boue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "murder",
+      "target_word": "meurtre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "muscle",
+      "target_word": "muscle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "musical",
+      "target_word": "comédie musicale",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mystery",
+      "target_word": "mystère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "nail",
+      "target_word": "clou",
+      "pos": "noun"
+    },
+    {
+      "base_en": "narrative",
+      "target_word": "récit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "nation",
+      "target_word": "nation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "native",
+      "target_word": "natif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "naturally",
+      "target_word": "naturellement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "necessarily",
+      "target_word": "nécessairement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "need",
+      "target_word": "besoin",
+      "pos": "verb"
+    },
+    {
+      "base_en": "needle",
+      "target_word": "aiguille",
+      "pos": "noun"
+    },
+    {
+      "base_en": "neighbourhood",
+      "target_word": "quartier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "neither",
+      "target_word": "ni l'un ni l'autre",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "net",
+      "target_word": "net",
+      "pos": "noun"
+    },
+    {
+      "base_en": "next",
+      "target_word": "suivant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "nor",
+      "target_word": "ni",
+      "pos": "other"
+    },
+    {
+      "base_en": "normal",
+      "target_word": "normal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "northern",
+      "target_word": "nord",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "note",
+      "target_word": "remarque",
+      "pos": "verb"
+    },
+    {
+      "base_en": "now",
+      "target_word": "maintenant",
+      "pos": "other"
+    },
+    {
+      "base_en": "nuclear",
+      "target_word": "nucléaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "obvious",
+      "target_word": "évident",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "obviously",
+      "target_word": "évidemment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "occasion",
+      "target_word": "occasion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "occur",
+      "target_word": "se produire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "odd",
+      "target_word": "étrange",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "official",
+      "target_word": "officiel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "old-fashioned",
+      "target_word": "démodé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "once",
+      "target_word": "une fois",
+      "pos": "other"
+    },
+    {
+      "base_en": "operation",
+      "target_word": "opération",
+      "pos": "noun"
+    },
+    {
+      "base_en": "organized",
+      "target_word": "organisé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "organizer",
+      "target_word": "organisateur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "original",
+      "target_word": "originale",
+      "pos": "noun"
+    },
+    {
+      "base_en": "originally",
+      "target_word": "à l'origine",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "ought",
+      "target_word": "devrait",
+      "pos": "verb"
+    },
+    {
+      "base_en": "ours",
+      "target_word": "le nôtre",
+      "pos": "other"
+    },
+    {
+      "base_en": "outdoor",
+      "target_word": "en plein air",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "outdoors",
+      "target_word": "à l'extérieur",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "pack",
+      "target_word": "emballer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "package",
+      "target_word": "paquet",
+      "pos": "noun"
+    },
+    {
+      "base_en": "painful",
+      "target_word": "douloureux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "pale",
+      "target_word": "pâle",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "pan",
+      "target_word": "casserole",
+      "pos": "noun"
+    },
+    {
+      "base_en": "participate",
+      "target_word": "participer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "particularly",
+      "target_word": "particulièrement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "pass",
+      "target_word": "passer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "passion",
+      "target_word": "passion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "path",
+      "target_word": "chemin",
+      "pos": "noun"
+    },
+    {
+      "base_en": "payment",
+      "target_word": "paiement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "peaceful",
+      "target_word": "paisible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "percentage",
+      "target_word": "pourcentage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "perfectly",
+      "target_word": "parfaitement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "performance",
+      "target_word": "performances",
+      "pos": "noun"
+    },
+    {
+      "base_en": "personally",
+      "target_word": "personnellement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "persuade",
+      "target_word": "persuader",
+      "pos": "verb"
+    },
+    {
+      "base_en": "photographer",
+      "target_word": "photographe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "photography",
+      "target_word": "photographie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "pin",
+      "target_word": "épingle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "pipe",
+      "target_word": "tuyau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "place",
+      "target_word": "endroit",
+      "pos": "verb"
+    }
+  ],
+  "B2": [
+    {
+      "base_en": "abandon",
+      "target_word": "abandonner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "absolute",
+      "target_word": "absolu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "academic",
+      "target_word": "académique",
+      "pos": "noun"
+    },
+    {
+      "base_en": "acceptable",
+      "target_word": "acceptable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "accompany",
+      "target_word": "accompagner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "account",
+      "target_word": "compte",
+      "pos": "verb"
+    },
+    {
+      "base_en": "accurate",
+      "target_word": "précis",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "accuse",
+      "target_word": "accuser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "acknowledge",
+      "target_word": "reconnaître",
+      "pos": "verb"
+    },
+    {
+      "base_en": "acquire",
+      "target_word": "acquérir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "actual",
+      "target_word": "réel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "adapt",
+      "target_word": "adapter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "additional",
+      "target_word": "supplémentaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "address",
+      "target_word": "adresse",
+      "pos": "verb"
+    },
+    {
+      "base_en": "administration",
+      "target_word": "gestion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "adopt",
+      "target_word": "adopter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "advance",
+      "target_word": "avance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "affair",
+      "target_word": "affaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "afterwards",
+      "target_word": "après",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "agency",
+      "target_word": "agence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "agenda",
+      "target_word": "ordre du jour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "aggressive",
+      "target_word": "agressif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "aid",
+      "target_word": "aide",
+      "pos": "noun"
+    },
+    {
+      "base_en": "aircraft",
+      "target_word": "avion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "alarm",
+      "target_word": "alarme",
+      "pos": "verb"
+    },
+    {
+      "base_en": "alter",
+      "target_word": "modifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "amount",
+      "target_word": "montant",
+      "pos": "verb"
+    },
+    {
+      "base_en": "anger",
+      "target_word": "colère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "angle",
+      "target_word": "angle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "anniversary",
+      "target_word": "anniversaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "annual",
+      "target_word": "annuel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "anxious",
+      "target_word": "anxieux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "apparent",
+      "target_word": "apparent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "apparently",
+      "target_word": "apparemment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "appeal",
+      "target_word": "appel",
+      "pos": "noun"
+    },
+    {
+      "base_en": "approach",
+      "target_word": "approche",
+      "pos": "noun"
+    },
+    {
+      "base_en": "appropriate",
+      "target_word": "approprié",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "approval",
+      "target_word": "approbation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "approve",
+      "target_word": "approuver",
+      "pos": "verb"
+    },
+    {
+      "base_en": "arise",
+      "target_word": "surgir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "armed",
+      "target_word": "armé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "arms",
+      "target_word": "bras",
+      "pos": "noun"
+    },
+    {
+      "base_en": "artificial",
+      "target_word": "artificiel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "artistic",
+      "target_word": "artistique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "ashamed",
+      "target_word": "honte",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "aspect",
+      "target_word": "aspect",
+      "pos": "noun"
+    },
+    {
+      "base_en": "assess",
+      "target_word": "évaluer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "assessment",
+      "target_word": "évaluation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "associate",
+      "target_word": "associé",
+      "pos": "verb"
+    },
+    {
+      "base_en": "associated",
+      "target_word": "associé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "association",
+      "target_word": "associations",
+      "pos": "noun"
+    },
+    {
+      "base_en": "assume",
+      "target_word": "supposer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "attempt",
+      "target_word": "tentative",
+      "pos": "noun"
+    },
+    {
+      "base_en": "back",
+      "target_word": "retour",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bacteria",
+      "target_word": "bactéries",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bar",
+      "target_word": "barre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "barrier",
+      "target_word": "barrière",
+      "pos": "noun"
+    },
+    {
+      "base_en": "basically",
+      "target_word": "en gros",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "battle",
+      "target_word": "bataille",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bear",
+      "target_word": "ours",
+      "pos": "verb"
+    },
+    {
+      "base_en": "beat",
+      "target_word": "battre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "beg",
+      "target_word": "mendier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "being",
+      "target_word": "étant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bent",
+      "target_word": "plié",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "bet",
+      "target_word": "parier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "beyond",
+      "target_word": "au-delà",
+      "pos": "other"
+    },
+    {
+      "base_en": "bill",
+      "target_word": "facture",
+      "pos": "verb"
+    },
+    {
+      "base_en": "bitter",
+      "target_word": "amer",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "blame",
+      "target_word": "blâmer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "blind",
+      "target_word": "aveugle",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "bond",
+      "target_word": "lien",
+      "pos": "noun"
+    },
+    {
+      "base_en": "border",
+      "target_word": "frontière",
+      "pos": "verb"
+    },
+    {
+      "base_en": "breast",
+      "target_word": "sein",
+      "pos": "noun"
+    },
+    {
+      "base_en": "brief",
+      "target_word": "bref",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "broad",
+      "target_word": "large",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "broadcast",
+      "target_word": "diffuser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "budget",
+      "target_word": "budget",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bullet",
+      "target_word": "balle",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bunch",
+      "target_word": "groupe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "burn",
+      "target_word": "brûler",
+      "pos": "noun"
+    },
+    {
+      "base_en": "bush",
+      "target_word": "buisson",
+      "pos": "noun"
+    },
+    {
+      "base_en": "but",
+      "target_word": "mais",
+      "pos": "other"
+    },
+    {
+      "base_en": "cable",
+      "target_word": "câble",
+      "pos": "noun"
+    },
+    {
+      "base_en": "calculate",
+      "target_word": "calculer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cancel",
+      "target_word": "annuler",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cancer",
+      "target_word": "cancer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "capable",
+      "target_word": "capable",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "capacity",
+      "target_word": "capacité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "capture",
+      "target_word": "capturer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "cast",
+      "target_word": "jeter",
+      "pos": "noun"
+    },
+    {
+      "base_en": "catch",
+      "target_word": "attraper",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cell",
+      "target_word": "cellule",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chain",
+      "target_word": "chaîne",
+      "pos": "verb"
+    },
+    {
+      "base_en": "chair",
+      "target_word": "chaise",
+      "pos": "verb"
+    },
+    {
+      "base_en": "chairman",
+      "target_word": "président",
+      "pos": "noun"
+    },
+    {
+      "base_en": "challenge",
+      "target_word": "défi",
+      "pos": "verb"
+    },
+    {
+      "base_en": "characteristic",
+      "target_word": "caractéristique",
+      "pos": "noun"
+    },
+    {
+      "base_en": "chart",
+      "target_word": "graphique",
+      "pos": "verb"
+    },
+    {
+      "base_en": "chief",
+      "target_word": "chef",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "circumstance",
+      "target_word": "circonstance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cite",
+      "target_word": "citer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "citizen",
+      "target_word": "citoyen",
+      "pos": "noun"
+    },
+    {
+      "base_en": "civil",
+      "target_word": "civil",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "classic",
+      "target_word": "classique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "close1",
+      "target_word": "fermer1",
+      "pos": "noun"
+    },
+    {
+      "base_en": "closely",
+      "target_word": "de près",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "collapse",
+      "target_word": "s'effondrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "combination",
+      "target_word": "combinaison",
+      "pos": "noun"
+    },
+    {
+      "base_en": "comfort",
+      "target_word": "confort",
+      "pos": "noun"
+    },
+    {
+      "base_en": "command",
+      "target_word": "commande",
+      "pos": "noun"
+    },
+    {
+      "base_en": "commission",
+      "target_word": "commission",
+      "pos": "noun"
+    },
+    {
+      "base_en": "commitment",
+      "target_word": "engagement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "committee",
+      "target_word": "comité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "commonly",
+      "target_word": "communément",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "complex",
+      "target_word": "complexe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "complicated",
+      "target_word": "compliqué",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "component",
+      "target_word": "composant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "concentration",
+      "target_word": "concentration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "concept",
+      "target_word": "notion",
+      "pos": "noun"
+    },
+    {
+      "base_en": "concern",
+      "target_word": "préoccupation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "concerned",
+      "target_word": "concerné",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "conduct",
+      "target_word": "conduite",
+      "pos": "verb"
+    },
+    {
+      "base_en": "confidence",
+      "target_word": "confiance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "conflict",
+      "target_word": "conflit",
+      "pos": "noun"
+    },
+    {
+      "base_en": "confusing",
+      "target_word": "déroutant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "conscious",
+      "target_word": "conscient",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "conservative",
+      "target_word": "conservateur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "consideration",
+      "target_word": "considération",
+      "pos": "noun"
+    },
+    {
+      "base_en": "consistent",
+      "target_word": "cohérent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "constant",
+      "target_word": "constante",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "constantly",
+      "target_word": "constamment",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "construct",
+      "target_word": "construire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "construction",
+      "target_word": "bâtiment",
+      "pos": "noun"
+    },
+    {
+      "base_en": "contemporary",
+      "target_word": "contemporain",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "contest",
+      "target_word": "concours",
+      "pos": "noun"
+    },
+    {
+      "base_en": "contract",
+      "target_word": "contrat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "contribute",
+      "target_word": "contribuer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "contribution",
+      "target_word": "contribution",
+      "pos": "noun"
+    },
+    {
+      "base_en": "convert",
+      "target_word": "convertir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "convinced",
+      "target_word": "convaincu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "core",
+      "target_word": "noyau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "corporate",
+      "target_word": "entreprise",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "council",
+      "target_word": "conseil",
+      "pos": "noun"
+    },
+    {
+      "base_en": "county",
+      "target_word": "comté",
+      "pos": "noun"
+    },
+    {
+      "base_en": "courage",
+      "target_word": "courage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "crash",
+      "target_word": "accident",
+      "pos": "noun"
+    },
+    {
+      "base_en": "creation",
+      "target_word": "création",
+      "pos": "noun"
+    },
+    {
+      "base_en": "creature",
+      "target_word": "créature",
+      "pos": "noun"
+    },
+    {
+      "base_en": "credit",
+      "target_word": "crédit",
+      "pos": "verb"
+    },
+    {
+      "base_en": "crew",
+      "target_word": "équipage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "crisis",
+      "target_word": "crise",
+      "pos": "noun"
+    },
+    {
+      "base_en": "criterion",
+      "target_word": "critère",
+      "pos": "noun"
+    },
+    {
+      "base_en": "critic",
+      "target_word": "critique",
+      "pos": "noun"
+    },
+    {
+      "base_en": "critical",
+      "target_word": "critique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "criticism",
+      "target_word": "critique",
+      "pos": "noun"
+    },
+    {
+      "base_en": "criticize",
+      "target_word": "critiquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "crop",
+      "target_word": "récolte",
+      "pos": "noun"
+    },
+    {
+      "base_en": "crucial",
+      "target_word": "crucial",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "cry",
+      "target_word": "pleurer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "cure",
+      "target_word": "guérir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "current",
+      "target_word": "courant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "curve",
+      "target_word": "courbe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "curved",
+      "target_word": "courbé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "date",
+      "target_word": "rendez-vous",
+      "pos": "verb"
+    },
+    {
+      "base_en": "debate",
+      "target_word": "débat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "debt",
+      "target_word": "dette",
+      "pos": "noun"
+    },
+    {
+      "base_en": "decent",
+      "target_word": "décent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "declare",
+      "target_word": "déclarer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "decline",
+      "target_word": "déclin",
+      "pos": "verb"
+    },
+    {
+      "base_en": "decoration",
+      "target_word": "décoration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "decrease",
+      "target_word": "diminuer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "deeply",
+      "target_word": "profondément",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "defeat",
+      "target_word": "défaite",
+      "pos": "verb"
+    },
+    {
+      "base_en": "defence",
+      "target_word": "défense",
+      "pos": "noun"
+    },
+    {
+      "base_en": "defend",
+      "target_word": "défendre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "delay",
+      "target_word": "retard",
+      "pos": "verb"
+    },
+    {
+      "base_en": "deliberate",
+      "target_word": "délibéré",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "deliberately",
+      "target_word": "délibérément",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "delight",
+      "target_word": "délice",
+      "pos": "verb"
+    },
+    {
+      "base_en": "delighted",
+      "target_word": "ravi",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "delivery",
+      "target_word": "livraison",
+      "pos": "noun"
+    },
+    {
+      "base_en": "demand",
+      "target_word": "demande",
+      "pos": "noun"
+    },
+    {
+      "base_en": "demonstrate",
+      "target_word": "démontrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "deny",
+      "target_word": "nier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "depressed",
+      "target_word": "déprimé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "depressing",
+      "target_word": "déprimant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "depth",
+      "target_word": "profondeur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "desert",
+      "target_word": "désert",
+      "pos": "verb"
+    },
+    {
+      "base_en": "deserve",
+      "target_word": "mériter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "desire",
+      "target_word": "désir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "desperate",
+      "target_word": "désespéré",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "detail",
+      "target_word": "détail",
+      "pos": "verb"
+    },
+    {
+      "base_en": "detailed",
+      "target_word": "détaillé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "detect",
+      "target_word": "détecter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dig",
+      "target_word": "creuser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "disc",
+      "target_word": "disque",
+      "pos": "noun"
+    },
+    {
+      "base_en": "discipline",
+      "target_word": "discipline",
+      "pos": "noun"
+    },
+    {
+      "base_en": "discount",
+      "target_word": "réduction",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dishonest",
+      "target_word": "malhonnête",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "dismiss",
+      "target_word": "rejeter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "display",
+      "target_word": "afficher",
+      "pos": "verb"
+    },
+    {
+      "base_en": "distribute",
+      "target_word": "distribuer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "distribution",
+      "target_word": "répartition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "district",
+      "target_word": "quartier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "divide",
+      "target_word": "diviser",
+      "pos": "noun"
+    },
+    {
+      "base_en": "division",
+      "target_word": "division",
+      "pos": "noun"
+    },
+    {
+      "base_en": "document",
+      "target_word": "documents",
+      "pos": "verb"
+    },
+    {
+      "base_en": "domestic",
+      "target_word": "domestique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "dominate",
+      "target_word": "dominer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "downwards",
+      "target_word": "vers le bas",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "dozen",
+      "target_word": "douzaine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "draft",
+      "target_word": "brouillon",
+      "pos": "noun"
+    },
+    {
+      "base_en": "drag",
+      "target_word": "faire glisser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "dramatic",
+      "target_word": "dramatique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "edit",
+      "target_word": "modifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "edition",
+      "target_word": "édition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "efficient",
+      "target_word": "efficace",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "elderly",
+      "target_word": "personnes âgées",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "elect",
+      "target_word": "élire",
+      "pos": "verb"
+    },
+    {
+      "base_en": "elsewhere",
+      "target_word": "ailleurs",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "emerge",
+      "target_word": "émerger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "emotional",
+      "target_word": "émotif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "emphasis",
+      "target_word": "accentuation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "emphasize",
+      "target_word": "souligner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "enable",
+      "target_word": "activer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "encounter",
+      "target_word": "rencontre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "engage",
+      "target_word": "s'engager",
+      "pos": "verb"
+    },
+    {
+      "base_en": "enhance",
+      "target_word": "améliorer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "enquiry",
+      "target_word": "enquête",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ensure",
+      "target_word": "assurer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "enthusiasm",
+      "target_word": "enthousiasme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "enthusiastic",
+      "target_word": "enthousiaste",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "entire",
+      "target_word": "entier",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "entirely",
+      "target_word": "entièrement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "equal",
+      "target_word": "égal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "establish",
+      "target_word": "établir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "estate",
+      "target_word": "domaine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "estimate",
+      "target_word": "estimation",
+      "pos": "verb"
+    },
+    {
+      "base_en": "ethical",
+      "target_word": "éthique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "evaluate",
+      "target_word": "évaluer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "even",
+      "target_word": "même",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "evil",
+      "target_word": "mal",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "examination",
+      "target_word": "examen",
+      "pos": "noun"
+    },
+    {
+      "base_en": "excuse",
+      "target_word": "excuse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "executive",
+      "target_word": "exécutif",
+      "pos": "noun"
+    },
+    {
+      "base_en": "existence",
+      "target_word": "existence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "expectation",
+      "target_word": "attente",
+      "pos": "noun"
+    },
+    {
+      "base_en": "expense",
+      "target_word": "dépense",
+      "pos": "noun"
+    },
+    {
+      "base_en": "exploration",
+      "target_word": "exploration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "expose",
+      "target_word": "exposer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "extend",
+      "target_word": "prolonger",
+      "pos": "verb"
+    },
+    {
+      "base_en": "extent",
+      "target_word": "mesure",
+      "pos": "noun"
+    },
+    {
+      "base_en": "external",
+      "target_word": "externe",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "extraordinary",
+      "target_word": "extraordinaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "extreme",
+      "target_word": "extrême",
+      "pos": "noun"
+    },
+    {
+      "base_en": "facility",
+      "target_word": "installation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "failure",
+      "target_word": "échec",
+      "pos": "noun"
+    },
+    {
+      "base_en": "faith",
+      "target_word": "foi",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fault",
+      "target_word": "faute",
+      "pos": "noun"
+    },
+    {
+      "base_en": "favour",
+      "target_word": "faveur",
+      "pos": "verb"
+    },
+    {
+      "base_en": "feather",
+      "target_word": "plume",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fee",
+      "target_word": "frais",
+      "pos": "noun"
+    },
+    {
+      "base_en": "feed",
+      "target_word": "nourrir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "feedback",
+      "target_word": "commentaires",
+      "pos": "noun"
+    },
+    {
+      "base_en": "feel",
+      "target_word": "sentir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fellow",
+      "target_word": "camarade",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "figure",
+      "target_word": "chiffre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "file",
+      "target_word": "fichier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "finance",
+      "target_word": "finances",
+      "pos": "noun"
+    },
+    {
+      "base_en": "finding",
+      "target_word": "trouver",
+      "pos": "noun"
+    },
+    {
+      "base_en": "firm",
+      "target_word": "ferme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fix",
+      "target_word": "réparer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flame",
+      "target_word": "flamme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flash",
+      "target_word": "éclair",
+      "pos": "noun"
+    },
+    {
+      "base_en": "flexible",
+      "target_word": "flexible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "float",
+      "target_word": "flotter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fold",
+      "target_word": "plier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "folding",
+      "target_word": "pliage",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "following",
+      "target_word": "suivant",
+      "pos": "other"
+    },
+    {
+      "base_en": "forgive",
+      "target_word": "pardonner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "former",
+      "target_word": "ancien",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "fortune",
+      "target_word": "fortune",
+      "pos": "noun"
+    },
+    {
+      "base_en": "forward",
+      "target_word": "en avant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "found",
+      "target_word": "trouvé",
+      "pos": "verb"
+    },
+    {
+      "base_en": "free",
+      "target_word": "gratuit",
+      "pos": "verb"
+    },
+    {
+      "base_en": "freedom",
+      "target_word": "liberté",
+      "pos": "noun"
+    },
+    {
+      "base_en": "frequency",
+      "target_word": "fréquence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fuel",
+      "target_word": "carburant",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fully",
+      "target_word": "entièrement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "function",
+      "target_word": "fonction",
+      "pos": "verb"
+    },
+    {
+      "base_en": "fund",
+      "target_word": "fonds",
+      "pos": "noun"
+    },
+    {
+      "base_en": "fundamental",
+      "target_word": "fondamental",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "funding",
+      "target_word": "financement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "furthermore",
+      "target_word": "en plus",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "gain",
+      "target_word": "gagner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "gang",
+      "target_word": "bande",
+      "pos": "noun"
+    },
+    {
+      "base_en": "generate",
+      "target_word": "générer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "genre",
+      "target_word": "genre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "govern",
+      "target_word": "gouverner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "grab",
+      "target_word": "saisir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "grade",
+      "target_word": "note",
+      "pos": "verb"
+    },
+    {
+      "base_en": "gradually",
+      "target_word": "progressivement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "grand",
+      "target_word": "grandiose",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "grant",
+      "target_word": "subvention",
+      "pos": "verb"
+    },
+    {
+      "base_en": "guarantee",
+      "target_word": "garantie",
+      "pos": "verb"
+    },
+    {
+      "base_en": "handle",
+      "target_word": "poignée",
+      "pos": "verb"
+    },
+    {
+      "base_en": "harm",
+      "target_word": "nuire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "harmful",
+      "target_word": "nuisible",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "hearing",
+      "target_word": "audition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heaven",
+      "target_word": "paradis",
+      "pos": "noun"
+    },
+    {
+      "base_en": "heel",
+      "target_word": "talon",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hell",
+      "target_word": "enfer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hesitate",
+      "target_word": "hésiter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "high",
+      "target_word": "haut",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hire",
+      "target_word": "embaucher",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hold",
+      "target_word": "tenir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hollow",
+      "target_word": "creux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "holy",
+      "target_word": "saint",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "honour",
+      "target_word": "honneur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "host",
+      "target_word": "hôte",
+      "pos": "verb"
+    },
+    {
+      "base_en": "house",
+      "target_word": "maison",
+      "pos": "verb"
+    },
+    {
+      "base_en": "household",
+      "target_word": "ménage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "housing",
+      "target_word": "logement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "humorous",
+      "target_word": "humoristique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "humour",
+      "target_word": "humour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hunt",
+      "target_word": "chasser",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hunting",
+      "target_word": "chasse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "hurt",
+      "target_word": "blessé",
+      "pos": "noun"
+    },
+    {
+      "base_en": "ideal",
+      "target_word": "idéal",
+      "pos": "noun"
+    },
+    {
+      "base_en": "illustrate",
+      "target_word": "illustrer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "illustration",
+      "target_word": "illustration",
+      "pos": "noun"
+    },
+    {
+      "base_en": "imagination",
+      "target_word": "imagination",
+      "pos": "noun"
+    },
+    {
+      "base_en": "impatient",
+      "target_word": "impatient",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "imply",
+      "target_word": "impliquer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "impose",
+      "target_word": "imposer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "impress",
+      "target_word": "impressionner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "impressed",
+      "target_word": "impressionné",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "inch",
+      "target_word": "pouce",
+      "pos": "noun"
+    },
+    {
+      "base_en": "incident",
+      "target_word": "incident",
+      "pos": "noun"
+    },
+    {
+      "base_en": "income",
+      "target_word": "revenu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "increasingly",
+      "target_word": "de plus en plus",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "industrial",
+      "target_word": "industriel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "infection",
+      "target_word": "infection",
+      "pos": "noun"
+    },
+    {
+      "base_en": "inform",
+      "target_word": "informer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "initial",
+      "target_word": "initiale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "initially",
+      "target_word": "initialement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "initiative",
+      "target_word": "initiative",
+      "pos": "noun"
+    },
+    {
+      "base_en": "inner",
+      "target_word": "intérieur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "insight",
+      "target_word": "aperçu",
+      "pos": "noun"
+    },
+    {
+      "base_en": "insist",
+      "target_word": "insister",
+      "pos": "verb"
+    },
+    {
+      "base_en": "inspire",
+      "target_word": "inspirer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "install",
+      "target_word": "installer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "instance",
+      "target_word": "exemple",
+      "pos": "noun"
+    },
+    {
+      "base_en": "institute",
+      "target_word": "institut",
+      "pos": "noun"
+    },
+    {
+      "base_en": "institution",
+      "target_word": "établissement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "insurance",
+      "target_word": "assurance",
+      "pos": "noun"
+    },
+    {
+      "base_en": "intended",
+      "target_word": "prévu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "intense",
+      "target_word": "intense",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "internal",
+      "target_word": "interne",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "interpret",
+      "target_word": "interpréter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "interrupt",
+      "target_word": "interrompre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "investigation",
+      "target_word": "enquête",
+      "pos": "noun"
+    },
+    {
+      "base_en": "investment",
+      "target_word": "investissement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "issue",
+      "target_word": "problème",
+      "pos": "verb"
+    },
+    {
+      "base_en": "joy",
+      "target_word": "joie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "judgement",
+      "target_word": "jugement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "junior",
+      "target_word": "junior",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "justice",
+      "target_word": "justice",
+      "pos": "noun"
+    },
+    {
+      "base_en": "justify",
+      "target_word": "justifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "labour",
+      "target_word": "travail",
+      "pos": "noun"
+    },
+    {
+      "base_en": "landscape",
+      "target_word": "paysage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "largely",
+      "target_word": "en grande partie",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "latest",
+      "target_word": "dernier",
+      "pos": "noun"
+    },
+    {
+      "base_en": "launch",
+      "target_word": "lancer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "leadership",
+      "target_word": "direction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "league",
+      "target_word": "ligue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lean",
+      "target_word": "maigre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "leave",
+      "target_word": "partir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "level",
+      "target_word": "niveau",
+      "pos": "verb"
+    },
+    {
+      "base_en": "licence",
+      "target_word": "licence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "limited",
+      "target_word": "limité",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "line",
+      "target_word": "ligne",
+      "pos": "verb"
+    },
+    {
+      "base_en": "lively",
+      "target_word": "animé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "load",
+      "target_word": "charger",
+      "pos": "noun"
+    },
+    {
+      "base_en": "loan",
+      "target_word": "prêt",
+      "pos": "noun"
+    },
+    {
+      "base_en": "logical",
+      "target_word": "logique",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "long-term",
+      "target_word": "à long terme",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "loose",
+      "target_word": "lâche",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "lord",
+      "target_word": "seigneur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "low",
+      "target_word": "faible",
+      "pos": "noun"
+    },
+    {
+      "base_en": "lower",
+      "target_word": "inférieur",
+      "pos": "verb"
+    },
+    {
+      "base_en": "lung",
+      "target_word": "poumon",
+      "pos": "noun"
+    },
+    {
+      "base_en": "maintain",
+      "target_word": "maintenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "majority",
+      "target_word": "majorité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "make",
+      "target_word": "faire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "map",
+      "target_word": "carte",
+      "pos": "verb"
+    },
+    {
+      "base_en": "mass",
+      "target_word": "masse",
+      "pos": "noun"
+    },
+    {
+      "base_en": "massive",
+      "target_word": "massif",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "master",
+      "target_word": "maître",
+      "pos": "noun"
+    },
+    {
+      "base_en": "matching",
+      "target_word": "correspondance",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "material",
+      "target_word": "matériel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "maximum",
+      "target_word": "maximum",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "means",
+      "target_word": "signifie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "measurement",
+      "target_word": "mesure",
+      "pos": "noun"
+    },
+    {
+      "base_en": "medium",
+      "target_word": "moyen",
+      "pos": "noun"
+    },
+    {
+      "base_en": "melt",
+      "target_word": "fondre",
+      "pos": "verb"
+    },
+    {
+      "base_en": "military",
+      "target_word": "militaire",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "mineral",
+      "target_word": "minéral",
+      "pos": "noun"
+    },
+    {
+      "base_en": "minimum",
+      "target_word": "minimum",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "minister",
+      "target_word": "ministre",
+      "pos": "noun"
+    },
+    {
+      "base_en": "minor",
+      "target_word": "mineur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "minority",
+      "target_word": "minorité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mission",
+      "target_word": "mission",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mistake",
+      "target_word": "erreur",
+      "pos": "verb"
+    },
+    {
+      "base_en": "mixed",
+      "target_word": "mixte",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "model",
+      "target_word": "modèle",
+      "pos": "verb"
+    },
+    {
+      "base_en": "modify",
+      "target_word": "modifier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "monitor",
+      "target_word": "surveiller",
+      "pos": "noun"
+    },
+    {
+      "base_en": "moral",
+      "target_word": "morale",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "motor",
+      "target_word": "moteur",
+      "pos": "noun"
+    },
+    {
+      "base_en": "mount",
+      "target_word": "monter",
+      "pos": "verb"
+    },
+    {
+      "base_en": "multiple",
+      "target_word": "plusieurs",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "multiply",
+      "target_word": "multiplier",
+      "pos": "verb"
+    },
+    {
+      "base_en": "mysterious",
+      "target_word": "mystérieux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "narrow",
+      "target_word": "étroit",
+      "pos": "verb"
+    },
+    {
+      "base_en": "national",
+      "target_word": "nationale",
+      "pos": "noun"
+    },
+    {
+      "base_en": "neat",
+      "target_word": "soigné",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "negative",
+      "target_word": "négatif",
+      "pos": "noun"
+    },
+    {
+      "base_en": "nerve",
+      "target_word": "nerf",
+      "pos": "noun"
+    },
+    {
+      "base_en": "nevertheless",
+      "target_word": "néanmoins",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "nightmare",
+      "target_word": "cauchemar",
+      "pos": "noun"
+    },
+    {
+      "base_en": "notion",
+      "target_word": "idée",
+      "pos": "noun"
+    },
+    {
+      "base_en": "numerous",
+      "target_word": "nombreux",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "obey",
+      "target_word": "obéir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "object",
+      "target_word": "objet",
+      "pos": "verb"
+    },
+    {
+      "base_en": "objective",
+      "target_word": "objectif",
+      "pos": "noun"
+    },
+    {
+      "base_en": "obligation",
+      "target_word": "obligation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "observation",
+      "target_word": "observation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "observe",
+      "target_word": "observer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "obtain",
+      "target_word": "obtenir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "occasionally",
+      "target_word": "occasionnellement",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "offence",
+      "target_word": "infraction",
+      "pos": "noun"
+    },
+    {
+      "base_en": "offend",
+      "target_word": "offenser",
+      "pos": "verb"
+    },
+    {
+      "base_en": "offensive",
+      "target_word": "offensant",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "official",
+      "target_word": "officiel",
+      "pos": "noun"
+    },
+    {
+      "base_en": "opening",
+      "target_word": "ouverture",
+      "pos": "noun"
+    },
+    {
+      "base_en": "operate",
+      "target_word": "fonctionner",
+      "pos": "verb"
+    },
+    {
+      "base_en": "opponent",
+      "target_word": "adversaire",
+      "pos": "noun"
+    },
+    {
+      "base_en": "oppose",
+      "target_word": "s'opposer",
+      "pos": "verb"
+    },
+    {
+      "base_en": "opposed",
+      "target_word": "opposé",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "opposition",
+      "target_word": "opposition",
+      "pos": "noun"
+    },
+    {
+      "base_en": "organ",
+      "target_word": "orgue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "origin",
+      "target_word": "origine",
+      "pos": "noun"
+    },
+    {
+      "base_en": "otherwise",
+      "target_word": "sinon",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "outcome",
+      "target_word": "résultat",
+      "pos": "noun"
+    },
+    {
+      "base_en": "outer",
+      "target_word": "extérieur",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "outline",
+      "target_word": "contour",
+      "pos": "noun"
+    },
+    {
+      "base_en": "overall",
+      "target_word": "dans l'ensemble",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "owe",
+      "target_word": "devoir",
+      "pos": "verb"
+    },
+    {
+      "base_en": "pace",
+      "target_word": "rythme",
+      "pos": "noun"
+    },
+    {
+      "base_en": "package",
+      "target_word": "paquet",
+      "pos": "verb"
+    },
+    {
+      "base_en": "panel",
+      "target_word": "panneau",
+      "pos": "noun"
+    },
+    {
+      "base_en": "parliament",
+      "target_word": "parlement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "participant",
+      "target_word": "participant",
+      "pos": "noun"
+    },
+    {
+      "base_en": "partly",
+      "target_word": "en partie",
+      "pos": "adverb"
+    },
+    {
+      "base_en": "passage",
+      "target_word": "passage",
+      "pos": "noun"
+    },
+    {
+      "base_en": "patient",
+      "target_word": "malade",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "pension1",
+      "target_word": "pension1",
+      "pos": "noun"
+    },
+    {
+      "base_en": "permanent",
+      "target_word": "permanent",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "permit",
+      "target_word": "permis",
+      "pos": "verb"
+    },
+    {
+      "base_en": "perspective",
+      "target_word": "point de vue",
+      "pos": "noun"
+    },
+    {
+      "base_en": "phase",
+      "target_word": "étape",
+      "pos": "noun"
+    },
+    {
+      "base_en": "phenomenon",
+      "target_word": "phénomène",
+      "pos": "noun"
+    },
+    {
+      "base_en": "philosophy",
+      "target_word": "philosophie",
+      "pos": "noun"
+    },
+    {
+      "base_en": "pick",
+      "target_word": "choisir",
+      "pos": "noun"
+    },
+    {
+      "base_en": "picture",
+      "target_word": "photo",
+      "pos": "verb"
+    },
+    {
+      "base_en": "pile",
+      "target_word": "tas",
+      "pos": "noun"
+    },
+    {
+      "base_en": "pitch",
+      "target_word": "emplacement",
+      "pos": "noun"
+    },
+    {
+      "base_en": "plain",
+      "target_word": "simple",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "plot",
+      "target_word": "complot",
+      "pos": "verb"
+    },
+    {
+      "base_en": "plus1",
+      "target_word": "plus1",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "pointed",
+      "target_word": "pointu",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "popularity",
+      "target_word": "popularité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "pose",
+      "target_word": "pose",
+      "pos": "verb"
+    },
+    {
+      "base_en": "position",
+      "target_word": "poste",
+      "pos": "verb"
+    },
+    {
+      "base_en": "positive",
+      "target_word": "positif",
+      "pos": "noun"
+    },
+    {
+      "base_en": "possess",
+      "target_word": "posséder",
+      "pos": "verb"
+    },
+    {
+      "base_en": "potential",
+      "target_word": "potentiel",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "power",
+      "target_word": "puissance",
+      "pos": "verb"
+    },
+    {
+      "base_en": "praise",
+      "target_word": "louange",
+      "pos": "noun"
+    },
+    {
+      "base_en": "pregnant",
+      "target_word": "enceinte",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "preparation",
+      "target_word": "préparation",
+      "pos": "noun"
+    },
+    {
+      "base_en": "presence",
+      "target_word": "présence",
+      "pos": "noun"
+    },
+    {
+      "base_en": "preserve",
+      "target_word": "préserver",
+      "pos": "verb"
+    },
+    {
+      "base_en": "price",
+      "target_word": "prix",
+      "pos": "verb"
+    },
+    {
+      "base_en": "prime",
+      "target_word": "premier",
+      "pos": "adjective"
+    },
+    {
+      "base_en": "principle",
+      "target_word": "principe",
+      "pos": "noun"
+    },
+    {
+      "base_en": "print",
+      "target_word": "imprimer",
+      "pos": "noun"
+    },
+    {
+      "base_en": "priority",
+      "target_word": "priorité",
+      "pos": "noun"
+    },
+    {
+      "base_en": "privacy",
+      "target_word": "confidentialité",
+      "pos": "noun"
+    }
+  ]
+}

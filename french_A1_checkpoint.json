@@ -1,0 +1,5678 @@
+[
+  {
+    "word": "un",
+    "translation": "bir",
+    "partOfSpeech": "determiner",
+    "phoneticUS": "/œ̃/",
+    "sentences": [
+      {
+        "en": "J'ai un livre sur la table.",
+        "tr": "Masada bir kitabım var."
+      }
+    ]
+  },
+  {
+    "word": "à propos",
+    "translation": "hakkında",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/a pʁɔpɔ/",
+    "sentences": [
+      {
+        "en": "À propos de ton projet, où en es-tu ?",
+        "tr": "Projen hakkında, ne durumdasın?"
+      }
+    ]
+  },
+  {
+    "word": "ci-dessus",
+    "translation": "yukarıda",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/si dəsy/",
+    "sentences": [
+      {
+        "en": "Les informations sont ci-dessus.",
+        "tr": "Bilgiler yukarıdadır."
+      }
+    ]
+  },
+  {
+    "word": "à travers",
+    "translation": "aracılığıyla",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/a tʁavɛʁ/",
+    "sentences": [
+      {
+        "en": "Nous avons communiqué à travers des e-mails.",
+        "tr": "E-posta aracılığıyla iletişim kurduk."
+      }
+    ]
+  },
+  {
+    "word": "action",
+    "translation": "eylem",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aksjɔ̃/",
+    "sentences": [
+      {
+        "en": "Cette action a des conséquences importantes.",
+        "tr": "Bu eylemin önemli sonuçları var."
+      }
+    ]
+  },
+  {
+    "word": "activité",
+    "translation": "aktivite",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aktivi.te/",
+    "sentences": [
+      {
+        "en": "Nous avons prévu une activité en plein air.",
+        "tr": "Açık hava etkinliği planladık."
+      }
+    ]
+  },
+  {
+    "word": "acteur",
+    "translation": "erkek oyuncu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aktœʁ/",
+    "sentences": [
+      {
+        "en": "Il est un acteur très talentueux.",
+        "tr": "O çok yetenekli bir erkek oyuncu."
+      }
+    ]
+  },
+  {
+    "word": "actrice",
+    "translation": "kadın oyuncu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aktʁis/",
+    "sentences": [
+      {
+        "en": "Elle est une actrice célèbre.",
+        "tr": "O ünlü bir kadın oyuncudur."
+      }
+    ]
+  },
+  {
+    "word": "ajouter",
+    "translation": "eklemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/aʒute/",
+    "sentences": [
+      {
+        "en": "Il faut ajouter du sucre dans le café.",
+        "tr": "Kahveye şeker eklemek gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "adresse",
+    "translation": "adres",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/adʁɛs/",
+    "sentences": [
+      {
+        "en": "Pouvez-vous me donner votre adresse ?",
+        "tr": "Bana adresinizi verebilir misiniz?"
+      }
+    ]
+  },
+  {
+    "word": "adulte",
+    "translation": "yetişkin",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/adylt/",
+    "sentences": [
+      {
+        "en": "Il est adulte maintenant.",
+        "tr": "O artık yetişkin."
+      }
+    ]
+  },
+  {
+    "word": "conseils",
+    "translation": "tavsiye",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔ̃sɛj/",
+    "sentences": [
+      {
+        "en": "Merci pour tes conseils.",
+        "tr": "Tavsiyelerin için teşekkür ederim."
+      }
+    ]
+  },
+  {
+    "word": "peur",
+    "translation": "korku",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pœʁ/",
+    "sentences": [
+      {
+        "en": "Il a peur des araignées.",
+        "tr": "O, örümceklerden korkuyor."
+      }
+    ]
+  },
+  {
+    "word": "après",
+    "translation": "sonra",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/apʁɛ/",
+    "sentences": [
+      {
+        "en": "Après le dîner, nous allons au cinéma.",
+        "tr": "Akşam yemeğinden sonra sinemaya gideceğiz."
+      }
+    ]
+  },
+  {
+    "word": "après-midi",
+    "translation": "öğleden sonra",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/apʁɛ midi/",
+    "sentences": [
+      {
+        "en": "Nous avons une réunion cet après-midi.",
+        "tr": "Bu öğleden sonra bir toplantımız var."
+      }
+    ]
+  },
+  {
+    "word": "encore une fois",
+    "translation": "bir kez daha",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ɑ̃kɔʁ yn fwa/",
+    "sentences": [
+      {
+        "en": "Je vais essayer encore une fois.",
+        "tr": "Bir kez daha deneyeceğim."
+      }
+    ]
+  },
+  {
+    "word": "âge",
+    "translation": "yaş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aʒ/",
+    "sentences": [
+      {
+        "en": "Quel est ton âge ?",
+        "tr": "Kaç yaşındasın?"
+      }
+    ]
+  },
+  {
+    "word": "il y a",
+    "translation": "önce",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/il jɑ/",
+    "sentences": [
+      {
+        "en": "Il y a trois jours, nous sommes partis.",
+        "tr": "Üç gün önce gittik."
+      }
+    ]
+  },
+  {
+    "word": "d'accord",
+    "translation": "tamam",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dakɔʁ/",
+    "sentences": [
+      {
+        "en": "D'accord, je vais le faire.",
+        "tr": "Tamam, bunu yapacağım."
+      }
+    ]
+  },
+  {
+    "word": "air",
+    "translation": "hava",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛʁ/",
+    "sentences": [
+      {
+        "en": "L'air est frais ce matin.",
+        "tr": "Hava bu sabah serin."
+      }
+    ]
+  },
+  {
+    "word": "aéroport",
+    "translation": "havaalanı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aeʁɔpɔʁ/",
+    "sentences": [
+      {
+        "en": "Nous allons à l'aéroport demain.",
+        "tr": "Yarın havaalanına gideceğiz."
+      }
+    ]
+  },
+  {
+    "word": "tout",
+    "translation": "her şey",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/tu/",
+    "sentences": [
+      {
+        "en": "Tout est prêt pour la fête.",
+        "tr": "Parti için her şey hazır."
+      }
+    ]
+  },
+  {
+    "word": "aussi",
+    "translation": "da, ayrıca",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/osi/",
+    "sentences": [
+      {
+        "en": "Je vais aussi acheter des fruits.",
+        "tr": "Ayrıca meyve alacağım."
+      }
+    ]
+  },
+  {
+    "word": "toujours",
+    "translation": "her zaman",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/tuʒuʁ/",
+    "sentences": [
+      {
+        "en": "Il est toujours là pour moi.",
+        "tr": "O, her zaman benim için burada."
+      }
+    ]
+  },
+  {
+    "word": "incroyable",
+    "translation": "inanılmaz",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɛ̃kʁwajabl/",
+    "sentences": [
+      {
+        "en": "C'est un film incroyable !",
+        "tr": "Bu inanılmaz bir film!"
+      }
+    ]
+  },
+  {
+    "word": "et",
+    "translation": "ve",
+    "partOfSpeech": "conjunction",
+    "phoneticUS": "/e/",
+    "sentences": [
+      {
+        "en": "J'aime le chocolat et la vanille.",
+        "tr": "Çikolatayı ve vanilyayı severim."
+      }
+    ]
+  },
+  {
+    "word": "en colère",
+    "translation": "sinirli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɑ̃ kɔ.lɛʁ/",
+    "sentences": [
+      {
+        "en": "Il est en colère contre son ami.",
+        "tr": "O, arkadaşıyla sinirli."
+      }
+    ]
+  },
+  {
+    "word": "animal",
+    "translation": "hayvan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.ni.mal/",
+    "sentences": [
+      {
+        "en": "L'animal mange dans la forêt.",
+        "tr": "Hayvan ormanda yemek yiyor."
+      }
+    ]
+  },
+  {
+    "word": "un autre",
+    "translation": "başka bir",
+    "partOfSpeech": "determiner",
+    "phoneticUS": "/œ̃ otʁ/",
+    "sentences": [
+      {
+        "en": "Je veux un autre livre.",
+        "tr": "Başka bir kitap istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "réponse",
+    "translation": "cevap",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁe.pɔ̃s/",
+    "sentences": [
+      {
+        "en": "J'attends ta réponse.",
+        "tr": "Cevabını bekliyorum."
+      }
+    ]
+  },
+  {
+    "word": "n'importe quel",
+    "translation": "herhangi bir",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/nɛ̃.pɔʁt kɛl/",
+    "sentences": [
+      {
+        "en": "Tu peux choisir n'importe quel film.",
+        "tr": "Herhangi bir film seçebilirsin."
+      }
+    ]
+  },
+  {
+    "word": "n'importe qui",
+    "translation": "herhangi biri",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/nɛ̃.pɔʁt ki/",
+    "sentences": [
+      {
+        "en": "N'importe qui peut le faire.",
+        "tr": "Herhangi biri bunu yapabilir."
+      }
+    ]
+  },
+  {
+    "word": "n'importe quoi",
+    "translation": "herhangi bir şey",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/nɛ̃.pɔʁt kwa/",
+    "sentences": [
+      {
+        "en": "Il dit n'importe quoi.",
+        "tr": "Herhangi bir şey söylüyor."
+      }
+    ]
+  },
+  {
+    "word": "appartement",
+    "translation": "daire",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.paʁtə.mɑ̃/",
+    "sentences": [
+      {
+        "en": "Je cherche un appartement à louer.",
+        "tr": "Kiralanacak bir daire arıyorum."
+      }
+    ]
+  },
+  {
+    "word": "pomme",
+    "translation": "elma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pɔm/",
+    "sentences": [
+      {
+        "en": "Elle mange une pomme.",
+        "tr": "O, bir elma yiyor."
+      }
+    ]
+  },
+  {
+    "word": "avril",
+    "translation": "Nisan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/avʁil/",
+    "sentences": [
+      {
+        "en": "Le printemps commence en avril.",
+        "tr": "İlkbahar Nisan ayında başlar."
+      }
+    ]
+  },
+  {
+    "word": "zone",
+    "translation": "bölge",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/zɔn/",
+    "sentences": [
+      {
+        "en": "Cette zone est interdite.",
+        "tr": "Bu bölge yasaktır."
+      }
+    ]
+  },
+  {
+    "word": "bras",
+    "translation": "kol",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bʁɑ/",
+    "sentences": [
+      {
+        "en": "Il a mal au bras.",
+        "tr": "Kolu ağrıyor."
+      }
+    ]
+  },
+  {
+    "word": "autour",
+    "translation": "çevresinde",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/o.tuʁ/",
+    "sentences": [
+      {
+        "en": "Il y a des arbres autour de la maison.",
+        "tr": "Ev çevresinde ağaçlar var."
+      }
+    ]
+  },
+  {
+    "word": "arriver",
+    "translation": "varmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/a.ʁi.ve/",
+    "sentences": [
+      {
+        "en": "Ils vont arriver à 10 heures.",
+        "tr": "Saat 10'da varacaklar."
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "translation": "sanat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aʁ/",
+    "sentences": [
+      {
+        "en": "L'art moderne est fascinant.",
+        "tr": "Modern sanat büyüleyicidir."
+      }
+    ]
+  },
+  {
+    "word": "article",
+    "translation": "makale",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aʁ.tikl/",
+    "sentences": [
+      {
+        "en": "J'ai écrit un article pour le journal.",
+        "tr": "Gazete için bir makale yazdım."
+      }
+    ]
+  },
+  {
+    "word": "artiste",
+    "translation": "sanatçı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aʁ.tist/",
+    "sentences": [
+      {
+        "en": "Elle est artiste peintre.",
+        "tr": "O, bir ressam sanatçıdır."
+      }
+    ]
+  },
+  {
+    "word": "comme",
+    "translation": "gibi",
+    "partOfSpeech": "other",
+    "phoneticUS": "/kɔm/",
+    "sentences": [
+      {
+        "en": "Il court comme un champion.",
+        "tr": "Bir şampiyon gibi koşuyor."
+      }
+    ]
+  },
+  {
+    "word": "demander",
+    "translation": "sormak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/də.mɑ̃.de/",
+    "sentences": [
+      {
+        "en": "Je vais demander à Marie.",
+        "tr": "Marie'ye soracağım."
+      }
+    ]
+  },
+  {
+    "word": "à",
+    "translation": "de, -e, -a",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/a/",
+    "sentences": [
+      {
+        "en": "Je vais à l'école.",
+        "tr": "Okula gidiyorum."
+      }
+    ]
+  },
+  {
+    "word": "août",
+    "translation": "Ağustos",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ut/",
+    "sentences": [
+      {
+        "en": "Les vacances commencent en août.",
+        "tr": "Tatil Ağustos'ta başlar."
+      }
+    ]
+  },
+  {
+    "word": "tante",
+    "translation": "teyze, hala",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tɑ̃t/",
+    "sentences": [
+      {
+        "en": "Ma tante vit à Paris.",
+        "tr": "Teyzem Paris'te yaşıyor."
+      }
+    ]
+  },
+  {
+    "word": "automne",
+    "translation": "sonbahar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/o.tɔn/",
+    "sentences": [
+      {
+        "en": "L'automne est ma saison préférée.",
+        "tr": "Sonbahar benim en sevdiğim mevsimdir."
+      }
+    ]
+  },
+  {
+    "word": "loin",
+    "translation": "uzak",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/lwɛ̃/",
+    "sentences": [
+      {
+        "en": "Il habite loin d'ici.",
+        "tr": "Buradan uzak bir yerde yaşıyor."
+      }
+    ]
+  },
+  {
+    "word": "bébé",
+    "translation": "bebek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/be.be/",
+    "sentences": [
+      {
+        "en": "Le bébé dort dans son lit.",
+        "tr": "Bebek yatağında uyuyor."
+      }
+    ]
+  },
+  {
+    "word": "retour",
+    "translation": "geri dönüş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁə.tuʁ/",
+    "sentences": [
+      {
+        "en": "Nous attendons son retour demain.",
+        "tr": "Yarına kadar geri dönüşünü bekliyoruz."
+      }
+    ]
+  },
+  {
+    "word": "mauvais",
+    "translation": "kötü",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/mo.vɛ/",
+    "sentences": [
+      {
+        "en": "Il a fait un mauvais choix.",
+        "tr": "Kötü bir seçim yaptı."
+      }
+    ]
+  },
+  {
+    "word": "sac",
+    "translation": "çanta",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sak/",
+    "sentences": [
+      {
+        "en": "Elle porte un sac rouge.",
+        "tr": "Kırmızı bir çanta taşıyor."
+      }
+    ]
+  },
+  {
+    "word": "balle",
+    "translation": "top",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bal/",
+    "sentences": [
+      {
+        "en": "Ils jouent avec la balle.",
+        "tr": "Topla oynuyorlar."
+      }
+    ]
+  },
+  {
+    "word": "banane",
+    "translation": "muz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ba.nan/",
+    "sentences": [
+      {
+        "en": "Je mange une banane.",
+        "tr": "Bir muz yiyorum."
+      }
+    ]
+  },
+  {
+    "word": "bande",
+    "translation": "bando",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bɑ̃d/",
+    "sentences": [
+      {
+        "en": "La bande joue de la musique.",
+        "tr": "Bando müzik çalıyor."
+      }
+    ]
+  },
+  {
+    "word": "banque",
+    "translation": "banka",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bɑ̃k/",
+    "sentences": [
+      {
+        "en": "Je vais à la banque demain.",
+        "tr": "Yarın bankaya gideceğim."
+      }
+    ]
+  },
+  {
+    "word": "bain",
+    "translation": "banyo",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bɛ̃/",
+    "sentences": [
+      {
+        "en": "Je prends un bain chaud.",
+        "tr": "Sıcak bir banyo yapıyorum."
+      }
+    ]
+  },
+  {
+    "word": "salle de bain",
+    "translation": "banyolu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sal də bɛ̃/",
+    "sentences": [
+      {
+        "en": "La salle de bain est très propre.",
+        "tr": "Banyo çok temiz."
+      }
+    ]
+  },
+  {
+    "word": "être",
+    "translation": "olmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɛtʁ/",
+    "sentences": [
+      {
+        "en": "Je suis heureux d'être ici.",
+        "tr": "Burada olmaktan mutluyum."
+      }
+    ]
+  },
+  {
+    "word": "plage",
+    "translation": "plaj",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/plaʒ/",
+    "sentences": [
+      {
+        "en": "Nous allons à la plage demain.",
+        "tr": "Yarın plaja gideceğiz."
+      }
+    ]
+  },
+  {
+    "word": "belle",
+    "translation": "güzel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/bɛl/",
+    "sentences": [
+      {
+        "en": "Elle est très belle.",
+        "tr": "O çok güzel."
+      }
+    ]
+  },
+  {
+    "word": "parce que",
+    "translation": "çünkü",
+    "partOfSpeech": "conjunction",
+    "phoneticUS": "/paʁsə kə/",
+    "sentences": [
+      {
+        "en": "Je suis fatigué parce que j'ai travaillé.",
+        "tr": "Çalıştığım için yorgunum."
+      }
+    ]
+  },
+  {
+    "word": "devenir",
+    "translation": "olmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/də.və.niʁ/",
+    "sentences": [
+      {
+        "en": "Il veut devenir médecin.",
+        "tr": "Doktor olmak istiyor."
+      }
+    ]
+  },
+  {
+    "word": "lit",
+    "translation": "yatak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/li/",
+    "sentences": [
+      {
+        "en": "Je vais me coucher dans mon lit.",
+        "tr": "Yatakta yatmaya gideceğim."
+      }
+    ]
+  },
+  {
+    "word": "chambre à coucher",
+    "translation": "yatak odası",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃɑ̃bʁ‿a kuʃe/",
+    "sentences": [
+      {
+        "en": "Ma chambre à coucher est grande.",
+        "tr": "Yatak odam büyük."
+      }
+    ]
+  },
+  {
+    "word": "bière",
+    "translation": "bira",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bjeʁ/",
+    "sentences": [
+      {
+        "en": "Je bois une bière.",
+        "tr": "Bir bira içiyorum."
+      }
+    ]
+  },
+  {
+    "word": "avant",
+    "translation": "önce",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/avɑ̃/",
+    "sentences": [
+      {
+        "en": "Je dois partir avant midi.",
+        "tr": "Öğleye kadar gitmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "commencer",
+    "translation": "başlamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kɔ.mɑ̃.se/",
+    "sentences": [
+      {
+        "en": "Il va commencer à étudier.",
+        "tr": "Çalışmaya başlayacak."
+      }
+    ]
+  },
+  {
+    "word": "début",
+    "translation": "başlangıç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/də.bü/",
+    "sentences": [
+      {
+        "en": "Le début du film est intéressant.",
+        "tr": "Filmin başlangıcı ilginç."
+      }
+    ]
+  },
+  {
+    "word": "derrière",
+    "translation": "arkasında",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/dɛʁ.jɛʁ/",
+    "sentences": [
+      {
+        "en": "La voiture est derrière la maison.",
+        "tr": "Araba evin arkasında."
+      }
+    ]
+  },
+  {
+    "word": "crois",
+    "translation": "inanmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kʁwa/",
+    "sentences": [
+      {
+        "en": "Je crois en toi.",
+        "tr": "Sana inanıyorum."
+      }
+    ]
+  },
+  {
+    "word": "ci-dessous",
+    "translation": "aşağıda",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/si də su/",
+    "sentences": [
+      {
+        "en": "Les instructions sont ci-dessous.",
+        "tr": "Talimatlar aşağıda."
+      }
+    ]
+  },
+  {
+    "word": "meilleur",
+    "translation": "en iyi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/mɛ.jœʁ/",
+    "sentences": [
+      {
+        "en": "C'est le meilleur film que j'ai vu.",
+        "tr": "Bu gördüğüm en iyi film."
+      }
+    ]
+  },
+  {
+    "word": "mieux",
+    "translation": "daha iyi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/mjø/",
+    "sentences": [
+      {
+        "en": "Il se sent mieux après le repos.",
+        "tr": "Dinlendikten sonra kendini daha iyi hissediyor."
+      }
+    ]
+  },
+  {
+    "word": "entre",
+    "translation": "arasında",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/ɑ̃tʁ/",
+    "sentences": [
+      {
+        "en": "La maison est entre les deux collines.",
+        "tr": "Ev iki tepe arasında."
+      }
+    ]
+  },
+  {
+    "word": "vélo",
+    "translation": "bisiklet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/velo/",
+    "sentences": [
+      {
+        "en": "J'aime faire du vélo le week-end.",
+        "tr": "Hafta sonları bisiklete binmeyi severim."
+      }
+    ]
+  },
+  {
+    "word": "grand",
+    "translation": "büyük",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɡʁɑ̃/",
+    "sentences": [
+      {
+        "en": "Il habite dans une grande maison.",
+        "tr": "O, büyük bir evde yaşıyor."
+      }
+    ]
+  },
+  {
+    "word": "facture",
+    "translation": "fatura",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/faktyʁ/",
+    "sentences": [
+      {
+        "en": "La facture d'électricité est arrivée.",
+        "tr": "Elektrik faturası geldi."
+      }
+    ]
+  },
+  {
+    "word": "oiseau",
+    "translation": "kuş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/wazo/",
+    "sentences": [
+      {
+        "en": "L'oiseau chante dans le jardin.",
+        "tr": "Kuş bahçede şarkı söylüyor."
+      }
+    ]
+  },
+  {
+    "word": "anniversaire",
+    "translation": "doğum günü",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/anivɛʁsɛʁ/",
+    "sentences": [
+      {
+        "en": "Nous fêtons son anniversaire aujourd'hui.",
+        "tr": "Bugün onun doğum gününü kutluyoruz."
+      }
+    ]
+  },
+  {
+    "word": "noir",
+    "translation": "siyah",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/nwaʁ/",
+    "sentences": [
+      {
+        "en": "Elle porte une robe noire.",
+        "tr": "O, siyah bir elbise giyiyor."
+      }
+    ]
+  },
+  {
+    "word": "bloguer",
+    "translation": "blog yazmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/blɔɡe/",
+    "sentences": [
+      {
+        "en": "Il aime bloguer sur ses voyages.",
+        "tr": "Seyahatleri hakkında blog yazmayı seviyor."
+      }
+    ]
+  },
+  {
+    "word": "blonde",
+    "translation": "sarı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/blɔ̃d/",
+    "sentences": [
+      {
+        "en": "Sa sœur a les cheveux blonds.",
+        "tr": "Kız kardeşinin sarı saçları var."
+      }
+    ]
+  },
+  {
+    "word": "bleu",
+    "translation": "mavi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/blø/",
+    "sentences": [
+      {
+        "en": "Le ciel est bleu aujourd'hui.",
+        "tr": "Bugün gökyüzü mavi."
+      }
+    ]
+  },
+  {
+    "word": "bateau",
+    "translation": "tekne",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bato/",
+    "sentences": [
+      {
+        "en": "Nous avons loué un bateau pour la mer.",
+        "tr": "Deniz için bir tekne kiraladık."
+      }
+    ]
+  },
+  {
+    "word": "corps",
+    "translation": "vücut",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔʁ/",
+    "sentences": [
+      {
+        "en": "Le corps humain est complexe.",
+        "tr": "İnsan vücudu karmaşıktır."
+      }
+    ]
+  },
+  {
+    "word": "livre",
+    "translation": "kitap",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/livʁ/",
+    "sentences": [
+      {
+        "en": "Je lis un livre intéressant.",
+        "tr": "İlginç bir kitap okuyorum."
+      }
+    ]
+  },
+  {
+    "word": "démarrer",
+    "translation": "başlatmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/demare/",
+    "sentences": [
+      {
+        "en": "Il faut démarrer l'ordinateur.",
+        "tr": "Bilgisayarı başlatmak gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "ennuyé",
+    "translation": "sıkılmış",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɑ̃nɥije/",
+    "sentences": [
+      {
+        "en": "Il est ennuyé par le film.",
+        "tr": "Film onu sıkıyor."
+      }
+    ]
+  },
+  {
+    "word": "ennuyeux",
+    "translation": "sıkıcı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɑ̃nɥjø/",
+    "sentences": [
+      {
+        "en": "Le cours est ennuyeux.",
+        "tr": "Ders sıkıcı."
+      }
+    ]
+  },
+  {
+    "word": "né",
+    "translation": "doğmuş",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ne/",
+    "sentences": [
+      {
+        "en": "Il est né en France.",
+        "tr": "O, Fransa'da doğmuş."
+      }
+    ]
+  },
+  {
+    "word": "les deux",
+    "translation": "her ikisi",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/le dø/",
+    "sentences": [
+      {
+        "en": "Les deux sont corrects.",
+        "tr": "Her ikisi de doğru."
+      }
+    ]
+  },
+  {
+    "word": "bouteille",
+    "translation": "şişe",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/butɛj/",
+    "sentences": [
+      {
+        "en": "J'ai acheté une bouteille d'eau.",
+        "tr": "Bir şişe su aldım."
+      }
+    ]
+  },
+  {
+    "word": "boîte",
+    "translation": "kutu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bwat/",
+    "sentences": [
+      {
+        "en": "La boîte est vide.",
+        "tr": "Kutu boş."
+      }
+    ]
+  },
+  {
+    "word": "garçon",
+    "translation": "çocuk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡaʁsɔ̃/",
+    "sentences": [
+      {
+        "en": "Le garçon joue dans le parc.",
+        "tr": "Çocuk parkta oynuyor."
+      }
+    ]
+  },
+  {
+    "word": "petit ami",
+    "translation": "erkek arkadaş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pəti ami/",
+    "sentences": [
+      {
+        "en": "Elle a rencontré son petit ami hier.",
+        "tr": "Dün erkek arkadaşını tanıştı."
+      }
+    ]
+  },
+  {
+    "word": "pain",
+    "translation": "ekmek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pɛ̃/",
+    "sentences": [
+      {
+        "en": "Je mange du pain le matin.",
+        "tr": "Sabahları ekmek yiyorum."
+      }
+    ]
+  },
+  {
+    "word": "pause",
+    "translation": "mola",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/poz/",
+    "sentences": [
+      {
+        "en": "Nous avons besoin d'une pause.",
+        "tr": "Bir molaya ihtiyacımız var."
+      }
+    ]
+  },
+  {
+    "word": "petit déjeuner",
+    "translation": "kahvaltı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pəti deʒœne/",
+    "sentences": [
+      {
+        "en": "Le petit déjeuner est prêt.",
+        "tr": "Kahvaltı hazır."
+      }
+    ]
+  },
+  {
+    "word": "apporter",
+    "translation": "getirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/apɔʁte/",
+    "sentences": [
+      {
+        "en": "Il va apporter les livres.",
+        "tr": "O, kitapları getirecek."
+      }
+    ]
+  },
+  {
+    "word": "frère",
+    "translation": "erkek kardeş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fʁɛʁ/",
+    "sentences": [
+      {
+        "en": "Mon frère est très gentil.",
+        "tr": "Erkek kardeşim çok nazik."
+      }
+    ]
+  },
+  {
+    "word": "marron",
+    "translation": "kahverengi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/maʁɔ̃/",
+    "sentences": [
+      {
+        "en": "Les cheveux de Marie sont marron.",
+        "tr": "Marie'nin saçları kahverengi."
+      }
+    ]
+  },
+  {
+    "word": "construire",
+    "translation": "inşa etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kɔ̃stʁɥiʁ/",
+    "sentences": [
+      {
+        "en": "Ils vont construire une maison.",
+        "tr": "Bir ev inşa edecekler."
+      }
+    ]
+  },
+  {
+    "word": "bâtiment",
+    "translation": "bina",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/batimɑ̃/",
+    "sentences": [
+      {
+        "en": "Ce bâtiment est très ancien.",
+        "tr": "Bu bina çok eski."
+      }
+    ]
+  },
+  {
+    "word": "autobus",
+    "translation": "otobüs",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/otɔbys/",
+    "sentences": [
+      {
+        "en": "L'autobus arrive dans cinq minutes.",
+        "tr": "Otobüs beş dakika içinde gelecek."
+      }
+    ]
+  },
+  {
+    "word": "entreprise",
+    "translation": "işletme",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɑ̃tʁəpʁiz/",
+    "sentences": [
+      {
+        "en": "Elle travaille dans une grande entreprise.",
+        "tr": "Büyük bir işletmede çalışıyor."
+      }
+    ]
+  },
+  {
+    "word": "occupé",
+    "translation": "meşgul",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɔkype/",
+    "sentences": [
+      {
+        "en": "Je suis occupé en ce moment.",
+        "tr": "Şu anda meşgulüm."
+      }
+    ]
+  },
+  {
+    "word": "mais",
+    "translation": "ama",
+    "partOfSpeech": "conjunction",
+    "phoneticUS": "/mɛ/",
+    "sentences": [
+      {
+        "en": "J'aime le chocolat, mais je préfère les bonbons.",
+        "tr": "Çikolatayı severim ama şekerlemeleri tercih ederim."
+      }
+    ]
+  },
+  {
+    "word": "beurre",
+    "translation": "tereyağı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bœʁ/",
+    "sentences": [
+      {
+        "en": "Je mets du beurre sur ma tartine.",
+        "tr": "Ekmeğime tereyağı sürüyorum."
+      }
+    ]
+  },
+  {
+    "word": "acheter",
+    "translation": "satın almak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/aʃəte/",
+    "sentences": [
+      {
+        "en": "Je vais acheter une nouvelle voiture.",
+        "tr": "Yeni bir araba alacağım."
+      }
+    ]
+  },
+  {
+    "word": "par",
+    "translation": "tarafından",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/paʁ/",
+    "sentences": [
+      {
+        "en": "Le livre a été écrit par un célèbre auteur.",
+        "tr": "Kitap ünlü bir yazar tarafından yazıldı."
+      }
+    ]
+  },
+  {
+    "word": "au revoir",
+    "translation": "hoşça kal",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/oʁəvwaʁ/",
+    "sentences": [
+      {
+        "en": "Au revoir et à bientôt!",
+        "tr": "Hoşça kal ve yakında görüşmek üzere!"
+      }
+    ]
+  },
+  {
+    "word": "café",
+    "translation": "kafe",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kafe/",
+    "sentences": [
+      {
+        "en": "Nous allons au café cet après-midi.",
+        "tr": "Bu öğleden sonra kafeye gideceğiz."
+      }
+    ]
+  },
+  {
+    "word": "gâteau",
+    "translation": "pasta",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡɑto/",
+    "sentences": [
+      {
+        "en": "Le gâteau au chocolat est délicieux.",
+        "tr": "Çikolatalı kek çok lezzetli."
+      }
+    ]
+  },
+  {
+    "word": "appeler",
+    "translation": "aramak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/apələ/",
+    "sentences": [
+      {
+        "en": "Je vais appeler mon ami.",
+        "tr": "Arkadaşımı arayacağım."
+      }
+    ]
+  },
+  {
+    "word": "caméra",
+    "translation": "kamera",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kamɛʁa/",
+    "sentences": [
+      {
+        "en": "Elle a une nouvelle caméra.",
+        "tr": "Onun yeni bir kamerası var."
+      }
+    ]
+  },
+  {
+    "word": "peut1",
+    "translation": "yapabilmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pø/",
+    "sentences": [
+      {
+        "en": "Je peux parler trois langues.",
+        "tr": "Üç dil konuşabiliyorum."
+      }
+    ]
+  },
+  {
+    "word": "ne peux pas",
+    "translation": "yapamam",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/nə pø pa/",
+    "sentences": [
+      {
+        "en": "Je ne peux pas venir demain.",
+        "tr": "Yarın gelemem."
+      }
+    ]
+  },
+  {
+    "word": "capitale",
+    "translation": "başkent",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kapital/",
+    "sentences": [
+      {
+        "en": "Paris est la capitale de la France.",
+        "tr": "Paris, Fransa'nın başkentidir."
+      }
+    ]
+  },
+  {
+    "word": "voiture",
+    "translation": "araba",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vwatyr/",
+    "sentences": [
+      {
+        "en": "Ma voiture est rouge.",
+        "tr": "Arabam kırmızı."
+      }
+    ]
+  },
+  {
+    "word": "carte",
+    "translation": "kart",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kaʁt/",
+    "sentences": [
+      {
+        "en": "Je voudrais une carte de la ville.",
+        "tr": "Şehir haritası istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "carrière",
+    "translation": "kariyer",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kaʁjɛʁ/",
+    "sentences": [
+      {
+        "en": "Il a une carrière réussie.",
+        "tr": "Onun başarılı bir kariyeri var."
+      }
+    ]
+  },
+  {
+    "word": "carotte",
+    "translation": "havuç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ka.ʁɔt/",
+    "sentences": [
+      {
+        "en": "Je mange une carotte tous les jours.",
+        "tr": "Her gün bir havuç yiyorum."
+      }
+    ]
+  },
+  {
+    "word": "porter",
+    "translation": "taşımak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pɔʁ.te/",
+    "sentences": [
+      {
+        "en": "Il peut porter ce sac lourd.",
+        "tr": "O bu ağır çantayı taşıyabilir."
+      }
+    ]
+  },
+  {
+    "word": "chat",
+    "translation": "kedi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃa/",
+    "sentences": [
+      {
+        "en": "Le chat dort sur le canapé.",
+        "tr": "Kedi kanepede uyuyor."
+      }
+    ]
+  },
+  {
+    "word": "CD",
+    "translation": "CD",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/se.de/",
+    "sentences": [
+      {
+        "en": "J'ai acheté un nouveau CD de musique.",
+        "tr": "Yeni bir müzik CD'si aldım."
+      }
+    ]
+  },
+  {
+    "word": "cent",
+    "translation": "yüz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sɑ̃/",
+    "sentences": [
+      {
+        "en": "Il a cent euros dans son portefeuille.",
+        "tr": "Cüzdanında yüz euro var."
+      }
+    ]
+  },
+  {
+    "word": "centre",
+    "translation": "merkez",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sɑ̃tʁ/",
+    "sentences": [
+      {
+        "en": "Le centre-ville est très animé.",
+        "tr": "Şehir merkezi çok canlı."
+      }
+    ]
+  },
+  {
+    "word": "siècle",
+    "translation": "yüzyıl",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sjɛkl/",
+    "sentences": [
+      {
+        "en": "Le vingtième siècle a connu beaucoup de changements.",
+        "tr": "Yirminci yüzyıl çok değişiklikler gördü."
+      }
+    ]
+  },
+  {
+    "word": "chaise",
+    "translation": "sandalye",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃɛz/",
+    "sentences": [
+      {
+        "en": "Cette chaise est très confortable.",
+        "tr": "Bu sandalye çok rahat."
+      }
+    ]
+  },
+  {
+    "word": "changement",
+    "translation": "değişim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃɑ̃ʒ.mɑ̃/",
+    "sentences": [
+      {
+        "en": "Le changement de politique a surpris tout le monde.",
+        "tr": "Politika değişikliği herkesi şaşırttı."
+      }
+    ]
+  },
+  {
+    "word": "graphique",
+    "translation": "grafik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡʁa.fik/",
+    "sentences": [
+      {
+        "en": "Le graphique montre l'évolution des ventes.",
+        "tr": "Grafik satışların gelişimini gösteriyor."
+      }
+    ]
+  },
+  {
+    "word": "pas cher",
+    "translation": "ucuz",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pa ʃɛʁ/",
+    "sentences": [
+      {
+        "en": "Ce livre est pas cher.",
+        "tr": "Bu kitap ucuz."
+      }
+    ]
+  },
+  {
+    "word": "vérifier",
+    "translation": "kontrol etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ve.ʁi.fje/",
+    "sentences": [
+      {
+        "en": "Je vais vérifier mon e-mail.",
+        "tr": "E-postamı kontrol edeceğim."
+      }
+    ]
+  },
+  {
+    "word": "fromage",
+    "translation": "peynir",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fʁɔ.maʒ/",
+    "sentences": [
+      {
+        "en": "J'adore le fromage français.",
+        "tr": "Fransız peynirini çok severim."
+      }
+    ]
+  },
+  {
+    "word": "poulet",
+    "translation": "tavuk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pu.lɛ/",
+    "sentences": [
+      {
+        "en": "Nous avons mangé du poulet rôti.",
+        "tr": "Kızarmış tavuk yedik."
+      }
+    ]
+  },
+  {
+    "word": "enfant",
+    "translation": "çocuk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɑ̃.fɑ̃/",
+    "sentences": [
+      {
+        "en": "L'enfant joue dans le jardin.",
+        "tr": "Çocuk bahçede oynuyor."
+      }
+    ]
+  },
+  {
+    "word": "chocolat",
+    "translation": "çikolata",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃɔ.kɔ.la/",
+    "sentences": [
+      {
+        "en": "J'aime le chocolat noir.",
+        "tr": "Bitter çikolatayı severim."
+      }
+    ]
+  },
+  {
+    "word": "choisir",
+    "translation": "seçmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʃwa.ziʁ/",
+    "sentences": [
+      {
+        "en": "Il faut choisir un cadeau pour son ami.",
+        "tr": "Arkadaşına bir hediye seçmelisin."
+      }
+    ]
+  },
+  {
+    "word": "cinéma",
+    "translation": "sinema",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/si.ne.ma/",
+    "sentences": [
+      {
+        "en": "Nous allons au cinéma ce soir.",
+        "tr": "Bu akşam sinemaya gidiyoruz."
+      }
+    ]
+  },
+  {
+    "word": "ville",
+    "translation": "şehir",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vil/",
+    "sentences": [
+      {
+        "en": "Paris est une belle ville.",
+        "tr": "Paris güzel bir şehirdir."
+      }
+    ]
+  },
+  {
+    "word": "classe",
+    "translation": "sınıf",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/klas/",
+    "sentences": [
+      {
+        "en": "La classe commence à huit heures.",
+        "tr": "Sınıf saat sekizde başlıyor."
+      }
+    ]
+  },
+  {
+    "word": "salle de classe",
+    "translation": "derslik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sal də klas/",
+    "sentences": [
+      {
+        "en": "Les élèves sont dans la salle de classe.",
+        "tr": "Öğrenciler dersliktedir."
+      }
+    ]
+  },
+  {
+    "word": "nettoyer",
+    "translation": "temizlemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ne.twa.je/",
+    "sentences": [
+      {
+        "en": "Il faut nettoyer la cuisine.",
+        "tr": "Mutfak temizlenmeli."
+      }
+    ]
+  },
+  {
+    "word": "grimper",
+    "translation": "tırmanmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɡʁɛ̃.pe/",
+    "sentences": [
+      {
+        "en": "L'enfant aime grimper aux arbres.",
+        "tr": "Çocuk ağaçlara tırmanmayı seviyor."
+      }
+    ]
+  },
+  {
+    "word": "horloge",
+    "translation": "saat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɔʁ.lɔʒ/",
+    "sentences": [
+      {
+        "en": "L'horloge indique midi.",
+        "tr": "Saat öğleyi gösteriyor."
+      }
+    ]
+  },
+  {
+    "word": "fermer1",
+    "translation": "kapatmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/fɛʁ.me/",
+    "sentences": [
+      {
+        "en": "N'oublie pas de fermer la porte.",
+        "tr": "Kapıyı kapatmayı unutma."
+      }
+    ]
+  },
+  {
+    "word": "vêtements",
+    "translation": "giysiler",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vɛt.mɑ̃/",
+    "sentences": [
+      {
+        "en": "J'achète des vêtements dans ce magasin.",
+        "tr": "Bu dükkandan giysi alıyorum."
+      }
+    ]
+  },
+  {
+    "word": "club",
+    "translation": "kulüp",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/klʏb/",
+    "sentences": [
+      {
+        "en": "Elle est membre du club de lecture.",
+        "tr": "O, okuma kulübünün üyesidir."
+      }
+    ]
+  },
+  {
+    "word": "manteau",
+    "translation": "palto",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɑ̃.to/",
+    "sentences": [
+      {
+        "en": "Il porte un manteau noir.",
+        "tr": "Siyah bir palto giyiyor."
+      }
+    ]
+  },
+  {
+    "word": "froid",
+    "translation": "soğuk",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fʁwa/",
+    "sentences": [
+      {
+        "en": "Il fait froid aujourd'hui.",
+        "tr": "Bugün hava soğuk."
+      }
+    ]
+  },
+  {
+    "word": "collège",
+    "translation": "ortaokul",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔ.lɛʒ/",
+    "sentences": [
+      {
+        "en": "Elle va au collège à pied.",
+        "tr": "O, okula yürüyerek gidiyor."
+      }
+    ]
+  },
+  {
+    "word": "couleur",
+    "translation": "renk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ku.lœʁ/",
+    "sentences": [
+      {
+        "en": "Quelle est ta couleur préférée ?",
+        "tr": "En sevdiğin renk ne?"
+      }
+    ]
+  },
+  {
+    "word": "viens",
+    "translation": "gel",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vjɛ̃/",
+    "sentences": [
+      {
+        "en": "Viens ici, s'il te plaît.",
+        "tr": "Lütfen buraya gel."
+      }
+    ]
+  },
+  {
+    "word": "commun",
+    "translation": "yaygın",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kɔ.mỹ/",
+    "sentences": [
+      {
+        "en": "C'est un problème commun.",
+        "tr": "Bu yaygın bir sorun."
+      }
+    ]
+  },
+  {
+    "word": "comparer",
+    "translation": "karşılaştırmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kɔ̃.pa.ʁe/",
+    "sentences": [
+      {
+        "en": "Il aime comparer les prix.",
+        "tr": "Fiyatları karşılaştırmayı sever."
+      }
+    ]
+  },
+  {
+    "word": "complet",
+    "translation": "tam",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kɔ̃.plɛ/",
+    "sentences": [
+      {
+        "en": "Le film est complet maintenant.",
+        "tr": "Film şu anda tamamlandı."
+      }
+    ]
+  },
+  {
+    "word": "ordinateur",
+    "translation": "bilgisayar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɔʁ.də.na.tœʁ/",
+    "sentences": [
+      {
+        "en": "J'utilise mon ordinateur pour travailler.",
+        "tr": "Çalışmak için bilgisayarımı kullanıyorum."
+      }
+    ]
+  },
+  {
+    "word": "concert",
+    "translation": "konser",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔ̃.sɛʁ/",
+    "sentences": [
+      {
+        "en": "Nous allons au concert ce soir.",
+        "tr": "Bu akşam konsere gidiyoruz."
+      }
+    ]
+  },
+  {
+    "word": "conversation",
+    "translation": "sohbet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔ̃.vɛʁ.sa.sjɔ̃/",
+    "sentences": [
+      {
+        "en": "Nous avons eu une longue conversation.",
+        "tr": "Uzun bir sohbet ettik."
+      }
+    ]
+  },
+  {
+    "word": "cuisinier",
+    "translation": "şef",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kɥi.zi.nje/",
+    "sentences": [
+      {
+        "en": "Il aime cuisiner pour sa famille.",
+        "tr": "Ailesi için yemek yapmayı sever."
+      }
+    ]
+  },
+  {
+    "word": "cuisine",
+    "translation": "mutfak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɥi.zin/",
+    "sentences": [
+      {
+        "en": "Elle passe beaucoup de temps en cuisine.",
+        "tr": "O, mutfakta çok zaman geçiriyor."
+      }
+    ]
+  },
+  {
+    "word": "cool",
+    "translation": "havalı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kul/",
+    "sentences": [
+      {
+        "en": "Ce film est vraiment cool.",
+        "tr": "Bu film gerçekten havalı."
+      }
+    ]
+  },
+  {
+    "word": "correct",
+    "translation": "doğru",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kɔʁ.ɛkt/",
+    "sentences": [
+      {
+        "en": "Ta réponse est correcte.",
+        "tr": "Cevabın doğru."
+      }
+    ]
+  },
+  {
+    "word": "coût",
+    "translation": "maliyet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ku/",
+    "sentences": [
+      {
+        "en": "Le coût de la vie augmente chaque année.",
+        "tr": "Yaşam maliyeti her yıl artıyor."
+      }
+    ]
+  },
+  {
+    "word": "pourrait",
+    "translation": "olabilir",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/puʁɛ/",
+    "sentences": [
+      {
+        "en": "Il pourrait venir demain.",
+        "tr": "Yarın gelebilir."
+      }
+    ]
+  },
+  {
+    "word": "pays",
+    "translation": "ülke",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pɛ.i/",
+    "sentences": [
+      {
+        "en": "Ce pays est très beau.",
+        "tr": "Bu ülke çok güzel."
+      }
+    ]
+  },
+  {
+    "word": "cours",
+    "translation": "ders",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kuʁs/",
+    "sentences": [
+      {
+        "en": "Le cours commence à 9 heures.",
+        "tr": "Ders saat 9'da başlıyor."
+      }
+    ]
+  },
+  {
+    "word": "cousine",
+    "translation": "kuzen",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ku.zin/",
+    "sentences": [
+      {
+        "en": "Ma cousine est plus jeune que moi.",
+        "tr": "Kuzenim benden daha gençtir."
+      }
+    ]
+  },
+  {
+    "word": "vache",
+    "translation": "inek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vaʃ/",
+    "sentences": [
+      {
+        "en": "La vache mange de l'herbe.",
+        "tr": "İnek ot yiyor."
+      }
+    ]
+  },
+  {
+    "word": "crème",
+    "translation": "krema",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kʁɛm/",
+    "sentences": [
+      {
+        "en": "J'ai mis de la crème dans mon café.",
+        "tr": "Kahveme krema koydum."
+      }
+    ]
+  },
+  {
+    "word": "créer",
+    "translation": "yaratmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kʁe.e/",
+    "sentences": [
+      {
+        "en": "Elle aime créer des œuvres d'art.",
+        "tr": "Sanat eserleri yaratmayı seviyor."
+      }
+    ]
+  },
+  {
+    "word": "culturelle",
+    "translation": "kültürel",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kyl.tyʁɛl/",
+    "sentences": [
+      {
+        "en": "Il y a une grande richesse culturelle en France.",
+        "tr": "Fransa'da büyük bir kültürel zenginlik var."
+      }
+    ]
+  },
+  {
+    "word": "tasse",
+    "translation": "fincan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tas/",
+    "sentences": [
+      {
+        "en": "Je bois une tasse de thé tous les matins.",
+        "tr": "Her sabah bir fincan çay içerim."
+      }
+    ]
+  },
+  {
+    "word": "client",
+    "translation": "müşteri",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kljɑ̃/",
+    "sentences": [
+      {
+        "en": "Le client est satisfait de notre service.",
+        "tr": "Müşteri hizmetimizden memnun."
+      }
+    ]
+  },
+  {
+    "word": "couper",
+    "translation": "kesmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kupɛʁ/",
+    "sentences": [
+      {
+        "en": "Il faut couper le pain en morceaux.",
+        "tr": "Ekmeği parçalara kesmek gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "papa",
+    "translation": "baba",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/papa/",
+    "sentences": [
+      {
+        "en": "Mon papa est très gentil.",
+        "tr": "Babam çok naziktir."
+      }
+    ]
+  },
+  {
+    "word": "danse",
+    "translation": "dans",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dɑ̃s/",
+    "sentences": [
+      {
+        "en": "La danse est une forme d'art magnifique.",
+        "tr": "Dans, harika bir sanat formudur."
+      }
+    ]
+  },
+  {
+    "word": "danseur",
+    "translation": "dansçı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dɑ̃sœʁ/",
+    "sentences": [
+      {
+        "en": "Le danseur a impressionné le public.",
+        "tr": "Dansçı, izleyicileri etkiledi."
+      }
+    ]
+  },
+  {
+    "word": "danser",
+    "translation": "dans etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dɑ̃se/",
+    "sentences": [
+      {
+        "en": "J'adore danser pendant les fêtes.",
+        "tr": "Kutlamalar sırasında dans etmeyi çok severim."
+      }
+    ]
+  },
+  {
+    "word": "dangereux",
+    "translation": "tehlikeli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dɑ̃ʒəʁø/",
+    "sentences": [
+      {
+        "en": "Le chemin est dangereux, fais attention.",
+        "tr": "Yol tehlikeli, dikkat et."
+      }
+    ]
+  },
+  {
+    "word": "sombre",
+    "translation": "karanlık",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/sɔ̃bʁ/",
+    "sentences": [
+      {
+        "en": "La pièce est trop sombre pour lire.",
+        "tr": "Oda, okumak için çok karanlık."
+      }
+    ]
+  },
+  {
+    "word": "rendez-vous",
+    "translation": "randevu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁɑ̃de.vu/",
+    "sentences": [
+      {
+        "en": "J'ai un rendez-vous à 15 heures.",
+        "tr": "Saat 15:00'te bir randevum var."
+      }
+    ]
+  },
+  {
+    "word": "fille",
+    "translation": "kız",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fij/",
+    "sentences": [
+      {
+        "en": "Ma fille aime jouer au parc.",
+        "tr": "Kızım parkta oynamayı sever."
+      }
+    ]
+  },
+  {
+    "word": "jour",
+    "translation": "gün",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒuʁ/",
+    "sentences": [
+      {
+        "en": "Aujourd'hui, c'est un beau jour.",
+        "tr": "Bugün güzel bir gün."
+      }
+    ]
+  },
+  {
+    "word": "cher",
+    "translation": "değerli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ʃɛʁ/",
+    "sentences": [
+      {
+        "en": "C'est un cadeau très cher.",
+        "tr": "Bu çok değerli bir hediye."
+      }
+    ]
+  },
+  {
+    "word": "décembre",
+    "translation": "Aralık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/desɑ̃bʁ/",
+    "sentences": [
+      {
+        "en": "Nous partons en vacances en décembre.",
+        "tr": "Aralık ayında tatile gidiyoruz."
+      }
+    ]
+  },
+  {
+    "word": "décider",
+    "translation": "karar vermek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/deside/",
+    "sentences": [
+      {
+        "en": "Il doit décider où il veut aller.",
+        "tr": "Nereye gitmek istediğine karar vermeli."
+      }
+    ]
+  },
+  {
+    "word": "délicieux",
+    "translation": "lezzetli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/delisjø/",
+    "sentences": [
+      {
+        "en": "Ce gâteau est vraiment délicieux.",
+        "tr": "Bu kek gerçekten çok lezzetli."
+      }
+    ]
+  },
+  {
+    "word": "décrire",
+    "translation": "tanımlamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dekʁiʁ/",
+    "sentences": [
+      {
+        "en": "Elle a décrit son voyage en détail.",
+        "tr": "Seyahatini detaylı bir şekilde tanımladı."
+      }
+    ]
+  },
+  {
+    "word": "descriptif",
+    "translation": "tanımlama",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dɛskʁiptif/",
+    "sentences": [
+      {
+        "en": "Le descriptif du produit est très détaillé.",
+        "tr": "Ürünün tanımı çok ayrıntılıdır."
+      }
+    ]
+  },
+  {
+    "word": "conception",
+    "translation": "tasarım",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔ̃sɛpʃjɔ̃/",
+    "sentences": [
+      {
+        "en": "La conception de ce projet a pris plusieurs mois.",
+        "tr": "Bu projenin tasarımı birkaç ay sürdü."
+      }
+    ]
+  },
+  {
+    "word": "bureau",
+    "translation": "masa",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/byʁo/",
+    "sentences": [
+      {
+        "en": "Mon bureau est toujours en désordre.",
+        "tr": "Masan hep dağınıktır."
+      }
+    ]
+  },
+  {
+    "word": "détail",
+    "translation": "detay",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/detaj/",
+    "sentences": [
+      {
+        "en": "Les détails du contrat doivent être vérifiés.",
+        "tr": "Sözleşmenin detayları kontrol edilmelidir."
+      }
+    ]
+  },
+  {
+    "word": "dialoguer",
+    "translation": "sohbet etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/djalɔɡe/",
+    "sentences": [
+      {
+        "en": "Nous devons dialoguer pour mieux comprendre.",
+        "tr": "Daha iyi anlamak için sohbet etmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "dictionnaire",
+    "translation": "sözlük",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/diksjɔnɛʁ/",
+    "sentences": [
+      {
+        "en": "J'ai besoin d'un dictionnaire pour traduire ce mot.",
+        "tr": "Bu kelimeyi çevirmek için bir sözlüğe ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "word": "mourir",
+    "translation": "ölmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/muʁiʁ/",
+    "sentences": [
+      {
+        "en": "Il ne faut pas avoir peur de mourir.",
+        "tr": "Ölmekten korkmamalısın."
+      }
+    ]
+  },
+  {
+    "word": "régime",
+    "translation": "diyet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁeʒim/",
+    "sentences": [
+      {
+        "en": "Elle suit un régime strict pour perdre du poids.",
+        "tr": "Kilo vermek için sıkı bir diyet uyguluyor."
+      }
+    ]
+  },
+  {
+    "word": "différence",
+    "translation": "fark",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/difɛʁɑ̃s/",
+    "sentences": [
+      {
+        "en": "Il y a une grande différence entre ces deux produits.",
+        "tr": "Bu iki ürün arasında büyük bir fark var."
+      }
+    ]
+  },
+  {
+    "word": "différent",
+    "translation": "farklı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/difeʁɑ̃/",
+    "sentences": [
+      {
+        "en": "Les deux idées sont complètement différentes.",
+        "tr": "İki fikir tamamen farklı."
+      }
+    ]
+  },
+  {
+    "word": "difficile",
+    "translation": "zor",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/difisil/",
+    "sentences": [
+      {
+        "en": "Ce problème est vraiment difficile à résoudre.",
+        "tr": "Bu problem gerçekten zor çözülüyor."
+      }
+    ]
+  },
+  {
+    "word": "dîner",
+    "translation": "akşam yemeği",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dinɛʁ/",
+    "sentences": [
+      {
+        "en": "Nous avons mangé un bon dîner hier soir.",
+        "tr": "Dün akşam iyi bir akşam yemeği yedik."
+      }
+    ]
+  },
+  {
+    "word": "sale",
+    "translation": "kirli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/sal/",
+    "sentences": [
+      {
+        "en": "Tes chaussures sont vraiment sales.",
+        "tr": "Ayakkabıların gerçekten kirli."
+      }
+    ]
+  },
+  {
+    "word": "discuter",
+    "translation": "tartışmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/diskute/",
+    "sentences": [
+      {
+        "en": "Nous devons discuter de ce problème.",
+        "tr": "Bu problemi tartışmamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "plat",
+    "translation": "yemek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pla/",
+    "sentences": [
+      {
+        "en": "Ce plat est délicieux.",
+        "tr": "Bu yemek çok lezzetli."
+      }
+    ]
+  },
+  {
+    "word": "faire",
+    "translation": "yapmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/fɛʁ/",
+    "sentences": [
+      {
+        "en": "Il aime faire du sport tous les jours.",
+        "tr": "Her gün spor yapmayı sever."
+      }
+    ]
+  },
+  {
+    "word": "docteur",
+    "translation": "doktor",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dɔktœʁ/",
+    "sentences": [
+      {
+        "en": "Le docteur m'a conseillé de me reposer.",
+        "tr": "Doktor bana dinlenmemi tavsiye etti."
+      }
+    ]
+  },
+  {
+    "word": "chien",
+    "translation": "köpek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃjɛ̃/",
+    "sentences": [
+      {
+        "en": "Mon chien adore jouer dans le parc.",
+        "tr": "Köpeğim parkta oynamayı çok sever."
+      }
+    ]
+  },
+  {
+    "word": "dollars",
+    "translation": "dolar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dɔlaʁ/",
+    "sentences": [
+      {
+        "en": "Il a dépensé tous ses dollars pendant les vacances.",
+        "tr": "Tüm dolarlarını tatilde harcadı."
+      }
+    ]
+  },
+  {
+    "word": "porte",
+    "translation": "kapı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pɔʁt/",
+    "sentences": [
+      {
+        "en": "La porte est fermée à clé.",
+        "tr": "Kapı anahtarla kilitlenmiş."
+      }
+    ]
+  },
+  {
+    "word": "vers le bas",
+    "translation": "aşağıya",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/vɛʁ lə ba/",
+    "sentences": [
+      {
+        "en": "Regarde vers le bas, il y a un trou.",
+        "tr": "Aşağıya bak, orada bir delik var."
+      }
+    ]
+  },
+  {
+    "word": "en bas",
+    "translation": "aşağıda",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ɑ̃ ba/",
+    "sentences": [
+      {
+        "en": "Je suis en bas de l'escalier.",
+        "tr": "Merdivenin aşağısındayım."
+      }
+    ]
+  },
+  {
+    "word": "dessiner",
+    "translation": "çizmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/desine/",
+    "sentences": [
+      {
+        "en": "Elle aime dessiner des paysages.",
+        "tr": "Manzaralar çizmeyi sever."
+      }
+    ]
+  },
+  {
+    "word": "robe",
+    "translation": "elbise",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁɔb/",
+    "sentences": [
+      {
+        "en": "Elle porte une robe rouge pour la fête.",
+        "tr": "Partiye kırmızı bir elbise giyiyor."
+      }
+    ]
+  },
+  {
+    "word": "boire",
+    "translation": "içmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/bwaʁ/",
+    "sentences": [
+      {
+        "en": "Il aime boire du thé le matin.",
+        "tr": "Sabahları çay içmeyi sever."
+      }
+    ]
+  },
+  {
+    "word": "conduire",
+    "translation": "sürmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kɔ̃dɥʁ/",
+    "sentences": [
+      {
+        "en": "Je ne sais pas conduire une voiture.",
+        "tr": "Bir araba sürmeyi bilmiyorum."
+      }
+    ]
+  },
+  {
+    "word": "conducteur",
+    "translation": "şoför",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kɔ̃dyktœʁ/",
+    "sentences": [
+      {
+        "en": "Le conducteur du bus est très sympathique.",
+        "tr": "Otobüs şoförü çok samimi."
+      }
+    ]
+  },
+  {
+    "word": "pendant",
+    "translation": "boyunca",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/pɑ̃dɑ̃/",
+    "sentences": [
+      {
+        "en": "Nous avons marché pendant une heure.",
+        "tr": "Bir saat boyunca yürüdük."
+      }
+    ]
+  },
+  {
+    "word": "DVD",
+    "translation": "DVD",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/deveve/",
+    "sentences": [
+      {
+        "en": "J'ai regardé un film sur DVD hier soir.",
+        "tr": "Dün akşam DVD'den bir film izledim."
+      }
+    ]
+  },
+  {
+    "word": "chacun",
+    "translation": "her biri",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/ʃakœ̃/",
+    "sentences": [
+      {
+        "en": "Chacun doit apporter son propre déjeuner.",
+        "tr": "Her biri kendi öğle yemeğini getirmeli."
+      }
+    ]
+  },
+  {
+    "word": "oreille",
+    "translation": "kulak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɔʁɛj/",
+    "sentences": [
+      {
+        "en": "Elle a mal à l'oreille.",
+        "tr": "Onun kulağı ağrıyor."
+      }
+    ]
+  },
+  {
+    "word": "tôt",
+    "translation": "erken",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/to/",
+    "sentences": [
+      {
+        "en": "Il faut se lever tôt demain.",
+        "tr": "Yarın erken kalkmamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "est",
+    "translation": "doğu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛst/",
+    "sentences": [
+      {
+        "en": "Le soleil se lève à l'est.",
+        "tr": "Güneş doğuda doğar."
+      }
+    ]
+  },
+  {
+    "word": "facile",
+    "translation": "kolay",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fa.sil/",
+    "sentences": [
+      {
+        "en": "Ce problème est facile à résoudre.",
+        "tr": "Bu problem çözülmesi kolay."
+      }
+    ]
+  },
+  {
+    "word": "manger",
+    "translation": "yemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/mɑ̃ʒe/",
+    "sentences": [
+      {
+        "en": "Nous allons manger à midi.",
+        "tr": "Öğle yemeğini yiyeceğiz."
+      }
+    ]
+  },
+  {
+    "word": "oeuf",
+    "translation": "yumurta",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/œf/",
+    "sentences": [
+      {
+        "en": "L'œuf est dans le panier.",
+        "tr": "Yumurta sepette."
+      }
+    ]
+  },
+  {
+    "word": "chiffre huit",
+    "translation": "sekiz sayısı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/ʃifʁ‿ɥit/",
+    "sentences": [
+      {
+        "en": "Le chiffre huit est un nombre pair.",
+        "tr": "Sekiz sayısı çift bir sayıdır."
+      }
+    ]
+  },
+  {
+    "word": "numéro dix-huit",
+    "translation": "on sekiz numara",
+    "partOfSpeech": "other",
+    "phoneticUS": "/nymeʁo‿diz‿ɥit/",
+    "sentences": [
+      {
+        "en": "Le numéro dix-huit est le vôtre.",
+        "tr": "On sekiz numara sizin numaranız."
+      }
+    ]
+  },
+  {
+    "word": "nombre quatre vingt",
+    "translation": "seksen sayısı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/nɔ̃bʁ‿katʁə‿vɛ̃t/",
+    "sentences": [
+      {
+        "en": "Le nombre quatre vingt est un multiple de dix.",
+        "tr": "Seksen sayısı onun katıdır."
+      }
+    ]
+  },
+  {
+    "word": "éléphant",
+    "translation": "fil",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/el-e-fɑ̃/",
+    "sentences": [
+      {
+        "en": "L'éléphant est un grand animal.",
+        "tr": "Fil büyük bir hayvandır."
+      }
+    ]
+  },
+  {
+    "word": "numéro onze",
+    "translation": "on bir numara",
+    "partOfSpeech": "other",
+    "phoneticUS": "/nymeʁo‿ɔ̃z/",
+    "sentences": [
+      {
+        "en": "Le numéro onze est sur la porte.",
+        "tr": "On bir numara kapıda."
+      }
+    ]
+  },
+  {
+    "word": "sinon",
+    "translation": "yoksa",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/si.nɔ̃/",
+    "sentences": [
+      {
+        "en": "Tu dois étudier, sinon tu échoueras.",
+        "tr": "Çalışman gerek, yoksa başarısız olursun."
+      }
+    ]
+  },
+  {
+    "word": "email",
+    "translation": "e-posta",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛ.mɛjl/",
+    "sentences": [
+      {
+        "en": "J'ai envoyé un email hier.",
+        "tr": "Dün bir e-posta gönderdim."
+      }
+    ]
+  },
+  {
+    "word": "fin",
+    "translation": "son",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fɛ̃/",
+    "sentences": [
+      {
+        "en": "La fin du film est surprenante.",
+        "tr": "Filmin sonu şaşırtıcı."
+      }
+    ]
+  },
+  {
+    "word": "profiter",
+    "translation": "keyfini çıkarmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pʁɔ.fi.te/",
+    "sentences": [
+      {
+        "en": "Nous allons profiter de notre week-end.",
+        "tr": "Hafta sonumuzu keyfini çıkaracağız."
+      }
+    ]
+  },
+  {
+    "word": "assez",
+    "translation": "yeterince",
+    "partOfSpeech": "other",
+    "phoneticUS": "/a.se/",
+    "sentences": [
+      {
+        "en": "J'ai assez d'argent pour acheter ce livre.",
+        "tr": "Bu kitabı almak için yeterince param var."
+      }
+    ]
+  },
+  {
+    "word": "euros",
+    "translation": "avro",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/øʁo/",
+    "sentences": [
+      {
+        "en": "Il a 50 euros dans son portefeuille.",
+        "tr": "Cüzdanında 50 avrosu var."
+      }
+    ]
+  },
+  {
+    "word": "même",
+    "translation": "bile",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/mɛm/",
+    "sentences": [
+      {
+        "en": "Même les enfants peuvent comprendre cela.",
+        "tr": "Bile çocuklar bunu anlayabilir."
+      }
+    ]
+  },
+  {
+    "word": "soirée",
+    "translation": "akşam",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/swa.ʁe/",
+    "sentences": [
+      {
+        "en": "Nous avons passé une agréable soirée.",
+        "tr": "Keyifli bir akşam geçirdik."
+      }
+    ]
+  },
+  {
+    "word": "événement",
+    "translation": "etkinlik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/evɛ.nə.mɑ̃/",
+    "sentences": [
+      {
+        "en": "L'événement aura lieu demain.",
+        "tr": "Etkinlik yarın yapılacak."
+      }
+    ]
+  },
+  {
+    "word": "jamais",
+    "translation": "asla",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ʒa.mɛ/",
+    "sentences": [
+      {
+        "en": "Je ne l'ai jamais vu.",
+        "tr": "Onu asla görmedim."
+      }
+    ]
+  },
+  {
+    "word": "chaque",
+    "translation": "her",
+    "partOfSpeech": "other",
+    "phoneticUS": "/ʃak/",
+    "sentences": [
+      {
+        "en": "Chaque personne a ses propres rêves.",
+        "tr": "Her kişinin kendi hayalleri vardır."
+      }
+    ]
+  },
+  {
+    "word": "tout le monde",
+    "translation": "herkes",
+    "partOfSpeech": "other",
+    "phoneticUS": "/tu‿lə‿mɔ̃d/",
+    "sentences": [
+      {
+        "en": "Tout le monde aime la musique.",
+        "tr": "Herkes müziği sever."
+      }
+    ]
+  },
+  {
+    "word": "examen",
+    "translation": "sınav",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛɡ.zɑ.mɑ̃/",
+    "sentences": [
+      {
+        "en": "J'ai un examen important demain.",
+        "tr": "Yarın önemli bir sınavım var."
+      }
+    ]
+  },
+  {
+    "word": "exemple",
+    "translation": "örnek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛɡ.zɑmpl/",
+    "sentences": [
+      {
+        "en": "Voici un exemple de bonne pratique.",
+        "tr": "İşte iyi bir uygulamanın örneği."
+      }
+    ]
+  },
+  {
+    "word": "excité",
+    "translation": "heyecanlı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɛk.si.te/",
+    "sentences": [
+      {
+        "en": "Elle est très excitée par son nouveau travail.",
+        "tr": "Yeni işinden çok heyecanlı."
+      }
+    ]
+  },
+  {
+    "word": "passionnant",
+    "translation": "heyecan verici",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pa.sjɔ.nɑ̃/",
+    "sentences": [
+      {
+        "en": "Ce livre est vraiment passionnant.",
+        "tr": "Bu kitap gerçekten heyecan verici."
+      }
+    ]
+  },
+  {
+    "word": "exercice",
+    "translation": "egzersiz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛɡ.zɛʁ.sis/",
+    "sentences": [
+      {
+        "en": "Fais cet exercice pour t'entraîner.",
+        "tr": "Pratik yapmak için bu egzersizi yap."
+      }
+    ]
+  },
+  {
+    "word": "expliquer",
+    "translation": "açıklamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɛks.pli.ke/",
+    "sentences": [
+      {
+        "en": "Peux-tu m'expliquer ce concept?",
+        "tr": "Bana bu kavramı açıklayabilir misin?"
+      }
+    ]
+  },
+  {
+    "word": "supplémentaire",
+    "translation": "ek",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/sy.ple.mɑ̃.tɛʁ/",
+    "sentences": [
+      {
+        "en": "Nous avons besoin d'informations supplémentaires.",
+        "tr": "Ek bilgilere ihtiyacımız var."
+      }
+    ]
+  },
+  {
+    "word": "oeil",
+    "translation": "göz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/œj/",
+    "sentences": [
+      {
+        "en": "Il a un œil très perçant.",
+        "tr": "Onun çok keskin bir gözü var."
+      }
+    ]
+  },
+  {
+    "word": "visage",
+    "translation": "yüz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vi.zaʒ/",
+    "sentences": [
+      {
+        "en": "Son visage est plein d'émotions.",
+        "tr": "Onun yüzü duygularla dolu."
+      }
+    ]
+  },
+  {
+    "word": "fait",
+    "translation": "gerçek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fɛ/",
+    "sentences": [
+      {
+        "en": "C'est un fait que nous devons accepter.",
+        "tr": "Kabul etmemiz gereken bir gerçek."
+      }
+    ]
+  },
+  {
+    "word": "tomber",
+    "translation": "düşmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/tɔ̃.be/",
+    "sentences": [
+      {
+        "en": "Il a failli tomber dans les escaliers.",
+        "tr": "Merdivenlerden düşmekten kıl payı kurtuldu."
+      }
+    ]
+  },
+  {
+    "word": "faux",
+    "translation": "yanlış",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fo/",
+    "sentences": [
+      {
+        "en": "Cette information est fausse.",
+        "tr": "Bu bilgi yanlıştır."
+      }
+    ]
+  },
+  {
+    "word": "famille",
+    "translation": "aile",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fa.mij/",
+    "sentences": [
+      {
+        "en": "Ma famille est très importante pour moi.",
+        "tr": "Ailem benim için çok önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "célèbre",
+    "translation": "ünlü",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/se.lɛbʁ/",
+    "sentences": [
+      {
+        "en": "Il est un écrivain célèbre.",
+        "tr": "O, ünlü bir yazardır."
+      }
+    ]
+  },
+  {
+    "word": "fantastique",
+    "translation": "harika",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fɑ̃.tas.tik/",
+    "sentences": [
+      {
+        "en": "C'était une soirée fantastique.",
+        "tr": "Harika bir akşamdı."
+      }
+    ]
+  },
+  {
+    "word": "ferme",
+    "translation": "çiftlik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fɛʁm/",
+    "sentences": [
+      {
+        "en": "Ils travaillent à la ferme.",
+        "tr": "Onlar çiftlikte çalışıyor."
+      }
+    ]
+  },
+  {
+    "word": "agriculteur",
+    "translation": "çiftçi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.ɡʁi.kyl.tœʁ/",
+    "sentences": [
+      {
+        "en": "L'agriculteur cultive des légumes.",
+        "tr": "Çiftçi sebze yetiştiriyor."
+      }
+    ]
+  },
+  {
+    "word": "rapide",
+    "translation": "hızlı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ʁa.pid/",
+    "sentences": [
+      {
+        "en": "Le train est très rapide.",
+        "tr": "Tren çok hızlı."
+      }
+    ]
+  },
+  {
+    "word": "graisse",
+    "translation": "yağ",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɡʁɛs/",
+    "sentences": [
+      {
+        "en": "Ce plat est un peu gras.",
+        "tr": "Bu yemek biraz yağlı."
+      }
+    ]
+  },
+  {
+    "word": "père",
+    "translation": "baba",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pɛʁ/",
+    "sentences": [
+      {
+        "en": "Mon père aime jardiner.",
+        "tr": "Babam bahçe ile ilgilenmeyi sever."
+      }
+    ]
+  },
+  {
+    "word": "préféré",
+    "translation": "tercih edilen",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pʁe.fe.ʁe/",
+    "sentences": [
+      {
+        "en": "C'est mon plat préféré.",
+        "tr": "Bu benim en sevdiğim yemek."
+      }
+    ]
+  },
+  {
+    "word": "Février",
+    "translation": "Şubat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fe.vʁi.je/",
+    "sentences": [
+      {
+        "en": "Février est le mois le plus court.",
+        "tr": "Şubat en kısa aydır."
+      }
+    ]
+  },
+  {
+    "word": "sentir",
+    "translation": "hissetmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sɑ̃.tiʁ/",
+    "sentences": [
+      {
+        "en": "Je peux sentir l'odeur des fleurs.",
+        "tr": "Çiçeklerin kokusunu hissedebiliyorum."
+      }
+    ]
+  },
+  {
+    "word": "sentiment",
+    "translation": "duygu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sɑ̃.ti.mɑ̃/",
+    "sentences": [
+      {
+        "en": "Le sentiment de joie est contagieux.",
+        "tr": "Sevinç duygusu bulaşıcıdır."
+      }
+    ]
+  },
+  {
+    "word": "fête",
+    "translation": "şenlik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fɛt/",
+    "sentences": [
+      {
+        "en": "Nous avons organisé une fête pour son anniversaire.",
+        "tr": "Onun doğum günü için bir şenlik düzenledik."
+      }
+    ]
+  },
+  {
+    "word": "peu",
+    "translation": "az",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/pø/",
+    "sentences": [
+      {
+        "en": "Il y a peu de monde aujourd'hui.",
+        "tr": "Bugün burada az insan var."
+      }
+    ]
+  },
+  {
+    "word": "chiffre quinze",
+    "translation": "on beş sayısı",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ʃifʁ kɛ̃z/",
+    "sentences": [
+      {
+        "en": "Le chiffre quinze est important dans ce rapport.",
+        "tr": "On beş sayısı bu raporda önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "cinquième numéro",
+    "translation": "beşinci numara",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/sɛ̃.kjɛm nym.e.ʁo/",
+    "sentences": [
+      {
+        "en": "Le cinquième numéro de la revue est sorti.",
+        "tr": "Derginin beşinci sayısı çıktı."
+      }
+    ]
+  },
+  {
+    "word": "nombre cinquante",
+    "translation": "elli sayısı",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/nɔ̃bʁ sɛ̃.kɑ̃t/",
+    "sentences": [
+      {
+        "en": "Le nombre cinquante est souvent utilisé en mathématiques.",
+        "tr": "Elli sayısı genellikle matematikte kullanılır."
+      }
+    ]
+  },
+  {
+    "word": "remplir",
+    "translation": "doldurmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʁɑ̃.plir/",
+    "sentences": [
+      {
+        "en": "Il faut remplir le formulaire avant de partir.",
+        "tr": "Gitmeden önce formu doldurmalısınız."
+      }
+    ]
+  },
+  {
+    "word": "finale",
+    "translation": "final",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fi.nal/",
+    "sentences": [
+      {
+        "en": "La finale du tournoi aura lieu demain.",
+        "tr": "Turnuvanın finali yarın gerçekleşecek."
+      }
+    ]
+  },
+  {
+    "word": "trouver",
+    "translation": "bulmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/tʁu.ve/",
+    "sentences": [
+      {
+        "en": "J'espère trouver un bon livre à la bibliothèque.",
+        "tr": "Kütüphanede iyi bir kitap bulmayı umuyorum."
+      }
+    ]
+  },
+  {
+    "word": "bien",
+    "translation": "iyi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/bjɛ̃/",
+    "sentences": [
+      {
+        "en": "Tout va bien, merci.",
+        "tr": "Her şey iyi, teşekkür ederim."
+      }
+    ]
+  },
+  {
+    "word": "terminer",
+    "translation": "bitirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/tɛʁ.mi.ne/",
+    "sentences": [
+      {
+        "en": "Il faut terminer le projet avant la date limite.",
+        "tr": "Projeyi son tarihinden önce bitirmeliyiz."
+      }
+    ]
+  },
+  {
+    "word": "feu",
+    "translation": "ateş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fø/",
+    "sentences": [
+      {
+        "en": "Le feu de camp était très agréable.",
+        "tr": "Kamp ateşi çok keyifliydi."
+      }
+    ]
+  },
+  {
+    "word": "d'abord",
+    "translation": "öncelikle",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/da.bɔʁ/",
+    "sentences": [
+      {
+        "en": "D'abord, nous devons étudier les leçons.",
+        "tr": "Öncelikle dersleri çalışmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "poisson",
+    "translation": "balık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pwa.sɔ̃/",
+    "sentences": [
+      {
+        "en": "Le poisson frais est délicieux.",
+        "tr": "Taze balık lezzetlidir."
+      }
+    ]
+  },
+  {
+    "word": "numéro cinq",
+    "translation": "beş numara",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ny.me.ʁo sɛ̃k/",
+    "sentences": [
+      {
+        "en": "Le numéro cinq est mon préféré.",
+        "tr": "Beş numara benim favorim."
+      }
+    ]
+  },
+  {
+    "word": "vol",
+    "translation": "uçuş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vɔl/",
+    "sentences": [
+      {
+        "en": "Mon vol pour Paris part à huit heures.",
+        "tr": "Paris'e olan uçuşum saat sekizde kalkıyor."
+      }
+    ]
+  },
+  {
+    "word": "sol",
+    "translation": "zemin",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sɔl/",
+    "sentences": [
+      {
+        "en": "Le sol est fait de marbre.",
+        "tr": "Zemin mermerden yapılmıştır."
+      }
+    ]
+  },
+  {
+    "word": "fleur",
+    "translation": "çiçek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/flœʁ/",
+    "sentences": [
+      {
+        "en": "La fleur dans le jardin est magnifique.",
+        "tr": "Bahçedeki çiçek harika."
+      }
+    ]
+  },
+  {
+    "word": "voler",
+    "translation": "uçmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vɔ.le/",
+    "sentences": [
+      {
+        "en": "Les oiseaux peuvent voler très haut.",
+        "tr": "Kuşlar çok yükseğe uçabilir."
+      }
+    ]
+  },
+  {
+    "word": "suivre",
+    "translation": "izlemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sɥivʁ/",
+    "sentences": [
+      {
+        "en": "Je vais suivre le cours en ligne.",
+        "tr": "Çevrimiçi dersi izleyeceğim."
+      }
+    ]
+  },
+  {
+    "word": "nourriture",
+    "translation": "yiyecek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/nuʁi.tyʁ/",
+    "sentences": [
+      {
+        "en": "La nourriture italienne est ma préférée.",
+        "tr": "İtalyan yiyeceklerini severim."
+      }
+    ]
+  },
+  {
+    "word": "pied",
+    "translation": "ayak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pje/",
+    "sentences": [
+      {
+        "en": "Il s'est foulé le pied en jouant au football.",
+        "tr": "Futbol oynarken ayağını burktu."
+      }
+    ]
+  },
+  {
+    "word": "football",
+    "translation": "futbol",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fut.bol/",
+    "sentences": [
+      {
+        "en": "Le football est très populaire dans le monde entier.",
+        "tr": "Futbol dünya genelinde çok popülerdir."
+      }
+    ]
+  },
+  {
+    "word": "pour",
+    "translation": "için",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/pur/",
+    "sentences": [
+      {
+        "en": "Ce cadeau est pour toi.",
+        "tr": "Bu hediye senin için."
+      }
+    ]
+  },
+  {
+    "word": "oublier",
+    "translation": "unutmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ub.lje/",
+    "sentences": [
+      {
+        "en": "Je ne veux pas oublier cette date.",
+        "tr": "Bu tarihi unutmak istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "formulaire",
+    "translation": "form",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fɔʁ.my.lɛʁ/",
+    "sentences": [
+      {
+        "en": "Il faut remplir ce formulaire.",
+        "tr": "Bu formu doldurmanız gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "nombre quarante",
+    "translation": "kırk rakamı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/nɔ̃bʁə kaʁɑ̃t/",
+    "sentences": [
+      {
+        "en": "Le nombre quarante est un chiffre rond.",
+        "tr": "Kırk sayısı yuvarlak bir rakamdır."
+      }
+    ]
+  },
+  {
+    "word": "quatre nombre",
+    "translation": "dört rakamı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/katʁə nɔ̃bʁə/",
+    "sentences": [
+      {
+        "en": "Le quatre nombre est un chiffre de base.",
+        "tr": "Dört rakamı temel bir sayıdır."
+      }
+    ]
+  },
+  {
+    "word": "quatorze nombre",
+    "translation": "on dört rakamı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/ka.tɔʁz nɔ̃bʁə/",
+    "sentences": [
+      {
+        "en": "Le quatorze nombre est une combinaison de chiffres.",
+        "tr": "On dört rakamı bir rakam kombinasyonudur."
+      }
+    ]
+  },
+  {
+    "word": "quatrième numéro",
+    "translation": "dördüncü numara",
+    "partOfSpeech": "other",
+    "phoneticUS": "/kʰa.tʁiɛm nu.me.ʁo/",
+    "sentences": [
+      {
+        "en": "C'est le quatrième numéro dans la liste.",
+        "tr": "Bu listede dördüncü numara."
+      }
+    ]
+  },
+  {
+    "word": "gratuit",
+    "translation": "ücretsiz",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɡʁa.tyi/",
+    "sentences": [
+      {
+        "en": "L'entrée est gratuite pour les enfants.",
+        "tr": "Giriş çocuklar için ücretsizdir."
+      }
+    ]
+  },
+  {
+    "word": "vendredi",
+    "translation": "cuma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vɑ̃.dʁə.di/",
+    "sentences": [
+      {
+        "en": "Le vendredi, je vais au marché.",
+        "tr": "Cuma günü pazara giderim."
+      }
+    ]
+  },
+  {
+    "word": "ami",
+    "translation": "arkadaş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.mi/",
+    "sentences": [
+      {
+        "en": "Mon ami habite à Paris.",
+        "tr": "Arkadaşım Paris'te yaşıyor."
+      }
+    ]
+  },
+  {
+    "word": "amical",
+    "translation": "dostane",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/a.mi.kal/",
+    "sentences": [
+      {
+        "en": "Il a un sourire amical.",
+        "tr": "Onun dostane bir gülümsemesi var."
+      }
+    ]
+  },
+  {
+    "word": "de",
+    "translation": "den, dan",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/də/",
+    "sentences": [
+      {
+        "en": "Je viens de France.",
+        "tr": "Fransa'dan geliyorum."
+      }
+    ]
+  },
+  {
+    "word": "fruits",
+    "translation": "meyveler",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fʁɥi/",
+    "sentences": [
+      {
+        "en": "Les fruits sont frais et délicieux.",
+        "tr": "Meyveler taze ve lezzetli."
+      }
+    ]
+  },
+  {
+    "word": "plein",
+    "translation": "dolu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/plɛ̃/",
+    "sentences": [
+      {
+        "en": "Le panier est plein de pommes.",
+        "tr": "Sepet elmalarla dolu."
+      }
+    ]
+  },
+  {
+    "word": "amusant",
+    "translation": "eğlenceli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/a.my.zɑ̃/",
+    "sentences": [
+      {
+        "en": "Ce film est vraiment amusant.",
+        "tr": "Bu film gerçekten eğlenceli."
+      }
+    ]
+  },
+  {
+    "word": "drôle",
+    "translation": "komik",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dʁɔl/",
+    "sentences": [
+      {
+        "en": "Il raconte toujours des blagues drôles.",
+        "tr": "Her zaman komik şakalar yapar."
+      }
+    ]
+  },
+  {
+    "word": "avenir",
+    "translation": "gelecek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.və.niʁ/",
+    "sentences": [
+      {
+        "en": "L'avenir est plein de possibilités.",
+        "tr": "Gelecek, olasılıklarla doludur."
+      }
+    ]
+  },
+  {
+    "word": "jeu",
+    "translation": "oyun",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒø/",
+    "sentences": [
+      {
+        "en": "Ce jeu est très intéressant.",
+        "tr": "Bu oyun çok ilginç."
+      }
+    ]
+  },
+  {
+    "word": "jardin",
+    "translation": "bahçe",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒaʁ.dɛ̃/",
+    "sentences": [
+      {
+        "en": "Le jardin est rempli de fleurs.",
+        "tr": "Bahçe çiçeklerle dolu."
+      }
+    ]
+  },
+  {
+    "word": "géographie",
+    "translation": "coğrafya",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒe.ɔ.Ɂʁa.fi/",
+    "sentences": [
+      {
+        "en": "La géographie est ma matière préférée.",
+        "tr": "Coğrafya benim en sevdiğim derstir."
+      }
+    ]
+  },
+  {
+    "word": "obtenir",
+    "translation": "almak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɔb.tə.niʁ/",
+    "sentences": [
+      {
+        "en": "Il a réussi à obtenir son diplôme.",
+        "tr": "Diplomasını almayı başardı."
+      }
+    ]
+  },
+  {
+    "word": "petite amie",
+    "translation": "kız arkadaş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pə.tit a.mi/",
+    "sentences": [
+      {
+        "en": "Il a une petite amie très gentille.",
+        "tr": "Onun çok nazik bir kız arkadaşı var."
+      }
+    ]
+  },
+  {
+    "word": "donner",
+    "translation": "vermek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dɔ.ne/",
+    "sentences": [
+      {
+        "en": "Je vais lui donner un cadeau.",
+        "tr": "Ona bir hediye vereceğim."
+      }
+    ]
+  },
+  {
+    "word": "verre",
+    "translation": "bardak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vɛʁ/",
+    "sentences": [
+      {
+        "en": "Je veux un verre d'eau.",
+        "tr": "Bir bardak su istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "aller",
+    "translation": "gitmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ale/",
+    "sentences": [
+      {
+        "en": "Je vais aller à l'école demain.",
+        "tr": "Yarın okula gideceğim."
+      }
+    ]
+  },
+  {
+    "word": "grand-père",
+    "translation": "dede",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡʁɑ̃ pɛʁ/",
+    "sentences": [
+      {
+        "en": "Mon grand-père est très gentil.",
+        "tr": "Dedem çok naziktir."
+      }
+    ]
+  },
+  {
+    "word": "grand-mère",
+    "translation": "nine",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡʁɑ̃ mɛʁ/",
+    "sentences": [
+      {
+        "en": "Ma grand-mère fait de délicieux gâteaux.",
+        "tr": "Ninem çok lezzetli kekler yapar."
+      }
+    ]
+  },
+  {
+    "word": "grand-parent",
+    "translation": "büyük ebeveyn",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡʁɑ̃ pɑʁɑ̃/",
+    "sentences": [
+      {
+        "en": "Les grands-parents sont toujours là pour aider.",
+        "tr": "Büyük ebeveynler her zaman yardım etmek için vardır."
+      }
+    ]
+  },
+  {
+    "word": "super",
+    "translation": "harika",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/sy.pɛʁ/",
+    "sentences": [
+      {
+        "en": "C'est une super idée!",
+        "tr": "Harika bir fikir!"
+      }
+    ]
+  },
+  {
+    "word": "vert",
+    "translation": "yeşil",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/vɛʁ/",
+    "sentences": [
+      {
+        "en": "L'herbe est verte.",
+        "tr": "Çimenler yeşil."
+      }
+    ]
+  },
+  {
+    "word": "gris",
+    "translation": "gri",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɡʁi/",
+    "sentences": [
+      {
+        "en": "Le ciel est gris aujourd'hui.",
+        "tr": "Bugün gökyüzü gri."
+      }
+    ]
+  },
+  {
+    "word": "groupe",
+    "translation": "grup",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡʁup/",
+    "sentences": [
+      {
+        "en": "Nous formons un groupe d'amis.",
+        "tr": "Biz bir arkadaş grubu oluşturuyoruz."
+      }
+    ]
+  },
+  {
+    "word": "grandir",
+    "translation": "büyümek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɡʁɑ̃diʁ/",
+    "sentences": [
+      {
+        "en": "Les enfants grandissent vite.",
+        "tr": "Çocuklar hızlıca büyür."
+      }
+    ]
+  },
+  {
+    "word": "devine",
+    "translation": "tahmin et",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dəvin/",
+    "sentences": [
+      {
+        "en": "Devine ce que j'ai acheté.",
+        "tr": "Ne aldığımı tahmin et."
+      }
+    ]
+  },
+  {
+    "word": "guitare",
+    "translation": "gitar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡitaʁ/",
+    "sentences": [
+      {
+        "en": "Elle joue de la guitare.",
+        "tr": "O, gitar çalıyor."
+      }
+    ]
+  },
+  {
+    "word": "salle de gym",
+    "translation": "spor salonu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sal də ʒim/",
+    "sentences": [
+      {
+        "en": "La salle de gym est grande.",
+        "tr": "Spor salonu büyük."
+      }
+    ]
+  },
+  {
+    "word": "cheveux",
+    "translation": "saç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃəvø/",
+    "sentences": [
+      {
+        "en": "Elle a de beaux cheveux.",
+        "tr": "Onun güzel saçları var."
+      }
+    ]
+  },
+  {
+    "word": "la moitié",
+    "translation": "yarım",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/la mwatje/",
+    "sentences": [
+      {
+        "en": "J'ai mangé la moitié du gâteau.",
+        "tr": "Kekten yarısını yedim."
+      }
+    ]
+  },
+  {
+    "word": "main",
+    "translation": "el",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɛ̃/",
+    "sentences": [
+      {
+        "en": "Il a levé la main.",
+        "tr": "O, elini kaldırdı."
+      }
+    ]
+  },
+  {
+    "word": "heureux",
+    "translation": "mutlu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/øʁø/",
+    "sentences": [
+      {
+        "en": "Je suis très heureux aujourd'hui.",
+        "tr": "Bugün çok mutluyum."
+      }
+    ]
+  },
+  {
+    "word": "dur",
+    "translation": "sert",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dyʁ/",
+    "sentences": [
+      {
+        "en": "Le pain est dur.",
+        "tr": "Ekmek sert."
+      }
+    ]
+  },
+  {
+    "word": "chapeau",
+    "translation": "şapka",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃapo/",
+    "sentences": [
+      {
+        "en": "Il porte un chapeau rouge.",
+        "tr": "Kırmızı bir şapka takıyor."
+      }
+    ]
+  },
+  {
+    "word": "détester",
+    "translation": "nefret etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dɛtɛste/",
+    "sentences": [
+      {
+        "en": "Je déteste les épinards.",
+        "tr": "Ispanaklardan nefret ederim."
+      }
+    ]
+  },
+  {
+    "word": "avoir",
+    "translation": "sahip olmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/avwaʁ/",
+    "sentences": [
+      {
+        "en": "J'ai une voiture.",
+        "tr": "Bir arabam var."
+      }
+    ]
+  },
+  {
+    "word": "je dois",
+    "translation": "zorundayım",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʒə dwa/",
+    "sentences": [
+      {
+        "en": "Je dois étudier pour l'examen.",
+        "tr": "Sınav için çalışmam gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "il",
+    "translation": "o (erkek)",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/il/",
+    "sentences": [
+      {
+        "en": "Il est très gentil.",
+        "tr": "O çok nazik."
+      }
+    ]
+  },
+  {
+    "word": "tête",
+    "translation": "baş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tɛt/",
+    "sentences": [
+      {
+        "en": "Elle a mal à la tête.",
+        "tr": "Başına ağrısı var."
+      }
+    ]
+  },
+  {
+    "word": "santé",
+    "translation": "sağlık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sɑ̃te/",
+    "sentences": [
+      {
+        "en": "La santé est très importante.",
+        "tr": "Sağlık çok önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "en bonne santé",
+    "translation": "sağlıklı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɑ̃ bɔn sɑ̃te/",
+    "sentences": [
+      {
+        "en": "Il est en bonne santé.",
+        "tr": "O sağlıklı."
+      }
+    ]
+  },
+  {
+    "word": "entendre",
+    "translation": "duymak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɑ̃tɑ̃dʁ/",
+    "sentences": [
+      {
+        "en": "J'entends de la musique.",
+        "tr": "Müzik duyuyorum."
+      }
+    ]
+  },
+  {
+    "word": "bonjour",
+    "translation": "merhaba",
+    "partOfSpeech": "other",
+    "phoneticUS": "/bɔ̃ʒuʁ/",
+    "sentences": [
+      {
+        "en": "Bonjour, comment ça va?",
+        "tr": "Merhaba, nasılsınız?"
+      }
+    ]
+  },
+  {
+    "word": "aide",
+    "translation": "yardım",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛd/",
+    "sentences": [
+      {
+        "en": "J'ai besoin d'aide.",
+        "tr": "Yardıma ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "word": "elle",
+    "translation": "o (kadın)",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/ɛl/",
+    "sentences": [
+      {
+        "en": "Elle est très gentille.",
+        "tr": "O çok nazik."
+      }
+    ]
+  },
+  {
+    "word": "ici",
+    "translation": "burada",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/isi/",
+    "sentences": [
+      {
+        "en": "Nous sommes ici.",
+        "tr": "Biz buradayız."
+      }
+    ]
+  },
+  {
+    "word": "hé",
+    "translation": "hey",
+    "partOfSpeech": "other",
+    "phoneticUS": "/e/",
+    "sentences": [
+      {
+        "en": "Hé, tu viens?",
+        "tr": "Hey, geliyor musun?"
+      }
+    ]
+  },
+  {
+    "word": "salut",
+    "translation": "selam",
+    "partOfSpeech": "other",
+    "phoneticUS": "/saly/",
+    "sentences": [
+      {
+        "en": "Salut, comment ça va?",
+        "tr": "Selam, nasılsın?"
+      }
+    ]
+  },
+  {
+    "word": "haut",
+    "translation": "yüksek",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/o/",
+    "sentences": [
+      {
+        "en": "La montagne est haute.",
+        "tr": "Dağ yüksek."
+      }
+    ]
+  },
+  {
+    "word": "lui",
+    "translation": "ona (erkek)",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/lɥi/",
+    "sentences": [
+      {
+        "en": "Je lui parle.",
+        "tr": "Ona konuşuyorum."
+      }
+    ]
+  },
+  {
+    "word": "son",
+    "translation": "onun (erkek)",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/sɔ̃/",
+    "sentences": [
+      {
+        "en": "Son livre est sur la table.",
+        "tr": "Onun kitabı masanın üzerinde."
+      }
+    ]
+  },
+  {
+    "word": "histoire",
+    "translation": "tarih",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/istwaʁ/",
+    "sentences": [
+      {
+        "en": "L'histoire de la France est fascinante.",
+        "tr": "Fransa'nın tarihi büyüleyicidir."
+      }
+    ]
+  },
+  {
+    "word": "passe-temps",
+    "translation": "hobi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pas tɑ̃/",
+    "sentences": [
+      {
+        "en": "Le dessin est mon passe-temps préféré.",
+        "tr": "Çizim benim en sevdiğim hobimdir."
+      }
+    ]
+  },
+  {
+    "word": "vacances",
+    "translation": "tatil",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vakɑ̃s/",
+    "sentences": [
+      {
+        "en": "Nous partons en vacances la semaine prochaine.",
+        "tr": "Gelecek hafta tatile çıkıyoruz."
+      }
+    ]
+  },
+  {
+    "word": "maison",
+    "translation": "ev",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mezɔ̃/",
+    "sentences": [
+      {
+        "en": "Ma maison est grande.",
+        "tr": "Evimiz büyük."
+      }
+    ]
+  },
+  {
+    "word": "devoirs",
+    "translation": "ödevler",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dəvwar/",
+    "sentences": [
+      {
+        "en": "J'ai beaucoup de devoirs à faire.",
+        "tr": "Yapmam gereken çok ödevim var."
+      }
+    ]
+  },
+  {
+    "word": "j'espère",
+    "translation": "umut etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʒɛspɛʁ/",
+    "sentences": [
+      {
+        "en": "J'espère que tout ira bien.",
+        "tr": "Umarım her şey yolunda gider."
+      }
+    ]
+  },
+  {
+    "word": "cheval",
+    "translation": "at",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʃəval/",
+    "sentences": [
+      {
+        "en": "Le cheval court dans le champ.",
+        "tr": "At tarlada koşuyor."
+      }
+    ]
+  },
+  {
+    "word": "hôpital",
+    "translation": "hastane",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/opital/",
+    "sentences": [
+      {
+        "en": "L'hôpital est loin d'ici.",
+        "tr": "Hastane buradan uzak."
+      }
+    ]
+  },
+  {
+    "word": "chaud",
+    "translation": "sıcak",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ʃo/",
+    "sentences": [
+      {
+        "en": "Il fait chaud aujourd'hui.",
+        "tr": "Bugün hava sıcak."
+      }
+    ]
+  },
+  {
+    "word": "hôtel",
+    "translation": "otel",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/otɛl/",
+    "sentences": [
+      {
+        "en": "L'hôtel est magnifique.",
+        "tr": "Otel harika."
+      }
+    ]
+  },
+  {
+    "word": "heure",
+    "translation": "saat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/œʁ/",
+    "sentences": [
+      {
+        "en": "Il est une heure.",
+        "tr": "Saat bir."
+      }
+    ]
+  },
+  {
+    "word": "comment",
+    "translation": "nasıl",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/kɔ.mɑ̃/",
+    "sentences": [
+      {
+        "en": "Comment vas-tu aujourd'hui ?",
+        "tr": "Bugün nasılsın?"
+      }
+    ]
+  },
+  {
+    "word": "cependant",
+    "translation": "ancak",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/sə.pɑ̃.dɑ̃/",
+    "sentences": [
+      {
+        "en": "Il pleut, cependant nous sortirons.",
+        "tr": "Yağmur yağıyor, ancak dışarı çıkacağız."
+      }
+    ]
+  },
+  {
+    "word": "nombre de centaines",
+    "translation": "yüz sayısı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/nɔ̃bʁ də sɑ̃.tɛn/",
+    "sentences": [
+      {
+        "en": "Il y a un nombre de centaines de livres dans la bibliothèque.",
+        "tr": "Kütüphanede yüzlerce kitap var."
+      }
+    ]
+  },
+  {
+    "word": "faim",
+    "translation": "aç",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fɛ̃/",
+    "sentences": [
+      {
+        "en": "J'ai toujours faim après l'école.",
+        "tr": "Okuldan sonra her zaman açım."
+      }
+    ]
+  },
+  {
+    "word": "mari",
+    "translation": "koca",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ma.ʁi/",
+    "sentences": [
+      {
+        "en": "Mon mari est très gentil.",
+        "tr": "Kocam çok nazik."
+      }
+    ]
+  },
+  {
+    "word": "Je",
+    "translation": "ben",
+    "partOfSpeech": "other",
+    "phoneticUS": "/ʒə/",
+    "sentences": [
+      {
+        "en": "Je suis content de te voir.",
+        "tr": "Seni gördüğüme sevindim."
+      }
+    ]
+  },
+  {
+    "word": "glace",
+    "translation": "buz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡlas/",
+    "sentences": [
+      {
+        "en": "La glace sur le lac est épaisse.",
+        "tr": "Göl üzerindeki buz kalındır."
+      }
+    ]
+  },
+  {
+    "word": "idée",
+    "translation": "fikir",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/i.de/",
+    "sentences": [
+      {
+        "en": "C'est une bonne idée de partir en vacances.",
+        "tr": "Tatile çıkmak iyi bir fikir."
+      }
+    ]
+  },
+  {
+    "word": "si",
+    "translation": "eğer",
+    "partOfSpeech": "other",
+    "phoneticUS": "/si/",
+    "sentences": [
+      {
+        "en": "Si tu veux, nous pouvons y aller ensemble.",
+        "tr": "İstersen, birlikte gidebiliriz."
+      }
+    ]
+  },
+  {
+    "word": "imaginer",
+    "translation": "hayal etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/i.ma.ʒi.ne/",
+    "sentences": [
+      {
+        "en": "J'aime imaginer des histoires.",
+        "tr": "Hikayeler hayal etmeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "important",
+    "translation": "önemli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɛ̃.pɔʁ.tɑ̃/",
+    "sentences": [
+      {
+        "en": "C'est important de respecter les règles.",
+        "tr": "Kurallara uymak önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "améliorer",
+    "translation": "geliştirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/a.me.ljɔ.ʁe/",
+    "sentences": [
+      {
+        "en": "Nous devons améliorer notre communication.",
+        "tr": "İletişimimizi geliştirmeliyiz."
+      }
+    ]
+  },
+  {
+    "word": "dans",
+    "translation": "içinde",
+    "partOfSpeech": "other",
+    "phoneticUS": "/dɑ̃/",
+    "sentences": [
+      {
+        "en": "Il y a des poissons dans l'eau.",
+        "tr": "Suda balıklar var."
+      }
+    ]
+  },
+  {
+    "word": "inclure",
+    "translation": "dahil etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɛ̃.klyʁ/",
+    "sentences": [
+      {
+        "en": "N'oubliez pas d'inclure tous les participants.",
+        "tr": "Tüm katılımcıları dahil etmeyi unutmayın."
+      }
+    ]
+  },
+  {
+    "word": "informations",
+    "translation": "bilgiler",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛ̃.fɔʁ.ma.sjɔ̃/",
+    "sentences": [
+      {
+        "en": "Les informations sont disponibles sur le site.",
+        "tr": "Bilgiler web sitesinde mevcuttur."
+      }
+    ]
+  },
+  {
+    "word": "intérêt",
+    "translation": "ilgi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛ̃.te.ʁɛ/",
+    "sentences": [
+      {
+        "en": "J'ai un intérêt pour l'art moderne.",
+        "tr": "Modern sanata ilgim var."
+      }
+    ]
+  },
+  {
+    "word": "intéressé",
+    "translation": "ilgilenen",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɛ̃.te.ʁe.se/",
+    "sentences": [
+      {
+        "en": "Il est intéressé par la science.",
+        "tr": "Bilime ilgi duyuyor."
+      }
+    ]
+  },
+  {
+    "word": "intéressant",
+    "translation": "ilginç",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɛ̃.te.ʁe.sɑ̃/",
+    "sentences": [
+      {
+        "en": "Ce livre est très intéressant.",
+        "tr": "Bu kitap çok ilginç."
+      }
+    ]
+  },
+  {
+    "word": "Internet",
+    "translation": "internet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɛ̃.tɛʁ.nɛt/",
+    "sentences": [
+      {
+        "en": "Je cherche des informations sur Internet.",
+        "tr": "İnternette bilgiler arıyorum."
+      }
+    ]
+  },
+  {
+    "word": "entretien",
+    "translation": "mülakat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɑ̃.tʁə.tjɛ̃/",
+    "sentences": [
+      {
+        "en": "J'ai un entretien demain.",
+        "tr": "Yarın bir mülakatım var."
+      }
+    ]
+  },
+  {
+    "word": "présenter",
+    "translation": "tanıtmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pʁe.zɑ̃.te/",
+    "sentences": [
+      {
+        "en": "Je vais présenter mon projet demain.",
+        "tr": "Projemi yarın tanıtacağım."
+      }
+    ]
+  },
+  {
+    "word": "île",
+    "translation": "ada",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/il/",
+    "sentences": [
+      {
+        "en": "Cette île est magnifique.",
+        "tr": "Bu ada muhteşem."
+      }
+    ]
+  },
+  {
+    "word": "c'est",
+    "translation": "bu",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/sɛ/",
+    "sentences": [
+      {
+        "en": "C'est une belle journée.",
+        "tr": "Bu güzel bir gün."
+      }
+    ]
+  },
+  {
+    "word": "veste",
+    "translation": "ceket",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vɛst/",
+    "sentences": [
+      {
+        "en": "Elle porte une veste rouge.",
+        "tr": "O kırmızı bir ceket giyiyor."
+      }
+    ]
+  },
+  {
+    "word": "janvier",
+    "translation": "Ocak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒɑ̃vje/",
+    "sentences": [
+      {
+        "en": "Nous partons en janvier.",
+        "tr": "Ocak ayında ayrılıyoruz."
+      }
+    ]
+  },
+  {
+    "word": "jean",
+    "translation": "kot pantolon",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒɑ̃/",
+    "sentences": [
+      {
+        "en": "Il porte des jeans noirs.",
+        "tr": "O siyah kot pantolon giyiyor."
+      }
+    ]
+  },
+  {
+    "word": "travail",
+    "translation": "iş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tʁavaj/",
+    "sentences": [
+      {
+        "en": "Mon travail est très intéressant.",
+        "tr": "İşim çok ilginç."
+      }
+    ]
+  },
+  {
+    "word": "rejoindre",
+    "translation": "katılmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʁəʒwɛ̃dʁ/",
+    "sentences": [
+      {
+        "en": "Je vais rejoindre mes amis.",
+        "tr": "Arkadaşlarıma katılacağım."
+      }
+    ]
+  },
+  {
+    "word": "voyage",
+    "translation": "seyahat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vwajaʒ/",
+    "sentences": [
+      {
+        "en": "Le voyage était incroyable.",
+        "tr": "Seyahat inanılmazdı."
+      }
+    ]
+  },
+  {
+    "word": "jus",
+    "translation": "meyve suyu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒys/",
+    "sentences": [
+      {
+        "en": "J'aime boire du jus d'orange.",
+        "tr": "Portakal suyu içmeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "juillet",
+    "translation": "Temmuz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒɥijɛ/",
+    "sentences": [
+      {
+        "en": "Nous partons en vacances en juillet.",
+        "tr": "Temmuz ayında tatile çıkıyoruz."
+      }
+    ]
+  },
+  {
+    "word": "juin",
+    "translation": "Haziran",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒwɛ̃/",
+    "sentences": [
+      {
+        "en": "La fête est en juin.",
+        "tr": "Kutlama Haziran ayında."
+      }
+    ]
+  },
+  {
+    "word": "juste",
+    "translation": "just",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ʒyst/",
+    "sentences": [
+      {
+        "en": "C'est juste incroyable!",
+        "tr": "Bu gerçekten inanılmaz!"
+      }
+    ]
+  },
+  {
+    "word": "garder",
+    "translation": "saklamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ɡaʁde/",
+    "sentences": [
+      {
+        "en": "Je vais garder ce souvenir.",
+        "tr": "Bu hatırayı saklayacağım."
+      }
+    ]
+  },
+  {
+    "word": "clé",
+    "translation": "anahtar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kle/",
+    "sentences": [
+      {
+        "en": "Voici la clé de la maison.",
+        "tr": "İşte evin anahtarı."
+      }
+    ]
+  },
+  {
+    "word": "kilomètre",
+    "translation": "kilometre",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kilɔmɛtʁ/",
+    "sentences": [
+      {
+        "en": "Il reste encore dix kilomètres.",
+        "tr": "Hala on kilometre var."
+      }
+    ]
+  },
+  {
+    "word": "gentil",
+    "translation": "kibar",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ʒɑ̃ti/",
+    "sentences": [
+      {
+        "en": "Il est très gentil avec tout le monde.",
+        "tr": "O, herkesle çok kibar."
+      }
+    ]
+  },
+  {
+    "word": "sais",
+    "translation": "biliyorum",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sɛ/",
+    "sentences": [
+      {
+        "en": "Je sais ce que tu veux dire.",
+        "tr": "Ne demek istediğini biliyorum."
+      }
+    ]
+  },
+  {
+    "word": "terre",
+    "translation": "toprak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tɛʁ/",
+    "sentences": [
+      {
+        "en": "La terre est fertile.",
+        "tr": "Toprak verimlidir."
+      }
+    ]
+  },
+  {
+    "word": "langue",
+    "translation": "dil",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lɑ̃ɡ/",
+    "sentences": [
+      {
+        "en": "Il parle trois langues.",
+        "tr": "Üç dil konuşuyor."
+      }
+    ]
+  },
+  {
+    "word": "dernier1",
+    "translation": "sonra",
+    "partOfSpeech": "other",
+    "phoneticUS": "/dɛʁnje/",
+    "sentences": [
+      {
+        "en": "Le dernier film était passionnant.",
+        "tr": "Son film heyecan vericiydi."
+      }
+    ]
+  },
+  {
+    "word": "en retard",
+    "translation": "geç",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɑ̃ ʁətaʁ/",
+    "sentences": [
+      {
+        "en": "Il est en retard pour la réunion.",
+        "tr": "Toplantıya geç kaldı."
+      }
+    ]
+  },
+  {
+    "word": "plus tard",
+    "translation": "sonra",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ply taʁ/",
+    "sentences": [
+      {
+        "en": "Nous discuterons plus tard.",
+        "tr": "Daha sonra tartışacağız."
+      }
+    ]
+  },
+  {
+    "word": "rire",
+    "translation": "gülmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʁiʁ/",
+    "sentences": [
+      {
+        "en": "Elle aime rire avec ses amis.",
+        "tr": "Arkadaşlarıyla gülmeyi seviyor."
+      }
+    ]
+  },
+  {
+    "word": "apprendre",
+    "translation": "öğrenmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/apʁɑ̃dʁ/",
+    "sentences": [
+      {
+        "en": "J'aime apprendre de nouvelles choses.",
+        "tr": "Yeni şeyler öğrenmeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "partir",
+    "translation": "ayrılmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/paʁtiʁ/",
+    "sentences": [
+      {
+        "en": "Nous devons partir maintenant.",
+        "tr": "Şimdi ayrılmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "à gauche",
+    "translation": "sol",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/a ɡoʃ/",
+    "sentences": [
+      {
+        "en": "Tournez à gauche au prochain carrefour.",
+        "tr": "Bir sonraki kavşakta sola dönün."
+      }
+    ]
+  },
+  {
+    "word": "jambe",
+    "translation": "bacak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʒɑ̃b/",
+    "sentences": [
+      {
+        "en": "Ma jambe est douloureuse après la course.",
+        "tr": "Koşudan sonra bacağım ağrıyor."
+      }
+    ]
+  },
+  {
+    "word": "leçon",
+    "translation": "ders",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lə.sɔ̃/",
+    "sentences": [
+      {
+        "en": "J'ai une leçon de français demain.",
+        "tr": "Yarın Fransızca dersim var."
+      }
+    ]
+  },
+  {
+    "word": "laisser",
+    "translation": "bırakmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/lɛse/",
+    "sentences": [
+      {
+        "en": "Laisse-moi tranquille.",
+        "tr": "Beni rahat bırak."
+      }
+    ]
+  },
+  {
+    "word": "lettre",
+    "translation": "mektup",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lɛtʁ/",
+    "sentences": [
+      {
+        "en": "Elle a écrit une lettre à son ami.",
+        "tr": "Arkadaşına bir mektup yazdı."
+      }
+    ]
+  },
+  {
+    "word": "bibliothèque",
+    "translation": "kütüphane",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bibljɔtɛk/",
+    "sentences": [
+      {
+        "en": "Je vais à la bibliothèque pour étudier.",
+        "tr": "Çalışmak için kütüphaneye gidiyorum."
+      }
+    ]
+  },
+  {
+    "word": "mensonge",
+    "translation": "yalan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɑ̃sɔ̃ʒ/",
+    "sentences": [
+      {
+        "en": "Il a dit un mensonge.",
+        "tr": "O bir yalan söyledi."
+      }
+    ]
+  },
+  {
+    "word": "la vie",
+    "translation": "hayat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/la vi/",
+    "sentences": [
+      {
+        "en": "La vie est belle.",
+        "tr": "Hayat güzeldir."
+      }
+    ]
+  },
+  {
+    "word": "lumière",
+    "translation": "ışık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lymjɛʁ/",
+    "sentences": [
+      {
+        "en": "La lumière est trop forte ici.",
+        "tr": "Buradaki ışık çok parlak."
+      }
+    ]
+  },
+  {
+    "word": "adj.",
+    "translation": "sıfat",
+    "partOfSpeech": "other",
+    "phoneticUS": "/adj/",
+    "sentences": [
+      {
+        "en": "Un adj. qualificatif décrit un nom.",
+        "tr": "Bir sıfat, bir ismi tanımlar."
+      }
+    ]
+  },
+  {
+    "word": "ligne",
+    "translation": "hat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/liɲ/",
+    "sentences": [
+      {
+        "en": "La ligne de métro est très longue.",
+        "tr": "Metro hattı çok uzun."
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "translation": "aslan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ljɔ̃/",
+    "sentences": [
+      {
+        "en": "Le lion est le roi des animaux.",
+        "tr": "Aslan hayvanların kralıdır."
+      }
+    ]
+  },
+  {
+    "word": "liste",
+    "translation": "liste",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/list/",
+    "sentences": [
+      {
+        "en": "Fais une liste de courses.",
+        "tr": "Bir alışveriş listesi yap."
+      }
+    ]
+  },
+  {
+    "word": "écoute",
+    "translation": "dinle",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ekut/",
+    "sentences": [
+      {
+        "en": "Écoute attentivement.",
+        "tr": "Dikkatlice dinle."
+      }
+    ]
+  },
+  {
+    "word": "vivre",
+    "translation": "yaşamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vivʁ/",
+    "sentences": [
+      {
+        "en": "J'aimerais vivre en France.",
+        "tr": "Fransa'da yaşamak isterim."
+      }
+    ]
+  },
+  {
+    "word": "locale",
+    "translation": "yerel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/lɔkal/",
+    "sentences": [
+      {
+        "en": "Je veux acheter des produits locaux.",
+        "tr": "Yerel ürünler almak istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "long",
+    "translation": "uzun",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/lɔ̃/",
+    "sentences": [
+      {
+        "en": "Le film est trop long.",
+        "tr": "Film çok uzun."
+      }
+    ]
+  },
+  {
+    "word": "regarde",
+    "translation": "bak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʁəɡaʁd/",
+    "sentences": [
+      {
+        "en": "Regarde ce beau paysage.",
+        "tr": "Şu güzel manzaraya bak."
+      }
+    ]
+  },
+  {
+    "word": "perdre",
+    "translation": "kaybetmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pɛʁdʁ/",
+    "sentences": [
+      {
+        "en": "Je ne veux pas perdre mon temps.",
+        "tr": "Zamanımı kaybetmek istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "beaucoup",
+    "translation": "çok",
+    "partOfSpeech": "other",
+    "phoneticUS": "/bo.ku/",
+    "sentences": [
+      {
+        "en": "J'aime beaucoup ce livre.",
+        "tr": "Bu kitabı çok seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "amour",
+    "translation": "aşk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.muʁ/",
+    "sentences": [
+      {
+        "en": "L'amour est la plus belle chose au monde.",
+        "tr": "Aşk, dünyadaki en güzel şeydir."
+      }
+    ]
+  },
+  {
+    "word": "déjeuner",
+    "translation": "öğle yemeği",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/də.ʒœ.ne/",
+    "sentences": [
+      {
+        "en": "Nous avons mangé un délicieux déjeuner.",
+        "tr": "Lezzetli bir öğle yemeği yedik."
+      }
+    ]
+  },
+  {
+    "word": "machine",
+    "translation": "makine",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ma.ʃin/",
+    "sentences": [
+      {
+        "en": "Cette machine est très rapide.",
+        "tr": "Bu makine çok hızlıdır."
+      }
+    ]
+  },
+  {
+    "word": "magazine",
+    "translation": "dergi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ma.ɡa.zin/",
+    "sentences": [
+      {
+        "en": "J'ai acheté un magazine de mode.",
+        "tr": "Bir moda dergisi aldım."
+      }
+    ]
+  },
+  {
+    "word": "principal",
+    "translation": "ana",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pʁɛ̃.si.pal/",
+    "sentences": [
+      {
+        "en": "Le principal problème est le manque de temps.",
+        "tr": "Ana sorun zaman eksikliğidir."
+      }
+    ]
+  },
+  {
+    "word": "homme",
+    "translation": "erkek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɔm/",
+    "sentences": [
+      {
+        "en": "L'homme marche dans la rue.",
+        "tr": "Adam sokakta yürüyor."
+      }
+    ]
+  },
+  {
+    "word": "Mars",
+    "translation": "Mart",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/maʁs/",
+    "sentences": [
+      {
+        "en": "Le printemps commence en mars.",
+        "tr": "İlkbahar mart ayında başlar."
+      }
+    ]
+  },
+  {
+    "word": "marché",
+    "translation": "pazar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/maʁ.ʃe/",
+    "sentences": [
+      {
+        "en": "Nous allons au marché chaque samedi.",
+        "tr": "Her cumartesi pazara gidiyoruz."
+      }
+    ]
+  },
+  {
+    "word": "marié",
+    "translation": "evli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ma.ʁje/",
+    "sentences": [
+      {
+        "en": "Elle est mariée avec un médecin.",
+        "tr": "Bir doktorla evli."
+      }
+    ]
+  },
+  {
+    "word": "correspondre",
+    "translation": "eşleşmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kɔ.ʁɛs.pɔ̃dʁ/",
+    "sentences": [
+      {
+        "en": "Les couleurs correspondent parfaitement.",
+        "tr": "Renkler mükemmel bir şekilde eşleşiyor."
+      }
+    ]
+  },
+  {
+    "word": "mai",
+    "translation": "Mayıs",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɛ/",
+    "sentences": [
+      {
+        "en": "Il pleut souvent en mai.",
+        "tr": "Mayıs ayında sık sık yağmur yağar."
+      }
+    ]
+  },
+  {
+    "word": "peut-être",
+    "translation": "belki",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/pø.ɛtʁ/",
+    "sentences": [
+      {
+        "en": "Peut-être qu'il viendra demain.",
+        "tr": "Belki yarın gelir."
+      }
+    ]
+  },
+  {
+    "word": "moi",
+    "translation": "ben",
+    "partOfSpeech": "other",
+    "phoneticUS": "/mwa/",
+    "sentences": [
+      {
+        "en": "C'est moi qui ai organisé la fête.",
+        "tr": "Partiyi organize eden ben oldum."
+      }
+    ]
+  },
+  {
+    "word": "repas",
+    "translation": "yemek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁə.pa/",
+    "sentences": [
+      {
+        "en": "Nous avons préparé un repas délicieux.",
+        "tr": "Lezzetli bir yemek hazırladık."
+      }
+    ]
+  },
+  {
+    "word": "signifier",
+    "translation": "anlamına gelmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/si.ɲi.fje/",
+    "sentences": [
+      {
+        "en": "Que signifie ce mot ?",
+        "tr": "Bu kelime ne anlama geliyor?"
+      }
+    ]
+  },
+  {
+    "word": "sens",
+    "translation": "anlam",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sɑ̃s/",
+    "sentences": [
+      {
+        "en": "Le sens de cette phrase est clair.",
+        "tr": "Bu cümlenin anlamı net."
+      }
+    ]
+  },
+  {
+    "word": "viande",
+    "translation": "et",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vjɑ̃d/",
+    "sentences": [
+      {
+        "en": "La viande est cuite à point.",
+        "tr": "Et tam pişmiş."
+      }
+    ]
+  },
+  {
+    "word": "rencontrer",
+    "translation": "karşılaşmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ʁɑ̃.kɔ̃.tʁe/",
+    "sentences": [
+      {
+        "en": "J'ai rencontré mes amis au café.",
+        "tr": "Arkadaşlarımla kafede karşılaştım."
+      }
+    ]
+  },
+  {
+    "word": "réunion",
+    "translation": "toplantı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ʁe.jʊ.njɔ̃/",
+    "sentences": [
+      {
+        "en": "Nous avons une réunion importante demain.",
+        "tr": "Yarın önemli bir toplantımız var."
+      }
+    ]
+  },
+  {
+    "word": "membre",
+    "translation": "üyelik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɑ̃bʁ/",
+    "sentences": [
+      {
+        "en": "Il est membre de l'équipe de football.",
+        "tr": "Futbol takımının bir üyesidir."
+      }
+    ]
+  },
+  {
+    "word": "menus",
+    "translation": "menü",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mə.ny/",
+    "sentences": [
+      {
+        "en": "Les menus du restaurant sont variés.",
+        "tr": "Restoranın menüsü çeşitlidir."
+      }
+    ]
+  },
+  {
+    "word": "message",
+    "translation": "mesaj",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/me.saʒ/",
+    "sentences": [
+      {
+        "en": "J'ai reçu un message important.",
+        "tr": "Önemli bir mesaj aldım."
+      }
+    ]
+  },
+  {
+    "word": "mètre",
+    "translation": "metre",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɛtʁ/",
+    "sentences": [
+      {
+        "en": "Il mesure la longueur en mètres.",
+        "tr": "Uzunluğu metre olarak ölçüyor."
+      }
+    ]
+  },
+  {
+    "word": "minuit",
+    "translation": "gece yarısı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mi.nɥi/",
+    "sentences": [
+      {
+        "en": "Le train part à minuit.",
+        "tr": "Tren gece yarısı kalkıyor."
+      }
+    ]
+  },
+  {
+    "word": "mille",
+    "translation": "mil",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mil/",
+    "sentences": [
+      {
+        "en": "Il a couru mille mètres.",
+        "tr": "O, bin metre koştu."
+      }
+    ]
+  },
+  {
+    "word": "lait",
+    "translation": "süt",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lɛ/",
+    "sentences": [
+      {
+        "en": "Je bois du lait tous les matins.",
+        "tr": "Her sabah süt içerim."
+      }
+    ]
+  },
+  {
+    "word": "nombre de millions",
+    "translation": "milyon sayısı",
+    "partOfSpeech": "other",
+    "phoneticUS": "/nɔ̃bʁ də mi.ljɔ̃/",
+    "sentences": [
+      {
+        "en": "Le nombre de millions de personnes augmente.",
+        "tr": "İnsanların milyon sayısı artıyor."
+      }
+    ]
+  },
+  {
+    "word": "minute1",
+    "translation": "dakika",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mi.nyt/",
+    "sentences": [
+      {
+        "en": "Il reste une minute.",
+        "tr": "Bir dakika kaldı."
+      }
+    ]
+  },
+  {
+    "word": "mademoiselle",
+    "translation": "bayan",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/mad.mwa.zɛl/",
+    "sentences": [
+      {
+        "en": "Mademoiselle, vous êtes invitée à la fête.",
+        "tr": "Bayan, siz partiye davetlisiniz."
+      }
+    ]
+  },
+  {
+    "word": "erreur",
+    "translation": "hata",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/əʁœʁ/",
+    "sentences": [
+      {
+        "en": "Il a fait une erreur en calculant.",
+        "tr": "Hesap yaparken hata yaptı."
+      }
+    ]
+  },
+  {
+    "word": "modèle",
+    "translation": "model",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɔ.dɛl/",
+    "sentences": [
+      {
+        "en": "Ce modèle est très populaire.",
+        "tr": "Bu model çok popüler."
+      }
+    ]
+  },
+  {
+    "word": "moderne",
+    "translation": "modern",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/mɔ.dɛʁn/",
+    "sentences": [
+      {
+        "en": "Cette maison est moderne.",
+        "tr": "Bu ev modern."
+      }
+    ]
+  },
+  {
+    "word": "moment",
+    "translation": "an",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɔ.mɑ̃/",
+    "sentences": [
+      {
+        "en": "Ce moment était inoubliable.",
+        "tr": "Bu an unutulmazdı."
+      }
+    ]
+  },
+  {
+    "word": "lundi",
+    "translation": "pazartesi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lɛ̃.di/",
+    "sentences": [
+      {
+        "en": "Nous avons une réunion lundi.",
+        "tr": "Pazartesi günü bir toplantımız var."
+      }
+    ]
+  },
+  {
+    "word": "argent",
+    "translation": "para",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aʁ.ʒɑ̃/",
+    "sentences": [
+      {
+        "en": "Il a économisé beaucoup d'argent.",
+        "tr": "Çok para biriktirdi."
+      }
+    ]
+  },
+  {
+    "word": "mois",
+    "translation": "ay",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mwa/",
+    "sentences": [
+      {
+        "en": "Le mois de juin est très chaud.",
+        "tr": "Haziran ayı çok sıcak."
+      }
+    ]
+  },
+  {
+    "word": "plus",
+    "translation": "daha",
+    "partOfSpeech": "other",
+    "phoneticUS": "/plys/",
+    "sentences": [
+      {
+        "en": "Je veux plus de chocolat.",
+        "tr": "Daha fazla çikolata istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "matin",
+    "translation": "sabah",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ma.tɛ̃/",
+    "sentences": [
+      {
+        "en": "Le matin, je vais courir.",
+        "tr": "Sabahları koşuya giderim."
+      }
+    ]
+  },
+  {
+    "word": "la plupart",
+    "translation": "çoğu",
+    "partOfSpeech": "other",
+    "phoneticUS": "/la plyk.pɑʁ/",
+    "sentences": [
+      {
+        "en": "La plupart des gens aiment voyager.",
+        "tr": "Çoğu insan seyahat etmeyi sever."
+      }
+    ]
+  },
+  {
+    "word": "mère",
+    "translation": "anne",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɛʁ/",
+    "sentences": [
+      {
+        "en": "Ma mère est très gentille.",
+        "tr": "Anneme çok nazik."
+      }
+    ]
+  },
+  {
+    "word": "montagne",
+    "translation": "dağ",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/mɔ̃.taɲ/",
+    "sentences": [
+      {
+        "en": "La montagne est couverte de neige.",
+        "tr": "Dağ karla kaplı."
+      }
+    ]
+  },
+  {
+    "word": "souris",
+    "translation": "fare",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/su.ʁi/",
+    "sentences": [
+      {
+        "en": "Une souris a couru sous la table.",
+        "tr": "Bir fare masanın altından koştu."
+      }
+    ]
+  },
+  {
+    "word": "bouche",
+    "translation": "ağız",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/buʃ/",
+    "sentences": [
+      {
+        "en": "Il a une bouche grande.",
+        "tr": "Onun büyük bir ağzı var."
+      }
+    ]
+  },
+  {
+    "word": "bouger",
+    "translation": "hareket etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/bu.ʒe/",
+    "sentences": [
+      {
+        "en": "Ne bouge pas !",
+        "tr": "Hareket etme!"
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "translation": "film",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fɛlm/",
+    "sentences": [
+      {
+        "en": "J'ai regardé un film hier soir.",
+        "tr": "Dün akşam bir film izledim."
+      }
+    ]
+  },
+  {
+    "word": "maman",
+    "translation": "anne",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ma.mɑ̃/",
+    "sentences": [
+      {
+        "en": "Ma maman est la meilleure.",
+        "tr": "Benim annem en iyisi."
+      }
+    ]
+  }
+]

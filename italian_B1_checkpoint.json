@@ -1,0 +1,5978 @@
+[
+  {
+    "word": "professore",
+    "translation": "öğretmen",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pro.feˈsso.re/",
+    "sentences": [
+      {
+        "en": "Il professore spiega molto bene.",
+        "tr": "Öğretmen çok iyi açıklıyor."
+      }
+    ]
+  },
+  {
+    "word": "pensare",
+    "translation": "düşünmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/penˈsa.re/",
+    "sentences": [
+      {
+        "en": "Devo pensare a questa decisione.",
+        "tr": "Bu kararı düşünmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "plano",
+    "translation": "düz",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈpla.no/",
+    "sentences": [
+      {
+        "en": "La strada è piana e facile da percorrere.",
+        "tr": "Yol düz ve geçmesi kolay."
+      }
+    ]
+  },
+  {
+    "word": "pietra",
+    "translation": "taş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈpje.tra/",
+    "sentences": [
+      {
+        "en": "La pietra è molto pesante.",
+        "tr": "Taş çok ağır."
+      }
+    ]
+  },
+  {
+    "word": "porta",
+    "translation": "kapı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈpor.ta/",
+    "sentences": [
+      {
+        "en": "La porta è aperta.",
+        "tr": "Kapı açık."
+      }
+    ]
+  },
+  {
+    "word": "punto",
+    "translation": "nokta",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈpun.to/",
+    "sentences": [
+      {
+        "en": "Metti un punto alla fine della frase.",
+        "tr": "Cümlenin sonuna bir nokta koy."
+      }
+    ]
+  },
+  {
+    "word": "pagare",
+    "translation": "ödemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/paˈɡa.re/",
+    "sentences": [
+      {
+        "en": "Devo pagare il conto.",
+        "tr": "Hesabı ödemem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "pomodoro",
+    "translation": "domates",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pomoˈdɔ.ro/",
+    "sentences": [
+      {
+        "en": "Il pomodoro è maturo e succoso.",
+        "tr": "Domates olgun ve sulu."
+      }
+    ]
+  },
+  {
+    "word": "prendere",
+    "translation": "almak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈpren.de.re/",
+    "sentences": [
+      {
+        "en": "Voglio prendere un caffè.",
+        "tr": "Bir kahve almak istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "pittoresco",
+    "translation": "resmedilmeye değer",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pit.toˈres.ko/",
+    "sentences": [
+      {
+        "en": "Il villaggio è molto pittoresco.",
+        "tr": "Köy çok resmedilmeye değer."
+      }
+    ]
+  },
+  {
+    "word": "pavimento",
+    "translation": "zemin",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pa.viˈmen.to/",
+    "sentences": [
+      {
+        "en": "Il pavimento è scivoloso.",
+        "tr": "Zemin kaygandır."
+      }
+    ]
+  },
+  {
+    "word": "pasta",
+    "translation": "makarna",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈpas.ta/",
+    "sentences": [
+      {
+        "en": "Mi piace mangiare la pasta.",
+        "tr": "Makarna yemeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "quale",
+    "translation": "hangi",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/ˈkwale/",
+    "sentences": [
+      {
+        "en": "Quale film vuoi vedere?",
+        "tr": "Hangi filmi izlemek istersin?"
+      }
+    ]
+  },
+  {
+    "word": "quarto",
+    "translation": "dördüncü",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈkwarto/",
+    "sentences": [
+      {
+        "en": "Il quarto capitolo è il più interessante.",
+        "tr": "Dördüncü bölüm en ilginç olanıdır."
+      }
+    ]
+  },
+  {
+    "word": "quell'altro",
+    "translation": "öteki",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/ˈkwɛllˈaltro/",
+    "sentences": [
+      {
+        "en": "Voglio quel libro, non quell'altro.",
+        "tr": "O kitabı istiyorum, ötekini değil."
+      }
+    ]
+  },
+  {
+    "word": "quercia",
+    "translation": "meşe ağacı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈkwɛrʧa/",
+    "sentences": [
+      {
+        "en": "La quercia nel parco è molto vecchia.",
+        "tr": "Parktaki meşe ağacı çok yaşlı."
+      }
+    ]
+  },
+  {
+    "word": "qualunque",
+    "translation": "herhangi bir",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kwalˈwʌŋke/",
+    "sentences": [
+      {
+        "en": "Puoi scegliere qualunque colore ti piaccia.",
+        "tr": "Beğendiğin herhangi bir rengi seçebilirsin."
+      }
+    ]
+  },
+  {
+    "word": "quarantacinque",
+    "translation": "kırk beş",
+    "partOfSpeech": "number",
+    "phoneticUS": "/kwarantaˈtʃinkwe/",
+    "sentences": [
+      {
+        "en": "Ho quarantacinque anni.",
+        "tr": "Kırk beş yaşındayım."
+      }
+    ]
+  },
+  {
+    "word": "qualificare",
+    "translation": "belirlemek, nitelendirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kwaliˈfikare/",
+    "sentences": [
+      {
+        "en": "Devi qualificarti per partecipare al concorso.",
+        "tr": "Yarışmaya katılmak için nitelendirmen gerekir."
+      }
+    ]
+  },
+  {
+    "word": "quaglia",
+    "translation": "sülün",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈkwalja/",
+    "sentences": [
+      {
+        "en": "La quaglia vola molto velocemente.",
+        "tr": "Sülün çok hızlı uçar."
+      }
+    ]
+  },
+  {
+    "word": "quaderni",
+    "translation": "defterler",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kwadɛrni/",
+    "sentences": [
+      {
+        "en": "I bambini scrivono nei loro quaderni.",
+        "tr": "Çocuklar defterlerine yazıyor."
+      }
+    ]
+  },
+  {
+    "word": "raggio",
+    "translation": "ışın",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈraddʒo/",
+    "sentences": [
+      {
+        "en": "Il raggio di sole entrava dalla finestra.",
+        "tr": "Güneş ışını pencereden içeri giriyordu."
+      }
+    ]
+  },
+  {
+    "word": "reagire",
+    "translation": "tepki vermek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/re.aˈdʒire/",
+    "sentences": [
+      {
+        "en": "Devi reagire rapidamente alla situazione.",
+        "tr": "Duruma hızlı bir şekilde tepki vermelisin."
+      }
+    ]
+  },
+  {
+    "word": "resistenza",
+    "translation": "direnç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/re.ziˈsten.tsa/",
+    "sentences": [
+      {
+        "en": "La resistenza del materiale è molto alta.",
+        "tr": "Malzemenin direnci çok yüksek."
+      }
+    ]
+  },
+  {
+    "word": "rifiutare",
+    "translation": "reddetmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ri.fjuˈtare/",
+    "sentences": [
+      {
+        "en": "Ha rifiutato l'offerta di lavoro.",
+        "tr": "İş teklifini reddetti."
+      }
+    ]
+  },
+  {
+    "word": "raro",
+    "translation": "nadir",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈraro/",
+    "sentences": [
+      {
+        "en": "Questo tipo di fiore è molto raro.",
+        "tr": "Bu tür çiçek çok nadirdir."
+      }
+    ]
+  },
+  {
+    "word": "richiesta",
+    "translation": "talep",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/riˈkjɛsta/",
+    "sentences": [
+      {
+        "en": "Abbiamo ricevuto una richiesta di informazioni.",
+        "tr": "Bir bilgi talebi aldık."
+      }
+    ]
+  },
+  {
+    "word": "reale",
+    "translation": "gerçek",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/reˈa.le/",
+    "sentences": [
+      {
+        "en": "Questa è una situazione reale.",
+        "tr": "Bu gerçek bir durumdur."
+      }
+    ]
+  },
+  {
+    "word": "rivalità",
+    "translation": "rekabet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ri.va.liˈta/",
+    "sentences": [
+      {
+        "en": "C'è molta rivalità tra le due squadre.",
+        "tr": "İki takım arasında büyük bir rekabet var."
+      }
+    ]
+  },
+  {
+    "word": "risparmiare",
+    "translation": "tasarruf etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ris.parˈmja.re/",
+    "sentences": [
+      {
+        "en": "Dobbiamo risparmiare per le vacanze.",
+        "tr": "Tatil için tasarruf etmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "roba",
+    "translation": "şey, malzeme",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈrɔ.ba/",
+    "sentences": [
+      {
+        "en": "Ho dimenticato la roba a casa.",
+        "tr": "Evde eşyalarımı unuttum."
+      }
+    ]
+  },
+  {
+    "word": "recuperare",
+    "translation": "geri almak, kurtarmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/re.ku.peˈra.re/",
+    "sentences": [
+      {
+        "en": "Devo recuperare il tempo perso.",
+        "tr": "Kaybedilen zamanı geri almalıyım."
+      }
+    ]
+  },
+  {
+    "word": "rinnovare",
+    "translation": "yenilemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/rin.noˈva.re/",
+    "sentences": [
+      {
+        "en": "Stiamo cercando di rinnovare la casa.",
+        "tr": "Evi yenilemeye çalışıyoruz."
+      }
+    ]
+  },
+  {
+    "word": "riprendere",
+    "translation": "yeniden başlatmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/riˈprɛn.de.re/",
+    "sentences": [
+      {
+        "en": "Dobbiamo riprendere il lavoro domani.",
+        "tr": "İşi yarın yeniden başlatmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "riferire",
+    "translation": "bildirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ri.feˈri.re/",
+    "sentences": [
+      {
+        "en": "Voglio riferire questo problema al capo.",
+        "tr": "Bu problemi patrona bildirmek istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "sconto",
+    "translation": "indirim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈskonto/",
+    "sentences": [
+      {
+        "en": "C'è uno sconto su questo prodotto.",
+        "tr": "Bu üründe indirim var."
+      }
+    ]
+  },
+  {
+    "word": "speranza",
+    "translation": "umut",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/speranˈtsa/",
+    "sentences": [
+      {
+        "en": "La speranza è l'ultima a morire.",
+        "tr": "Umut son ölendir."
+      }
+    ]
+  },
+  {
+    "word": "soddisfazione",
+    "translation": "memnuniyet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/soddisfaˈtsjone/",
+    "sentences": [
+      {
+        "en": "Ho ricevuto molta soddisfazione dal mio lavoro.",
+        "tr": "İşimden çok memnun oldum."
+      }
+    ]
+  },
+  {
+    "word": "scrivere",
+    "translation": "yazmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈskriːvere/",
+    "sentences": [
+      {
+        "en": "Mi piace scrivere lettere.",
+        "tr": "Mektup yazmayı seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "soluzione",
+    "translation": "çözüm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/solutˈtsjone/",
+    "sentences": [
+      {
+        "en": "Abbiamo trovato una soluzione al problema.",
+        "tr": "Soruna bir çözüm bulduk."
+      }
+    ]
+  },
+  {
+    "word": "saltare",
+    "translation": "atlamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/salˈtare/",
+    "sentences": [
+      {
+        "en": "I bambini amano saltare la corda.",
+        "tr": "Çocuklar ip atlamayı sever."
+      }
+    ]
+  },
+  {
+    "word": "soffrire",
+    "translation": "acı çekmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sofˈfrire/",
+    "sentences": [
+      {
+        "en": "Non voglio vederti soffrire.",
+        "tr": "Seni acı çekerken görmek istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "serio",
+    "translation": "ciddi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈsɛrjo/",
+    "sentences": [
+      {
+        "en": "Il problema è molto serio.",
+        "tr": "Sorun çok ciddi."
+      }
+    ]
+  },
+  {
+    "word": "semplice",
+    "translation": "basit",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈsɛmplice/",
+    "sentences": [
+      {
+        "en": "La soluzione è molto semplice.",
+        "tr": "Çözüm çok basit."
+      }
+    ]
+  },
+  {
+    "word": "specchio",
+    "translation": "ayna",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈspɛkkjo/",
+    "sentences": [
+      {
+        "en": "Mi guardo nello specchio ogni mattina.",
+        "tr": "Her sabah aynada kendime bakarım."
+      }
+    ]
+  },
+  {
+    "word": "tabella",
+    "translation": "tablo",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/taˈbɛlla/",
+    "sentences": [
+      {
+        "en": "La tabella degli orari è sulla porta.",
+        "tr": "Saat tablosu kapının üzerinde."
+      }
+    ]
+  },
+  {
+    "word": "tacere",
+    "translation": "susmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/taˈtʃɛre/",
+    "sentences": [
+      {
+        "en": "È meglio tacere quando non si ha nulla da dire.",
+        "tr": "Hiçbir şey söyleyecek bir şeyin yoksa susmak daha iyidir."
+      }
+    ]
+  },
+  {
+    "word": "tessera",
+    "translation": "kart",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈtɛssera/",
+    "sentences": [
+      {
+        "en": "Non dimenticare la tessera del supermercato.",
+        "tr": "Market kartını unutma."
+      }
+    ]
+  },
+  {
+    "word": "toccante",
+    "translation": "dokunaklı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/tokˈkante/",
+    "sentences": [
+      {
+        "en": "Il film era molto toccante.",
+        "tr": "Film çok dokunaklıydı."
+      }
+    ]
+  },
+  {
+    "word": "tensione",
+    "translation": "gerilim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tenˈzjone/",
+    "sentences": [
+      {
+        "en": "C'è molta tensione in ufficio oggi.",
+        "tr": "Bugün ofiste büyük bir gerilim var."
+      }
+    ]
+  },
+  {
+    "word": "testo",
+    "translation": "metin",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈtɛsto/",
+    "sentences": [
+      {
+        "en": "Il testo dell'articolo è molto interessante.",
+        "tr": "Makalenin metni çok ilginç."
+      }
+    ]
+  },
+  {
+    "word": "tavolozza",
+    "translation": "palet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tavoˈlɔttsa/",
+    "sentences": [
+      {
+        "en": "La tavolozza dei colori è molto ampia.",
+        "tr": "Renk paleti çok geniştir."
+      }
+    ]
+  },
+  {
+    "word": "terreno",
+    "translation": "arazi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/teˈrɛno/",
+    "sentences": [
+      {
+        "en": "Il terreno è molto fertile in questa zona.",
+        "tr": "Bu bölgedeki arazi çok verimlidir."
+      }
+    ]
+  },
+  {
+    "word": "trasformazione",
+    "translation": "dönüşüm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/trasforˈmaːtsjone/",
+    "sentences": [
+      {
+        "en": "La trasformazione digitale è ormai inevitabile.",
+        "tr": "Dijital dönüşüm artık kaçınılmaz."
+      }
+    ]
+  },
+  {
+    "word": "tarda",
+    "translation": "geç",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈtarda/",
+    "sentences": [
+      {
+        "en": "È già tardi per uscire.",
+        "tr": "Dışarı çıkmak için çok geç."
+      }
+    ]
+  },
+  {
+    "word": "trasparente",
+    "translation": "şeffaf",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/traspaˈrɛnte/",
+    "sentences": [
+      {
+        "en": "Il vetro è trasparente.",
+        "tr": "Cam şeffaf."
+      }
+    ]
+  },
+  {
+    "word": "tendenziale",
+    "translation": "eğilimli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/tendenˈtsjɑːle/",
+    "sentences": [
+      {
+        "en": "La crescita è tendenziale.",
+        "tr": "Büyüme eğilimlidir."
+      }
+    ]
+  },
+  {
+    "word": "tra",
+    "translation": "arasında",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/tra/",
+    "sentences": [
+      {
+        "en": "La casa si trova tra il parco e la scuola.",
+        "tr": "Ev park ile okul arasında bulunuyor."
+      }
+    ]
+  },
+  {
+    "word": "uccidere",
+    "translation": "öldürmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/utˈtʃidere/",
+    "sentences": [
+      {
+        "en": "Non voglio uccidere nessuno.",
+        "tr": "Kimseyi öldürmek istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "umore",
+    "translation": "ruh hali",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/uˈmɔre/",
+    "sentences": [
+      {
+        "en": "Oggi sono di buon umore.",
+        "tr": "Bugün iyi bir ruh halindeyim."
+      }
+    ]
+  },
+  {
+    "word": "umiltà",
+    "translation": "alçakgönüllülük",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/umiˈlta/",
+    "sentences": [
+      {
+        "en": "La umiltà è una grande virtù.",
+        "tr": "Alçakgönüllülük büyük bir erdemdir."
+      }
+    ]
+  },
+  {
+    "word": "ubriaco",
+    "translation": "sarhoş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ubˈrjako/",
+    "sentences": [
+      {
+        "en": "Lui è ubriaco.",
+        "tr": "O sarhoş."
+      }
+    ]
+  },
+  {
+    "word": "usufruire",
+    "translation": "faydalanmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/usufruˈire/",
+    "sentences": [
+      {
+        "en": "Posso usufruire di questo beneficio?",
+        "tr": "Bu avantajdan faydalanabilir miyim?"
+      }
+    ]
+  },
+  {
+    "word": "venire",
+    "translation": "gelmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/veˈniːre/",
+    "sentences": [
+      {
+        "en": "Vieni alla festa stasera?",
+        "tr": "Bu akşam partiye gelecek misin?"
+      }
+    ]
+  },
+  {
+    "word": "velocità",
+    "translation": "hız",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/veˈloːtʃita/",
+    "sentences": [
+      {
+        "en": "La velocità del treno è molto alta.",
+        "tr": "Trenin hızı çok yüksek."
+      }
+    ]
+  },
+  {
+    "word": "veramente",
+    "translation": "gerçekten",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/veˈraːmente/",
+    "sentences": [
+      {
+        "en": "Sono veramente stanco oggi.",
+        "tr": "Bugün gerçekten yorgunum."
+      }
+    ]
+  },
+  {
+    "word": "vorrei",
+    "translation": "isterim",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vorˈrei/",
+    "sentences": [
+      {
+        "en": "Vorrei una pizza margherita.",
+        "tr": "Bir margarita pizza isterim."
+      }
+    ]
+  },
+  {
+    "word": "vincente",
+    "translation": "kazanan",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/vinˈtʃente/",
+    "sentences": [
+      {
+        "en": "È una squadra vincente.",
+        "tr": "Bu kazanan bir takım."
+      }
+    ]
+  },
+  {
+    "word": "vorremmo",
+    "translation": "isteriz",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vorˈremmo/",
+    "sentences": [
+      {
+        "en": "Vorremmo prenotare un tavolo per due.",
+        "tr": "İki kişilik bir masa rezerve etmek isteriz."
+      }
+    ]
+  },
+  {
+    "word": "vivo",
+    "translation": "canlı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈviːvo/",
+    "sentences": [
+      {
+        "en": "Il mercato è molto vivo in questo momento.",
+        "tr": "Pazar şu anda çok canlı."
+      }
+    ]
+  },
+  {
+    "word": "vagare",
+    "translation": "amaçsızca dolaşmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vaˈɡare/",
+    "sentences": [
+      {
+        "en": "Mi piace vagare per la città senza una meta precisa.",
+        "tr": "Şehirde kesin bir hedef olmadan dolaşmayı seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "vagone",
+    "translation": "vagon",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vaˈɡone/",
+    "sentences": [
+      {
+        "en": "Siamo saliti nel vagone del treno.",
+        "tr": "Trenin vagonuna bindik."
+      }
+    ]
+  },
+  {
+    "word": "vestire",
+    "translation": "giyinmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/veˈstire/",
+    "sentences": [
+      {
+        "en": "Devo vestire un abito elegante per la festa.",
+        "tr": "Parti için şık bir elbise giymeliyim."
+      }
+    ]
+  },
+  {
+    "word": "vedovo",
+    "translation": "dul",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈvɛdovo/",
+    "sentences": [
+      {
+        "en": "Il mio amico è vedovo da qualche anno.",
+        "tr": "Arkadaşım birkaç yıldır dul."
+      }
+    ]
+  },
+  {
+    "word": "watt",
+    "translation": "watt",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/wɑt/",
+    "sentences": [
+      {
+        "en": "Questa lampadina consuma solo dieci watt.",
+        "tr": "Bu ampul sadece on watt tüketiyor."
+      }
+    ]
+  },
+  {
+    "word": "worm",
+    "translation": "solucan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/wɜrm/",
+    "sentences": [
+      {
+        "en": "Il verme è importante per il terreno.",
+        "tr": "Solucan, toprak için önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "workshop",
+    "translation": "atölye",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈwɜrkʃɒp/",
+    "sentences": [
+      {
+        "en": "Parteciperò a un workshop di fotografia.",
+        "tr": "Bir fotoğrafçılık atölyesine katılacağım."
+      }
+    ]
+  },
+  {
+    "word": "warmth",
+    "translation": "sıcaklık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/wɔrmθ/",
+    "sentences": [
+      {
+        "en": "La calda luce del sole porta conforto e calore.",
+        "tr": "Güneşin sıcak ışığı konfor ve sıcaklık getirir."
+      }
+    ]
+  },
+  {
+    "word": "wilderness",
+    "translation": "vahşi doğa",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈwɪldərnəs/",
+    "sentences": [
+      {
+        "en": "Adoro esplorare la wilderness durante le vacanze.",
+        "tr": "Tatil sırasında vahşi doğayı keşfetmeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "way",
+    "translation": "yol",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/weɪ/",
+    "sentences": [
+      {
+        "en": "Qual è il modo migliore per arrivare lì?",
+        "tr": "Oraya gitmenin en iyi yolu nedir?"
+      }
+    ]
+  },
+  {
+    "word": "waste",
+    "translation": "atık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/weɪst/",
+    "sentences": [
+      {
+        "en": "Dobbiamo ridurre i rifiuti nella nostra vita quotidiana.",
+        "tr": "Günlük hayatımızda atıkları azaltmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "wary",
+    "translation": "tedbirli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈwɛri/",
+    "sentences": [
+      {
+        "en": "Devo essere cauto quando parlo con estranei.",
+        "tr": "Yabancılarla konuşurken tedbirli olmalıyım."
+      }
+    ]
+  },
+  {
+    "word": "wealthy",
+    "translation": "varlıklı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈwɛlθi/",
+    "sentences": [
+      {
+        "en": "Le persone ricche spesso viaggiano molto.",
+        "tr": "Zengin insanlar genellikle çok seyahat eder."
+      }
+    ]
+  },
+  {
+    "word": "witty",
+    "translation": "esprili",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈwɪti/",
+    "sentences": [
+      {
+        "en": "Il suo commento era davvero spiritoso.",
+        "tr": "Yorumları gerçekten espriliydi."
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "translation": "iyi",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/wɛl/",
+    "sentences": [
+      {
+        "en": "Luca parla inglese molto bene.",
+        "tr": "Luca İngilizceyi çok iyi konuşuyor."
+      }
+    ]
+  },
+  {
+    "word": "yoga",
+    "translation": "yoga",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjɔːɡa/",
+    "sentences": [
+      {
+        "en": "Praticare yoga è utile per rilassarsi.",
+        "tr": "Yoga yapmak rahatlamak için faydalıdır."
+      }
+    ]
+  },
+  {
+    "word": "yogurt",
+    "translation": "yoğurt",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjɔːɡurt/",
+    "sentences": [
+      {
+        "en": "Mi piace mangiare yogurt con la frutta.",
+        "tr": "Meyve ile yoğurt yemeyi severim."
+      }
+    ]
+  },
+  {
+    "word": "yacht",
+    "translation": "yat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/jɑːkt/",
+    "sentences": [
+      {
+        "en": "Abbiamo visto uno yacht enorme al porto.",
+        "tr": "Limanda dev bir yat gördük."
+      }
+    ]
+  },
+  {
+    "word": "yes",
+    "translation": "evet",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/jɛs/",
+    "sentences": [
+      {
+        "en": "Sì, voglio andare al cinema.",
+        "tr": "Evet, sinemaya gitmek istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "translation": "sarı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈjɛl.oʊ/",
+    "sentences": [
+      {
+        "en": "Il cielo è giallo al tramonto.",
+        "tr": "Gün batımında gökyüzü sarı."
+      }
+    ]
+  },
+  {
+    "word": "yogurtato",
+    "translation": "yoğurtlanmış",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/joɡurˈtato/",
+    "sentences": [
+      {
+        "en": "Il gelato yogurtato è molto rinfrescante.",
+        "tr": "Yoğurtlu dondurma çok ferahlatıcıdır."
+      }
+    ]
+  },
+  {
+    "word": "yarn",
+    "translation": "iplik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/jɑːrn/",
+    "sentences": [
+      {
+        "en": "Ho comprato un gomitolo di lana per fare un maglione.",
+        "tr": "Bir kazak yapmak için bir yumak yün aldım."
+      }
+    ]
+  },
+  {
+    "word": "yogaista",
+    "translation": "yogacı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/joɡaˈista/",
+    "sentences": [
+      {
+        "en": "Il yogaista ha una postura perfetta.",
+        "tr": "Yogacı mükemmel bir duruşa sahip."
+      }
+    ]
+  },
+  {
+    "word": "yuppie",
+    "translation": "zengin genç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjʌpi/",
+    "sentences": [
+      {
+        "en": "Il yuppie indossa sempre abiti alla moda.",
+        "tr": "Zengin genç her zaman şık kıyafetler giyer."
+      }
+    ]
+  },
+  {
+    "word": "yoga-centrico",
+    "translation": "yoga odaklı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/joɡaˈtʃɛntɾiko/",
+    "sentences": [
+      {
+        "en": "Vivo uno stile di vita yoga-centrico.",
+        "tr": "Yoga odaklı bir yaşam tarzı yaşıyorum."
+      }
+    ]
+  },
+  {
+    "word": "yarnato",
+    "translation": "ipliklenmiş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ʎarˈnato/",
+    "sentences": [
+      {
+        "en": "Il tappeto è fatto di stoffa yarnata.",
+        "tr": "Halı ipliklenmiş kumaştan yapılmış."
+      }
+    ]
+  },
+  {
+    "word": "yo-yo",
+    "translation": "dönme dolap",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjoʊˌjoʊ/",
+    "sentences": [
+      {
+        "en": "I bambini giocano con il yo-yo nel parco.",
+        "tr": "Çocuklar parkta yo-yo oynuyor."
+      }
+    ]
+  },
+  {
+    "word": "yep",
+    "translation": "evet",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/jɛp/",
+    "sentences": [
+      {
+        "en": "Yep, è una buona idea.",
+        "tr": "Evet, iyi bir fikir."
+      }
+    ]
+  },
+  {
+    "word": "yellowish",
+    "translation": "sarımsı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈjɛl.oʊɪʃ/",
+    "sentences": [
+      {
+        "en": "La parete è di un giallo pallido.",
+        "tr": "Duvar soluk sarımsı bir renkte."
+      }
+    ]
+  },
+  {
+    "word": "yogurteria",
+    "translation": "yoğurt dükkanı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/joɡurˈtɛrja/",
+    "sentences": [
+      {
+        "en": "Vado alla yogurteria per un gelato al cioccolato.",
+        "tr": "Çikolatalı dondurma almak için yoğurt dükkanına gidiyorum."
+      }
+    ]
+  },
+  {
+    "word": "yellowfin",
+    "translation": "sarı yüzgeçli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈjɛl.oʊfɪn/",
+    "sentences": [
+      {
+        "en": "Abbiamo pescato un tonno yellowfin.",
+        "tr": "Sarı yüzgeçli bir ton balığı tuttuk."
+      }
+    ]
+  },
+  {
+    "word": "yuppismo",
+    "translation": "zengin genç kültürü",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjʌpɪzmo/",
+    "sentences": [
+      {
+        "en": "Il yuppismo è diventato popolare negli anni '80.",
+        "tr": "Zengin genç kültürü 80'lerde popüler oldu."
+      }
+    ]
+  },
+  {
+    "word": "yankee",
+    "translation": "yankee",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjæŋki/",
+    "sentences": [
+      {
+        "en": "Lui è un vero yankee.",
+        "tr": "O gerçek bir yankee."
+      }
+    ]
+  },
+  {
+    "word": "yoga terapia",
+    "translation": "yoga terapisi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈjoːɡa teˈrapja/",
+    "sentences": [
+      {
+        "en": "La yoga terapia aiuta a ridurre lo stress.",
+        "tr": "Yoga terapisi stresi azaltmaya yardımcı olur."
+      }
+    ]
+  },
+  {
+    "word": "zaino",
+    "translation": "sırt çantası",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzaino/",
+    "sentences": [
+      {
+        "en": "Ho dimenticato lo zaino a scuola.",
+        "tr": "Okulda sırt çantamı unuttum."
+      }
+    ]
+  },
+  {
+    "word": "zero",
+    "translation": "sıfır",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzɛro/",
+    "sentences": [
+      {
+        "en": "Il punteggio è zero.",
+        "tr": "Puan sıfır."
+      }
+    ]
+  },
+  {
+    "word": "zebrafischio",
+    "translation": "zebra balığı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzeːbrafisko/",
+    "sentences": [
+      {
+        "en": "Il mio acquario è pieno di zebrafischi.",
+        "tr": "Akvaryumum zebra balıklarıyla dolu."
+      }
+    ]
+  },
+  {
+    "word": "zenit",
+    "translation": "zenit",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈzenit/",
+    "sentences": [
+      {
+        "en": "Il sole raggiunge il suo zenit a mezzogiorno.",
+        "tr": "Güneş öğle vakti zenite ulaşır."
+      }
+    ]
+  },
+  {
+    "word": "zoccolo",
+    "translation": "tahta ayakkabı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzɔkːolo/",
+    "sentences": [
+      {
+        "en": "Indossava degli zoccoli di legno.",
+        "tr": "Ahşap ayakkabılar giyiyordu."
+      }
+    ]
+  },
+  {
+    "word": "zucchero",
+    "translation": "şeker",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzukkero/",
+    "sentences": [
+      {
+        "en": "Metti un po' di zucchero nel tè.",
+        "tr": "Çaya biraz şeker koy."
+      }
+    ]
+  },
+  {
+    "word": "zainetto",
+    "translation": "mini sırt çantası",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dzaiˈnetto/",
+    "sentences": [
+      {
+        "en": "Porto sempre il mio zainetto quando vado in giro.",
+        "tr": "Gezerken her zaman mini sırt çantamı taşırım."
+      }
+    ]
+  },
+  {
+    "word": "zelo",
+    "translation": "çaba, gayret",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzɛlo/",
+    "sentences": [
+      {
+        "en": "Lavorano con grande zelo.",
+        "tr": "Büyük bir çaba ile çalışıyorlar."
+      }
+    ]
+  },
+  {
+    "word": "zanzara",
+    "translation": "sivrisinek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzanːzara/",
+    "sentences": [
+      {
+        "en": "Le zanzare sono molto fastidiose d'estate.",
+        "tr": "Sivrisinekler yazın çok rahatsız edicidir."
+      }
+    ]
+  },
+  {
+    "word": "zona",
+    "translation": "bölge",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzɔna/",
+    "sentences": [
+      {
+        "en": "Vivo in una zona tranquilla.",
+        "tr": "Sakin bir bölgede yaşıyorum."
+      }
+    ]
+  },
+  {
+    "word": "zootecnico",
+    "translation": "hayvancılık uzmanı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dzotɛkˈniko/",
+    "sentences": [
+      {
+        "en": "Il mio amico è uno zootecnico.",
+        "tr": "Arkadaşım bir hayvancılık uzmanıdır."
+      }
+    ]
+  },
+  {
+    "word": "zitto",
+    "translation": "sus, sessiz",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈdzitːo/",
+    "sentences": [
+      {
+        "en": "Stai zitto, per favore!",
+        "tr": "Lütfen sus!"
+      }
+    ]
+  },
+  {
+    "word": "zingaro",
+    "translation": "çingene",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzingaro/",
+    "sentences": [
+      {
+        "en": "Ci sono molti zingari che viaggiano per il paese.",
+        "tr": "Ülkede çok sayıda çingene var."
+      }
+    ]
+  },
+  {
+    "word": "zappare",
+    "translation": "çapa ile çalışmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dzapˈpare/",
+    "sentences": [
+      {
+        "en": "Devo zappare il giardino.",
+        "tr": "Bahçeyi çapa ile işlemeliyim."
+      }
+    ]
+  },
+  {
+    "word": "zebrato",
+    "translation": "zebra desenli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dzɛˈbrato/",
+    "sentences": [
+      {
+        "en": "Ha una maglietta zebrata.",
+        "tr": "Zebra desenli bir tişörtü var."
+      }
+    ]
+  },
+  {
+    "word": "zombizzare",
+    "translation": "zombi gibi davranmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/dzombiˈttsare/",
+    "sentences": [
+      {
+        "en": "Alcuni ragazzi stavano zombizzando durante la festa.",
+        "tr": "Bazı gençler parti sırasında zombi gibi davranıyordu."
+      }
+    ]
+  },
+  {
+    "word": "zoccoluto",
+    "translation": "tahta gibi sert",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dzoˈkoluto/",
+    "sentences": [
+      {
+        "en": "Il pavimento è troppo zoccoluto per camminare a piedi nudi.",
+        "tr": "Zemin çıplak ayakla yürümek için çok sert."
+      }
+    ]
+  },
+  {
+    "word": "zabaglione",
+    "translation": "zabaglione (İtalyan tatlısı)",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dzabaˈʎone/",
+    "sentences": [
+      {
+        "en": "Mi piace molto il zabaglione.",
+        "tr": "Zabaglione tatlısını çok seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "zoccola",
+    "translation": "domuz, çakallık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdzɔkːola/",
+    "sentences": [
+      {
+        "en": "Non essere una zoccola!",
+        "tr": "Bir çakallık yapma!"
+      }
+    ]
+  },
+  {
+    "word": "piacere",
+    "translation": "hoşlanmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pjaˈtʃe.re/",
+    "sentences": [
+      {
+        "en": "Mi piace la pizza.",
+        "tr": "Pizzayı severim."
+      }
+    ]
+  },
+  {
+    "word": "uscire",
+    "translation": "dışarı çıkmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/uˈʃi.re/",
+    "sentences": [
+      {
+        "en": "Voglio uscire con gli amici.",
+        "tr": "Arkadaşlarımla dışarı çıkmak istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "altro",
+    "translation": "diğer",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈal.tro/",
+    "sentences": [
+      {
+        "en": "C'è un altro posto disponibile.",
+        "tr": "Başka bir yer mevcut."
+      }
+    ]
+  },
+  {
+    "word": "saper",
+    "translation": "bilmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/saˈper/",
+    "sentences": [
+      {
+        "en": "So come cucinare.",
+        "tr": "Nasıl yemek yapacağımı biliyorum."
+      }
+    ]
+  },
+  {
+    "word": "nove",
+    "translation": "dokuz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈno.ve/",
+    "sentences": [
+      {
+        "en": "Ho nove mele.",
+        "tr": "Dokuz elmam var."
+      }
+    ]
+  },
+  {
+    "word": "vista",
+    "translation": "görüş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈvi.sta/",
+    "sentences": [
+      {
+        "en": "La vista da questa finestra è splendida.",
+        "tr": "Bu pencereden manzara harika."
+      }
+    ]
+  },
+  {
+    "word": "aiutare",
+    "translation": "yardım etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/aj.uˈta.re/",
+    "sentences": [
+      {
+        "en": "Posso aiutare a portare la tua borsa?",
+        "tr": "Çantanı taşımana yardımcı olabilir miyim?"
+      }
+    ]
+  },
+  {
+    "word": "spero",
+    "translation": "umut etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈspe.ro/",
+    "sentences": [
+      {
+        "en": "Spero che tu venga alla festa.",
+        "tr": "Umarım partiye gelirsin."
+      }
+    ]
+  },
+  {
+    "word": "amicizia",
+    "translation": "arkadaşlık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/a.miˈtʃit.t͡sja/",
+    "sentences": [
+      {
+        "en": "L'amicizia è molto importante.",
+        "tr": "Arkadaşlık çok önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "vivere",
+    "translation": "yaşamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈvi.ve.re/",
+    "sentences": [
+      {
+        "en": "Vivo in Italia.",
+        "tr": "İtalya'da yaşıyorum."
+      }
+    ]
+  },
+  {
+    "word": "viaggiare",
+    "translation": "seyahat etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vjaˈd͡ʒare/",
+    "sentences": [
+      {
+        "en": "Mi piace viaggiare in Italia.",
+        "tr": "İtalya'ya seyahat etmeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "studio",
+    "translation": "çalışma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈstudjo/",
+    "sentences": [
+      {
+        "en": "Lo studio è importante per il futuro.",
+        "tr": "Çalışma, gelecek için önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "vicino",
+    "translation": "yakın",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/viˈtʃino/",
+    "sentences": [
+      {
+        "en": "La scuola è vicino a casa.",
+        "tr": "Okul evime yakın."
+      }
+    ]
+  },
+  {
+    "word": "andare via",
+    "translation": "gitmek, ayrılmak",
+    "partOfSpeech": "phrase",
+    "phoneticUS": "/anˈda.re ˈvi.a/",
+    "sentences": [
+      {
+        "en": "Devo andare via adesso.",
+        "tr": "Şimdi gitmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "però",
+    "translation": "ama, fakat",
+    "partOfSpeech": "conjunction",
+    "phoneticUS": "/peˈrɔ/",
+    "sentences": [
+      {
+        "en": "Voglio andare al mare, però è troppo lontano.",
+        "tr": "Denize gitmek istiyorum ama çok uzak."
+      }
+    ]
+  },
+  {
+    "word": "spiegare",
+    "translation": "açıklamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/spjeˈɡa.re/",
+    "sentences": [
+      {
+        "en": "Mi puoi spiegare questo problema?",
+        "tr": "Bu problemi bana açıklayabilir misin?"
+      }
+    ]
+  },
+  {
+    "word": "svegliare",
+    "translation": "uyandırmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sveˈʎa.re/",
+    "sentences": [
+      {
+        "en": "Mi sveglio presto ogni mattina.",
+        "tr": "Her sabah erken uyanırım."
+      }
+    ]
+  },
+  {
+    "word": "sveglio",
+    "translation": "uyanık",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈsve.ʎo/",
+    "sentences": [
+      {
+        "en": "Sono molto sveglio oggi.",
+        "tr": "Bugün çok uyanığım."
+      }
+    ]
+  },
+  {
+    "word": "momento",
+    "translation": "an",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/moˈmen.to/",
+    "sentences": [
+      {
+        "en": "Aspetta un momento.",
+        "tr": "Bir an bekle."
+      }
+    ]
+  },
+  {
+    "word": "faccia",
+    "translation": "yüz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈfat.tʃa/",
+    "sentences": [
+      {
+        "en": "Hai una faccia stanca.",
+        "tr": "Yorgun bir yüzün var."
+      }
+    ]
+  },
+  {
+    "word": "abitare",
+    "translation": "yaşamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/a.biˈta.re/",
+    "sentences": [
+      {
+        "en": "Io abito a Roma da cinque anni.",
+        "tr": "Beş yıldır Roma'da yaşıyorum."
+      }
+    ]
+  },
+  {
+    "word": "oppure",
+    "translation": "ya da",
+    "partOfSpeech": "conjunction",
+    "phoneticUS": "/opˈpu.re/",
+    "sentences": [
+      {
+        "en": "Vuoi tè oppure caffè?",
+        "tr": "Çay mı yoksa kahve mi istersin?"
+      }
+    ]
+  },
+  {
+    "word": "benevolo",
+    "translation": "iyi niyetli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/be.neˈvo.lo/",
+    "sentences": [
+      {
+        "en": "Il professore è molto benevolo con gli studenti.",
+        "tr": "Öğretmen öğrencilerle çok iyi niyetli."
+      }
+    ]
+  },
+  {
+    "word": "eccellente",
+    "translation": "mükemmel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/et.tʃelˈlen.te/",
+    "sentences": [
+      {
+        "en": "Hai fatto un lavoro eccellente.",
+        "tr": "Mükemmel bir iş çıkardın."
+      }
+    ]
+  },
+  {
+    "word": "accordo",
+    "translation": "anlaşma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/akˈkordo/",
+    "sentences": [
+      {
+        "en": "Hanno raggiunto un accordo importante.",
+        "tr": "Önemli bir anlaşmaya vardılar."
+      }
+    ]
+  },
+  {
+    "word": "anche",
+    "translation": "de, ayrıca",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ˈanke/",
+    "sentences": [
+      {
+        "en": "Voglio venire anche io.",
+        "tr": "Ben de gelmek istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "arrivare",
+    "translation": "varmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/arriˈvare/",
+    "sentences": [
+      {
+        "en": "Il treno arriverà alle otto.",
+        "tr": "Tren saat sekizde varacak."
+      }
+    ]
+  },
+  {
+    "word": "attenzione",
+    "translation": "dikkat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/attenˈtsjone/",
+    "sentences": [
+      {
+        "en": "Fai attenzione alla strada.",
+        "tr": "Yola dikkat et."
+      }
+    ]
+  },
+  {
+    "word": "bisogno",
+    "translation": "ihtiyaç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/biˈzoɲɲo/",
+    "sentences": [
+      {
+        "en": "Ho bisogno di aiuto.",
+        "tr": "Yardıma ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "word": "cercare",
+    "translation": "aramak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/tʃerˈkare/",
+    "sentences": [
+      {
+        "en": "Sto cercando le chiavi.",
+        "tr": "Anahtarları arıyorum."
+      }
+    ]
+  },
+  {
+    "word": "fortunatamente",
+    "translation": "neyse ki",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/fortuˈnatamente/",
+    "sentences": [
+      {
+        "en": "Fortunatamente, non piove oggi.",
+        "tr": "Neyse ki bugün yağmur yağmıyor."
+      }
+    ]
+  },
+  {
+    "word": "ognuno",
+    "translation": "herkes",
+    "partOfSpeech": "pronoun",
+    "phoneticUS": "/oˈɲuno/",
+    "sentences": [
+      {
+        "en": "Ognuno ha la sua opinione.",
+        "tr": "Herkesin kendi görüşü var."
+      }
+    ]
+  },
+  {
+    "word": "piacevole",
+    "translation": "hoş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/pjatʃeˈvole/",
+    "sentences": [
+      {
+        "en": "Abbiamo passato una serata piacevole.",
+        "tr": "Hoş bir akşam geçirdik."
+      }
+    ]
+  },
+  {
+    "word": "potere",
+    "translation": "yapabilmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/poˈtere/",
+    "sentences": [
+      {
+        "en": "Posso aiutarti con i compiti.",
+        "tr": "Ödevlerinde sana yardım edebilirim."
+      }
+    ]
+  },
+  {
+    "word": "stesso",
+    "translation": "aynı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈstesso/",
+    "sentences": [
+      {
+        "en": "Abbiamo lo stesso problema.",
+        "tr": "Aynı sorunumuz var."
+      }
+    ]
+  },
+  {
+    "word": "ieri",
+    "translation": "dün",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ˈje.ri/",
+    "sentences": [
+      {
+        "en": "Ieri ho visto un bel film.",
+        "tr": "Dün güzel bir film izledim."
+      }
+    ]
+  },
+  {
+    "word": "soprattutto",
+    "translation": "özellikle",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/soˈpraˈtut.to/",
+    "sentences": [
+      {
+        "en": "Mi piace la pizza, soprattutto quella con il prosciutto.",
+        "tr": "Pizzayı severim, özellikle jambonlu olanı."
+      }
+    ]
+  },
+  {
+    "word": "mentre",
+    "translation": "iken",
+    "partOfSpeech": "conjunction",
+    "phoneticUS": "/ˈmen.tre/",
+    "sentences": [
+      {
+        "en": "Leggevo mentre ascoltavo la musica.",
+        "tr": "Müzik dinlerken okuyordum."
+      }
+    ]
+  },
+  {
+    "word": "mai",
+    "translation": "asla",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/mai/",
+    "sentences": [
+      {
+        "en": "Non l'ho mai visto prima.",
+        "tr": "Onu daha önce hiç görmedim."
+      }
+    ]
+  },
+  {
+    "word": "sicuramente",
+    "translation": "kesinlikle",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/si.kuˈraːmen.te/",
+    "sentences": [
+      {
+        "en": "Sicuramente verrò alla festa.",
+        "tr": "Kesinlikle partiye geleceğim."
+      }
+    ]
+  },
+  {
+    "word": "ora",
+    "translation": "şimdi",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ˈo.ra/",
+    "sentences": [
+      {
+        "en": "Ora posso andare a casa.",
+        "tr": "Şimdi eve gidebilirim."
+      }
+    ]
+  },
+  {
+    "word": "per",
+    "translation": "için",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/per/",
+    "sentences": [
+      {
+        "en": "Questo regalo è per te.",
+        "tr": "Bu hediye senin için."
+      }
+    ]
+  },
+  {
+    "word": "sorridere",
+    "translation": "gülümsemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sorˈri.de.re/",
+    "sentences": [
+      {
+        "en": "Mi piace sorridere alle persone.",
+        "tr": "İnsanlara gülümsemeyi seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "chiedere",
+    "translation": "sormak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈkje.de.re/",
+    "sentences": [
+      {
+        "en": "Posso chiedere un favore?",
+        "tr": "Bir iyilik isteyebilir miyim?"
+      }
+    ]
+  },
+  {
+    "word": "bella",
+    "translation": "güzel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈbɛlla/",
+    "sentences": [
+      {
+        "en": "La vista è davvero bella.",
+        "tr": "Manzara gerçekten güzel."
+      }
+    ]
+  },
+  {
+    "word": "da",
+    "translation": "den, dan",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/da/",
+    "sentences": [
+      {
+        "en": "Vengo da Roma.",
+        "tr": "Roma'dan geliyorum."
+      }
+    ]
+  },
+  {
+    "word": "sentire",
+    "translation": "duymak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/senˈtire/",
+    "sentences": [
+      {
+        "en": "Sentivo un rumore strano.",
+        "tr": "Garip bir ses duydum."
+      }
+    ]
+  },
+  {
+    "word": "media",
+    "translation": "ortalama",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈme.dja/",
+    "sentences": [
+      {
+        "en": "La media delle temperature è alta.",
+        "tr": "Sıcaklıkların ortalaması yüksektir."
+      }
+    ]
+  },
+  {
+    "word": "premio",
+    "translation": "ödül",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈprɛ.mjo/",
+    "sentences": [
+      {
+        "en": "Ho vinto un premio per il mio lavoro.",
+        "tr": "Çalışmam için bir ödül kazandım."
+      }
+    ]
+  },
+  {
+    "word": "consapevole",
+    "translation": "farkında",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/konsaˈpɛ.vo.le/",
+    "sentences": [
+      {
+        "en": "È importante essere consapevoli delle proprie azioni.",
+        "tr": "Kendi eylemlerinin farkında olmak önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "all'indietro",
+    "translation": "geri",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/al.linˈdjet.ro/",
+    "sentences": [
+      {
+        "en": "Devi andare all'indietro per trovare la strada giusta.",
+        "tr": "Doğru yolu bulmak için geri gitmelisin."
+      }
+    ]
+  },
+  {
+    "word": "cuocere",
+    "translation": "pişirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈkwɔ.tʃe.re/",
+    "sentences": [
+      {
+        "en": "Devi cuocere la pasta per dieci minuti.",
+        "tr": "Makarna on dakika pişirmelisin."
+      }
+    ]
+  },
+  {
+    "word": "equilibrio",
+    "translation": "denge",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/e.kwiˈli.bri.o/",
+    "sentences": [
+      {
+        "en": "L'equilibrio è essenziale per una vita sana.",
+        "tr": "Denge sağlıklı bir yaşam için esastır."
+      }
+    ]
+  },
+  {
+    "word": "divieto",
+    "translation": "yasak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/diˈvjɛ.to/",
+    "sentences": [
+      {
+        "en": "C'è un divieto di fumare in questo ristorante.",
+        "tr": "Bu restoranda sigara içmek yasaktır."
+      }
+    ]
+  },
+  {
+    "word": "banca",
+    "translation": "banka",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈbaŋ.ka/",
+    "sentences": [
+      {
+        "en": "Andiamo in banca a prelevare dei soldi.",
+        "tr": "Para çekmek için bankaya gidiyoruz."
+      }
+    ]
+  },
+  {
+    "word": "base",
+    "translation": "temel",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈba.se/",
+    "sentences": [
+      {
+        "en": "La base di questa teoria è molto solida.",
+        "tr": "Bu teorinin temeli çok sağlam."
+      }
+    ]
+  },
+  {
+    "word": "basilare",
+    "translation": "temel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ba.siˈla.re/",
+    "sentences": [
+      {
+        "en": "È basilare avere una buona comunicazione.",
+        "tr": "İyi bir iletişim kurmak temeldir."
+      }
+    ]
+  },
+  {
+    "word": "batteria",
+    "translation": "pil",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/bat.teˈri.a/",
+    "sentences": [
+      {
+        "en": "La batteria del telefono è scarica.",
+        "tr": "Telefonun pili bitmiş."
+      }
+    ]
+  },
+  {
+    "word": "battaglia",
+    "translation": "savaş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/batˈtaʎ.ʎa/",
+    "sentences": [
+      {
+        "en": "La battaglia per la libertà è stata lunga.",
+        "tr": "Özgürlük savaşı uzun sürdü."
+      }
+    ]
+  },
+  {
+    "word": "bellezza",
+    "translation": "güzellik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/belˈlet.tsa/",
+    "sentences": [
+      {
+        "en": "La bellezza della natura ci stupisce sempre.",
+        "tr": "Doğanın güzelliği her zaman bizi şaşırtır."
+      }
+    ]
+  },
+  {
+    "word": "ape",
+    "translation": "arı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈa.pe/",
+    "sentences": [
+      {
+        "en": "L'ape è fondamentale per l'impollinazione.",
+        "tr": "Arı, polinasyon için hayati öneme sahiptir."
+      }
+    ]
+  },
+  {
+    "word": "convinzione",
+    "translation": "inanç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.vinˈtsjo.ne/",
+    "sentences": [
+      {
+        "en": "La sua convinzione è molto forte.",
+        "tr": "Onun inancı çok güçlü."
+      }
+    ]
+  },
+  {
+    "word": "campana",
+    "translation": "çan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kamˈpa.na/",
+    "sentences": [
+      {
+        "en": "La campana suona ogni ora.",
+        "tr": "Çan her saat başı çalar."
+      }
+    ]
+  },
+  {
+    "word": "piegare",
+    "translation": "bükmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pjeˈɡa.re/",
+    "sentences": [
+      {
+        "en": "Devi piegare il foglio a metà.",
+        "tr": "Kağıdı ikiye bükmelisin."
+      }
+    ]
+  },
+  {
+    "word": "beneficio",
+    "translation": "yarar",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/be.neˈfi.tʃo/",
+    "sentences": [
+      {
+        "en": "Il beneficio di studiare è enorme.",
+        "tr": "Çalışmanın yararı büyüktür."
+      }
+    ]
+  },
+  {
+    "word": "meglio",
+    "translation": "daha iyi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈmɛ.ʎo/",
+    "sentences": [
+      {
+        "en": "È meglio essere preparati.",
+        "tr": "Hazır olmak daha iyidir."
+      }
+    ]
+  },
+  {
+    "word": "morso",
+    "translation": "ısırık",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈmor.so/",
+    "sentences": [
+      {
+        "en": "Il morso del cane è stato doloroso.",
+        "tr": "Köpeğin ısırığı acı vericiydi."
+      }
+    ]
+  },
+  {
+    "word": "blocco",
+    "translation": "blokaj",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈblok.ko/",
+    "sentences": [
+      {
+        "en": "C'è un blocco stradale in città.",
+        "tr": "Şehirde bir yol kapaması var."
+      }
+    ]
+  },
+  {
+    "word": "bordo",
+    "translation": "kenar",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈbor.do/",
+    "sentences": [
+      {
+        "en": "Devi bordo la carta per un effetto migliore.",
+        "tr": "Daha iyi bir etki için kağıdı kenar yapmalısın."
+      }
+    ]
+  },
+  {
+    "word": "bomba",
+    "translation": "bomba",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈbom.ba/",
+    "sentences": [
+      {
+        "en": "La bomba ha causato molti danni.",
+        "tr": "Bomba birçok zarara neden oldu."
+      }
+    ]
+  },
+  {
+    "word": "confine",
+    "translation": "sınır",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/konˈfi.ne/",
+    "sentences": [
+      {
+        "en": "Abbiamo superato il confine senza problemi.",
+        "tr": "Sınırı sorunsuz geçtik."
+      }
+    ]
+  },
+  {
+    "word": "sfida",
+    "translation": "meydan okuma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈsfida/",
+    "sentences": [
+      {
+        "en": "La sfida che ho accettato è molto difficile.",
+        "tr": "Kabul ettiğim meydan okuma çok zor."
+      }
+    ]
+  },
+  {
+    "word": "campione",
+    "translation": "şampiyon",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kamˈpione/",
+    "sentences": [
+      {
+        "en": "Lui è il campione del mondo di boxe.",
+        "tr": "O, dünya boks şampiyonu."
+      }
+    ]
+  },
+  {
+    "word": "canale",
+    "translation": "kanal",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kaˈnale/",
+    "sentences": [
+      {
+        "en": "Abbiamo bisogno di un canale per l'acqua.",
+        "tr": "Suyun akması için bir kanala ihtiyacımız var."
+      }
+    ]
+  },
+  {
+    "word": "capitolo",
+    "translation": "bölüm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kaˈpitolo/",
+    "sentences": [
+      {
+        "en": "Il capitolo che stiamo leggendo è molto interessante.",
+        "tr": "Okuduğumuz bölüm çok ilginç."
+      }
+    ]
+  },
+  {
+    "word": "carica",
+    "translation": "şarj",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈkarika/",
+    "sentences": [
+      {
+        "en": "Ho bisogno di una carica per il mio telefono.",
+        "tr": "Telefonum için bir şarja ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "word": "economico",
+    "translation": "ucuz",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ekonoˈmiko/",
+    "sentences": [
+      {
+        "en": "Questo ristorante è molto economico.",
+        "tr": "Bu restoran çok ucuz."
+      }
+    ]
+  },
+  {
+    "word": "imbrogliare",
+    "translation": "aldatmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/imˈbroʎʎare/",
+    "sentences": [
+      {
+        "en": "Non è giusto imbrogliare durante il gioco.",
+        "tr": "Oyun sırasında aldatmak doğru değil."
+      }
+    ]
+  },
+  {
+    "word": "allegro",
+    "translation": "neşeli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/alˈleɡro/",
+    "sentences": [
+      {
+        "en": "Era un giorno allegro e soleggiato.",
+        "tr": "Neşeli ve güneşli bir gündü."
+      }
+    ]
+  },
+  {
+    "word": "chimico",
+    "translation": "kimyasal",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈkimiko/",
+    "sentences": [
+      {
+        "en": "Il composto chimico è molto reattivo.",
+        "tr": "Bu kimyasal bileşik çok reaktiftir."
+      }
+    ]
+  },
+  {
+    "word": "petto",
+    "translation": "göğüs",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈpetto/",
+    "sentences": [
+      {
+        "en": "Mi fa male il petto dopo l'allenamento.",
+        "tr": "Antrenmandan sonra göğsüm ağrıyor."
+      }
+    ]
+  },
+  {
+    "word": "infanzia",
+    "translation": "çocukluk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/inˈfantʦja/",
+    "sentences": [
+      {
+        "en": "Ricordo la mia infanzia con affetto.",
+        "tr": "Çocukluğumu sevgiyle hatırlıyorum."
+      }
+    ]
+  },
+  {
+    "word": "pretesa",
+    "translation": "iddia",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/preˈteza/",
+    "sentences": [
+      {
+        "en": "Non posso accettare la tua pretesa.",
+        "tr": "Senin iddianı kabul edemem."
+      }
+    ]
+  },
+  {
+    "word": "clausola",
+    "translation": "madde",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈklauzola/",
+    "sentences": [
+      {
+        "en": "La clausola nel contratto è molto importante.",
+        "tr": "Sözleşmedeki madde çok önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "chiaro",
+    "translation": "net",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈkjaro/",
+    "sentences": [
+      {
+        "en": "È chiaro che dobbiamo lavorare insieme.",
+        "tr": "Birlikte çalışmamız gerektiği net."
+      }
+    ]
+  },
+  {
+    "word": "fare clic",
+    "translation": "tıklamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈfa.re ˈklik/",
+    "sentences": [
+      {
+        "en": "Puoi fare clic sul link per maggiori informazioni.",
+        "tr": "Daha fazla bilgi için bağlantıya tıklayabilirsin."
+      }
+    ]
+  },
+  {
+    "word": "cliente",
+    "translation": "müşteri",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kliˈente/",
+    "sentences": [
+      {
+        "en": "Il cliente è sempre al centro della nostra attenzione.",
+        "tr": "Müşteri her zaman dikkatimizin merkezindedir."
+      }
+    ]
+  },
+  {
+    "word": "salire",
+    "translation": "tırmanmak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/saˈli.re/",
+    "sentences": [
+      {
+        "en": "Dobbiamo salire sulla montagna prima di sera.",
+        "tr": "Akşamdan önce dağa tırmanmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "chiudi2",
+    "translation": "kapatmak",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ˈkjudii/",
+    "sentences": [
+      {
+        "en": "Chiudi la porta quando esci.",
+        "tr": "Çıkarken kapıyı kapat."
+      }
+    ]
+  },
+  {
+    "word": "stoffa",
+    "translation": "bez",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈstof.fa/",
+    "sentences": [
+      {
+        "en": "Ho bisogno di stoffa per cucire un vestito.",
+        "tr": "Bir elbise dikmek için beze ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "word": "indizio",
+    "translation": "ipuçları",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/inˈditʦjo/",
+    "sentences": [
+      {
+        "en": "Abbiamo trovato un indizio nella stanza.",
+        "tr": "Odada bir ipucu bulduk."
+      }
+    ]
+  },
+  {
+    "word": "allenatore",
+    "translation": "antrenör",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/allenatore/",
+    "sentences": [
+      {
+        "en": "L'allenatore ha preparato una strategia vincente.",
+        "tr": "Antrenör kazanan bir strateji hazırladı."
+      }
+    ]
+  },
+  {
+    "word": "carbone",
+    "translation": "kömür",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/karˈbone/",
+    "sentences": [
+      {
+        "en": "Il carbone è utilizzato per produrre energia.",
+        "tr": "Kömür enerji üretiminde kullanılır."
+      }
+    ]
+  },
+  {
+    "word": "moneta",
+    "translation": "madeni para",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/moˈnɛta/",
+    "sentences": [
+      {
+        "en": "Ho trovato una moneta per strada.",
+        "tr": "Yolda bir madeni para buldum."
+      }
+    ]
+  },
+  {
+    "word": "raccolta",
+    "translation": "toplama",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/rakˈkolta/",
+    "sentences": [
+      {
+        "en": "La raccolta di fondi è iniziata ieri.",
+        "tr": "Bağış toplama işlemi dün başladı."
+      }
+    ]
+  },
+  {
+    "word": "colorato",
+    "translation": "renkli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/koloˈrato/",
+    "sentences": [
+      {
+        "en": "Ho comprato un vestito colorato per la festa.",
+        "tr": "Parti için renkli bir elbise aldım."
+      }
+    ]
+  },
+  {
+    "word": "continuo",
+    "translation": "sürekli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/konˈtinuo/",
+    "sentences": [
+      {
+        "en": "Il rumore è continuo e fastidioso.",
+        "tr": "Gürültü sürekli ve rahatsız edici."
+      }
+    ]
+  },
+  {
+    "word": "contrasto",
+    "translation": "zıtlık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/konˈtrasto/",
+    "sentences": [
+      {
+        "en": "C'è un grande contrasto tra le due idee.",
+        "tr": "İki fikir arasında büyük bir zıtlık var."
+      }
+    ]
+  },
+  {
+    "word": "conveniente",
+    "translation": "uygun",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/konveˈnjɛnte/",
+    "sentences": [
+      {
+        "en": "Questa opzione è molto conveniente per me.",
+        "tr": "Bu seçenek benim için çok uygun."
+      }
+    ]
+  },
+  {
+    "word": "convincere",
+    "translation": "ikna etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/konˈvintʃere/",
+    "sentences": [
+      {
+        "en": "Devo convincere il mio amico a venire.",
+        "tr": "Arkadaşıma gelmesini ikna etmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "bello",
+    "translation": "güzel",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈbɛllo/",
+    "sentences": [
+      {
+        "en": "Questo dipinto è davvero bello.",
+        "tr": "Bu tablo gerçekten güzel."
+      }
+    ]
+  },
+  {
+    "word": "costume",
+    "translation": "kostüm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈkɔstume/",
+    "sentences": [
+      {
+        "en": "Indosso il mio costume da bagno.",
+        "tr": "Mayomu giyiyorum."
+      }
+    ]
+  },
+  {
+    "word": "casetta",
+    "translation": "küçük ev",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kaˈzetta/",
+    "sentences": [
+      {
+        "en": "Abbiamo una casetta nel bosco.",
+        "tr": "Ormanda bir küçük evimiz var."
+      }
+    ]
+  },
+  {
+    "word": "cotone",
+    "translation": "pamuk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/koˈtone/",
+    "sentences": [
+      {
+        "en": "Questa maglietta è fatta di cotone.",
+        "tr": "Bu tişört pamuktan yapılmış."
+      }
+    ]
+  },
+  {
+    "word": "contare",
+    "translation": "saymak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/konˈtare/",
+    "sentences": [
+      {
+        "en": "Devo contare le monete.",
+        "tr": "Paraları saymam gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "campagna",
+    "translation": "kırsal alan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kamˈpaɲɲa/",
+    "sentences": [
+      {
+        "en": "Mi piace passeggiare in campagna.",
+        "tr": "Kırsal alanda yürüyüş yapmayı seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "tribunale",
+    "translation": "mahkeme",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tribuˈnale/",
+    "sentences": [
+      {
+        "en": "Il caso sarà giudicato in tribunale.",
+        "tr": "Dava mahkemede yargılanacak."
+      }
+    ]
+  },
+  {
+    "word": "copertura",
+    "translation": "kaplama",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kopeˈtura/",
+    "sentences": [
+      {
+        "en": "La copertura della finestra è rotta.",
+        "tr": "Pencerenin kaplaması kırılmış."
+      }
+    ]
+  },
+  {
+    "word": "coperto",
+    "translation": "kapalı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/koˈpɛrto/",
+    "sentences": [
+      {
+        "en": "Il cielo è coperto oggi.",
+        "tr": "Bugün hava kapalı."
+      }
+    ]
+  },
+  {
+    "word": "crema",
+    "translation": "krem",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈkrɛma/",
+    "sentences": [
+      {
+        "en": "Mi piace usare la crema al cioccolato.",
+        "tr": "Çikolatalı kremayı kullanmayı seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "criminale",
+    "translation": "suçlu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/krimiˈnale/",
+    "sentences": [
+      {
+        "en": "L'uomo è stato arrestato per comportamento criminale.",
+        "tr": "Adam suçlu davranış nedeniyle tutuklandı."
+      }
+    ]
+  },
+  {
+    "word": "crudele",
+    "translation": "zalim",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kruˈdɛle/",
+    "sentences": [
+      {
+        "en": "Il comportamento di quel dittatore è crudele.",
+        "tr": "O diktatörün davranışı zalimce."
+      }
+    ]
+  },
+  {
+    "word": "culturale",
+    "translation": "kültürel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kultuˈrale/",
+    "sentences": [
+      {
+        "en": "L'evento ha un'importanza culturale enorme.",
+        "tr": "Etkinliğin büyük bir kültürel önemi var."
+      }
+    ]
+  },
+  {
+    "word": "valuta",
+    "translation": "para birimi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/vaˈluta/",
+    "sentences": [
+      {
+        "en": "La valuta di questo paese è l'euro.",
+        "tr": "Bu ülkenin para birimi eurodur."
+      }
+    ]
+  },
+  {
+    "word": "corrente",
+    "translation": "akım",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/korˈrente/",
+    "sentences": [
+      {
+        "en": "La corrente del fiume è molto forte.",
+        "tr": "Nehirin akımı çok güçlü."
+      }
+    ]
+  },
+  {
+    "word": "attualmente",
+    "translation": "şu anda",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/attualˈmente/",
+    "sentences": [
+      {
+        "en": "Attualmente sto studiando per un esame.",
+        "tr": "Şu anda bir sınav için çalışıyorum."
+      }
+    ]
+  },
+  {
+    "word": "tenda",
+    "translation": "perde",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈtenda/",
+    "sentences": [
+      {
+        "en": "La tenda è rossa e bianca.",
+        "tr": "Perde kırmızı ve beyaz."
+      }
+    ]
+  },
+  {
+    "word": "personalizzato",
+    "translation": "özel",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/persoˈnalitːsato/",
+    "sentences": [
+      {
+        "en": "Ho un regalo personalizzato per te.",
+        "tr": "Senin için özel bir hediye aldım."
+      }
+    ]
+  },
+  {
+    "word": "tagliare",
+    "translation": "kesmek",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/taʎˈʎare/",
+    "sentences": [
+      {
+        "en": "Devi tagliare il pane prima di mangiarlo.",
+        "tr": "Ekmeği yemeden önce kesmen gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "quotidiano",
+    "translation": "günlük",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/kwotidjaˈno/",
+    "sentences": [
+      {
+        "en": "Leggo il giornale quotidiano ogni mattina.",
+        "tr": "Her sabah günlük gazeteyi okurum."
+      }
+    ]
+  },
+  {
+    "word": "danno",
+    "translation": "hasar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdanno/",
+    "sentences": [
+      {
+        "en": "Il danno alla casa è stato significativo.",
+        "tr": "Evin hasarı önemliydi."
+      }
+    ]
+  },
+  {
+    "word": "affare",
+    "translation": "iş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/afˈfa.re/",
+    "sentences": [
+      {
+        "en": "Quello è un affare vantaggioso.",
+        "tr": "Bu avantajlı bir iş."
+      }
+    ]
+  },
+  {
+    "word": "decennio",
+    "translation": "on yıl",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/deˈtʃɛn.ni.o/",
+    "sentences": [
+      {
+        "en": "Negli ultimi decenni, la tecnologia è cambiata drasticamente.",
+        "tr": "Son on yılda teknoloji büyük ölçüde değişti."
+      }
+    ]
+  },
+  {
+    "word": "decorare",
+    "translation": "süslemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/de.koˈra.re/",
+    "sentences": [
+      {
+        "en": "Voglio decorare la mia stanza per il compleanno.",
+        "tr": "Doğum günü için odamı süslemek istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "profondo",
+    "translation": "derin",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/proˈfondo/",
+    "sentences": [
+      {
+        "en": "Il lago è molto profondo.",
+        "tr": "Göl çok derin."
+      }
+    ]
+  },
+  {
+    "word": "definire",
+    "translation": "tanımlamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/de.fiˈni.re/",
+    "sentences": [
+      {
+        "en": "È difficile definire cosa sia la felicità.",
+        "tr": "Mutluluğun ne olduğunu tanımlamak zordur."
+      }
+    ]
+  },
+  {
+    "word": "definito",
+    "translation": "belirli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/de.fiˈni.to/",
+    "sentences": [
+      {
+        "en": "Il piano è stato definito chiaramente.",
+        "tr": "Plan açıkça belirlenmiştir."
+      }
+    ]
+  },
+  {
+    "word": "definizione",
+    "translation": "tanım",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/de.fi.nitˈtsi.o.ne/",
+    "sentences": [
+      {
+        "en": "La definizione di 'libertà' può variare.",
+        "tr": "'Özgürlük' tanımı farklılık gösterebilir."
+      }
+    ]
+  },
+  {
+    "word": "consegnare",
+    "translation": "teslim etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kon.seˈɲa.re/",
+    "sentences": [
+      {
+        "en": "Devo consegnare il pacco entro domani.",
+        "tr": "Paketi yarına kadar teslim etmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "partenza",
+    "translation": "hareket",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/parˈten.tsa/",
+    "sentences": [
+      {
+        "en": "La partenza del treno è programmata per le sei.",
+        "tr": "Trenin hareketi altıda planlanmıştır."
+      }
+    ]
+  },
+  {
+    "word": "nonostante",
+    "translation": "rağmen",
+    "partOfSpeech": "other",
+    "phoneticUS": "/non.oˈstante/",
+    "sentences": [
+      {
+        "en": "Nonostante la pioggia, siamo usciti.",
+        "tr": "Yağmura rağmen dışarı çıktık."
+      }
+    ]
+  },
+  {
+    "word": "destinazione",
+    "translation": "varış yeri",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/des.ti.natˈtsi.o.ne/",
+    "sentences": [
+      {
+        "en": "La nostra destinazione è Roma.",
+        "tr": "Bizim varış yerimiz Roma."
+      }
+    ]
+  },
+  {
+    "word": "determinare",
+    "translation": "belirlemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/de.ter.miˈna.re/",
+    "sentences": [
+      {
+        "en": "Dobbiamo determinare il budget per il progetto.",
+        "tr": "Proje için bütçeyi belirlemeliyiz."
+      }
+    ]
+  },
+  {
+    "word": "determinato",
+    "translation": "kararlı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/de.ter.miˈna.to/",
+    "sentences": [
+      {
+        "en": "È una persona molto determinata.",
+        "tr": "O, çok kararlı bir insandır."
+      }
+    ]
+  },
+  {
+    "word": "sviluppo",
+    "translation": "gelişim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sviˈlu.ppo/",
+    "sentences": [
+      {
+        "en": "Lo sviluppo della città è impressionante.",
+        "tr": "Şehrin gelişimi etkileyici."
+      }
+    ]
+  },
+  {
+    "word": "diagramma",
+    "translation": "şematik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/di.aˈɡram.ma/",
+    "sentences": [
+      {
+        "en": "Ho creato un diagramma per spiegare il processo.",
+        "tr": "Süreci açıklamak için bir şematik oluşturdum."
+      }
+    ]
+  },
+  {
+    "word": "diamante",
+    "translation": "elmas",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/djaˈman.te/",
+    "sentences": [
+      {
+        "en": "Il diamante è molto prezioso.",
+        "tr": "Elmas çok değerlidir."
+      }
+    ]
+  },
+  {
+    "word": "difficoltà",
+    "translation": "zorluk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dif.fi.koˈlta/",
+    "sentences": [
+      {
+        "en": "Affrontare le difficoltà fa parte della vita.",
+        "tr": "Zorluklarla yüzleşmek hayatın bir parçasıdır."
+      }
+    ]
+  },
+  {
+    "word": "diretto",
+    "translation": "doğrudan",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/diˈret.to/",
+    "sentences": [
+      {
+        "en": "Puoi andare diretto al punto.",
+        "tr": "Doğrudan konuya gidebilirsin."
+      }
+    ]
+  },
+  {
+    "word": "direttamente",
+    "translation": "doğrudan",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/di.ret.taˈmen.te/",
+    "sentences": [
+      {
+        "en": "Ti contatterò direttamente.",
+        "tr": "Seninle doğrudan iletişime geçeceğim."
+      }
+    ]
+  },
+  {
+    "word": "sporco",
+    "translation": "kir",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈspor.ko/",
+    "sentences": [
+      {
+        "en": "Il pavimento è pieno di sporco.",
+        "tr": "Zemin kir içinde."
+      }
+    ]
+  },
+  {
+    "word": "svantaggio",
+    "translation": "dezavantaj",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/zvanˈtad.dʒo/",
+    "sentences": [
+      {
+        "en": "Essere in ritardo è uno svantaggio.",
+        "tr": "Geç kalmak bir dezavantajdır."
+      }
+    ]
+  },
+  {
+    "word": "deluso",
+    "translation": "hayal kırıklığına uğramış",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/deˈlu.so/",
+    "sentences": [
+      {
+        "en": "Mi sento deluso dal risultato.",
+        "tr": "Sonuçtan hayal kırıklığına uğradım."
+      }
+    ]
+  },
+  {
+    "word": "deludente",
+    "translation": "hayal kırıklığı yaratan",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/de.luˈden.te/",
+    "sentences": [
+      {
+        "en": "Il film è stato deludente.",
+        "tr": "Film hayal kırıklığı yarattı."
+      }
+    ]
+  },
+  {
+    "word": "antipatia",
+    "translation": "hoşlanmama",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/an.ti.paˈti.a/",
+    "sentences": [
+      {
+        "en": "Ho antipatia per quel tipo di comportamento.",
+        "tr": "Bu tür davranışlara hoşlanmıyorum."
+      }
+    ]
+  },
+  {
+    "word": "dividere",
+    "translation": "bölmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/diˈvi.de.re/",
+    "sentences": [
+      {
+        "en": "Possiamo dividere il lavoro in parti più piccole.",
+        "tr": "İşi daha küçük parçalara bölebiliriz."
+      }
+    ]
+  },
+  {
+    "word": "espandere",
+    "translation": "genişletmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/esˈpandere/",
+    "sentences": [
+      {
+        "en": "Dobbiamo espandere il nostro mercato.",
+        "tr": "Pazarımızı genişletmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "previsto",
+    "translation": "beklenen",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/preˈvisto/",
+    "sentences": [
+      {
+        "en": "Il tempo previsto per domani è soleggiato.",
+        "tr": "Yarının beklenen hava durumu güneşli."
+      }
+    ]
+  },
+  {
+    "word": "spedizione",
+    "translation": "sefer",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/spediˈtsjone/",
+    "sentences": [
+      {
+        "en": "La spedizione è partita ieri.",
+        "tr": "Sefer dün başladı."
+      }
+    ]
+  },
+  {
+    "word": "esperienza",
+    "translation": "deneyim",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/espeˈrjenza/",
+    "sentences": [
+      {
+        "en": "Ho molta esperienza nel settore.",
+        "tr": "Bu alanda çok deneyimim var."
+      }
+    ]
+  },
+  {
+    "word": "sperimentato",
+    "translation": "deneyimli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/sperimenˈtato/",
+    "sentences": [
+      {
+        "en": "Lui è un medico esperimentato.",
+        "tr": "O, deneyimli bir doktordur."
+      }
+    ]
+  },
+  {
+    "word": "esperimento",
+    "translation": "deney",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/espeˈrimento/",
+    "sentences": [
+      {
+        "en": "Abbiamo condotto un esperimento scientifico.",
+        "tr": "Bir bilimsel deney yaptık."
+      }
+    ]
+  },
+  {
+    "word": "esplodere",
+    "translation": "patlamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/esˈplodere/",
+    "sentences": [
+      {
+        "en": "Il vulcano potrebbe esplodere presto.",
+        "tr": "Volkan yakında patlayabilir."
+      }
+    ]
+  },
+  {
+    "word": "esplorare",
+    "translation": "keşfetmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/esˈplorare/",
+    "sentences": [
+      {
+        "en": "Abbiamo deciso di esplorare la giungla.",
+        "tr": "Ormanı keşfetmeye karar verdik."
+      }
+    ]
+  },
+  {
+    "word": "esplosione",
+    "translation": "patlama",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/esplosjoˈne/",
+    "sentences": [
+      {
+        "en": "C'è stata una forte esplosione.",
+        "tr": "Büyük bir patlama oldu."
+      }
+    ]
+  },
+  {
+    "word": "esportazione",
+    "translation": "ihracat",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/esporˈtatsjone/",
+    "sentences": [
+      {
+        "en": "L'esportazione di beni è aumentata.",
+        "tr": "Mal ihracatı arttı."
+      }
+    ]
+  },
+  {
+    "word": "extra",
+    "translation": "fazla",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɛksɾa/",
+    "sentences": [
+      {
+        "en": "Ho bisogno di un extra per il mio lavoro.",
+        "tr": "İşim için fazladan bir şeye ihtiyacım var."
+      }
+    ]
+  },
+  {
+    "word": "equamente",
+    "translation": "eşit bir şekilde",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ekwamente/",
+    "sentences": [
+      {
+        "en": "Dobbiamo trattare tutti equamente.",
+        "tr": "Herkese eşit bir şekilde davranmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "familiare",
+    "translation": "ailevi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/familiˈaɾe/",
+    "sentences": [
+      {
+        "en": "Questa è una situazione familiare.",
+        "tr": "Bu ailevi bir durumdur."
+      }
+    ]
+  },
+  {
+    "word": "fantasia",
+    "translation": "hayal gücü",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/fantaˈzia/",
+    "sentences": [
+      {
+        "en": "Mi piace usare la mia fantasia per creare storie.",
+        "tr": "Hikayeler yaratmak için hayal gücümü kullanmayı seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "lontano",
+    "translation": "uzak",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/lonˈtano/",
+    "sentences": [
+      {
+        "en": "La casa è lontano dalla città.",
+        "tr": "Ev şehirden uzak."
+      }
+    ]
+  },
+  {
+    "word": "affascinante",
+    "translation": "büyüleyici",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/affasʃiˈnante/",
+    "sentences": [
+      {
+        "en": "Il paesaggio era affascinante.",
+        "tr": "Manzara büyüleyiciydi."
+      }
+    ]
+  },
+  {
+    "word": "alla moda",
+    "translation": "moda",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/alla ˈmɔda/",
+    "sentences": [
+      {
+        "en": "Quel vestito è davvero alla moda.",
+        "tr": "O elbise gerçekten moda."
+      }
+    ]
+  },
+  {
+    "word": "fissare",
+    "translation": "sabitlemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈfissare/",
+    "sentences": [
+      {
+        "en": "Dobbiamo fissare il quadro alla parete.",
+        "tr": "Tabloyu duvara sabitlememiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "favore",
+    "translation": "iyilik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/faˈvore/",
+    "sentences": [
+      {
+        "en": "Mi ha fatto un grande favore.",
+        "tr": "Bana büyük bir iyilik yaptı."
+      }
+    ]
+  },
+  {
+    "word": "paura",
+    "translation": "korku",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/pauˈra/",
+    "sentences": [
+      {
+        "en": "Ho paura dei ragni.",
+        "tr": "Örümceklerden korkuyorum."
+      }
+    ]
+  },
+  {
+    "word": "caratteristica",
+    "translation": "özellik",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/karatteˈristika/",
+    "sentences": [
+      {
+        "en": "Ogni cultura ha la sua caratteristica unica.",
+        "tr": "Her kültürün kendine özgü bir özelliği vardır."
+      }
+    ]
+  },
+  {
+    "word": "recinzione",
+    "translation": "çit",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/reˈtʃintsjone/",
+    "sentences": [
+      {
+        "en": "La recinzione è alta e sicura.",
+        "tr": "Çit yüksek ve güvenlidir."
+      }
+    ]
+  },
+  {
+    "word": "combattere",
+    "translation": "savaşmak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/komˈbatteɾe/",
+    "sentences": [
+      {
+        "en": "Abbiamo combattuto per una giusta causa.",
+        "tr": "Doğru bir amaç için savaştık."
+      }
+    ]
+  },
+  {
+    "word": "file",
+    "translation": "dosya",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈfɪle/",
+    "sentences": [
+      {
+        "en": "Ho bisogno di trovare quel file.",
+        "tr": "O dosyayı bulmam gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "finanziario",
+    "translation": "mali",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/finaˈttsjarjo/",
+    "sentences": [
+      {
+        "en": "Abbiamo bisogno di un piano finanziario.",
+        "tr": "Bir mali plan yapmamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "assolutamente",
+    "translation": "kesinlikle",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/asːoˈluːtaːmente/",
+    "sentences": [
+      {
+        "en": "Assolutamente non voglio andare.",
+        "tr": "Kesinlikle gitmek istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "accademico",
+    "translation": "akademik",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/akkadeˈmiko/",
+    "sentences": [
+      {
+        "en": "Ha una carriera accademica brillante.",
+        "tr": "Onun parlak bir akademik kariyeri var."
+      }
+    ]
+  },
+  {
+    "word": "accesso",
+    "translation": "erişim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/akˈtʃɛsso/",
+    "sentences": [
+      {
+        "en": "L'accesso al sito è vietato.",
+        "tr": "Siteye erişim yasaktır."
+      }
+    ]
+  },
+  {
+    "word": "alloggio",
+    "translation": "konaklama",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/alˈlɔddʒo/",
+    "sentences": [
+      {
+        "en": "Il nostro alloggio è molto confortevole.",
+        "tr": "Bizim konaklamamız çok rahat."
+      }
+    ]
+  },
+  {
+    "word": "conto",
+    "translation": "hesap",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈkonto/",
+    "sentences": [
+      {
+        "en": "Ho aperto un conto in banca.",
+        "tr": "Bir banka hesabı açtım."
+      }
+    ]
+  },
+  {
+    "word": "raggiungimento",
+    "translation": "başarı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/radːʒunˈdʒimento/",
+    "sentences": [
+      {
+        "en": "Il raggiungimento di questo obiettivo è importante.",
+        "tr": "Bu hedefin başarılması önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "agire",
+    "translation": "hareket etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/aˈdʒire/",
+    "sentences": [
+      {
+        "en": "Devi agire subito per risolvere il problema.",
+        "tr": "Sorunu çözmek için hemen hareket etmelisin."
+      }
+    ]
+  },
+  {
+    "word": "annuncio",
+    "translation": "ilan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/anˈnuntʃo/",
+    "sentences": [
+      {
+        "en": "L'annuncio è stato pubblicato ieri.",
+        "tr": "İlan dün yayınlandı."
+      }
+    ]
+  },
+  {
+    "word": "aggiunta",
+    "translation": "ekleme",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/adˈdʒunta/",
+    "sentences": [
+      {
+        "en": "C'è stata una aggiunta al menù.",
+        "tr": "Menüye bir ekleme yapıldı."
+      }
+    ]
+  },
+  {
+    "word": "ammirare",
+    "translation": "hayran olmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/amːiˈrare/",
+    "sentences": [
+      {
+        "en": "Mi piace ammirare la bellezza della natura.",
+        "tr": "Doğanın güzelliğine hayran kalmayı seviyorum."
+      }
+    ]
+  },
+  {
+    "word": "ammettere",
+    "translation": "kabul etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/amˈmettere/",
+    "sentences": [
+      {
+        "en": "Ammetto che ho sbagliato.",
+        "tr": "Hata yaptığımı kabul ediyorum."
+      }
+    ]
+  },
+  {
+    "word": "avanzato",
+    "translation": "ileri düzey",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/avantˈsaːto/",
+    "sentences": [
+      {
+        "en": "Il corso è di livello avanzato.",
+        "tr": "Kurs ileri düzeydir."
+      }
+    ]
+  },
+  {
+    "word": "consigliare",
+    "translation": "tavsiye etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/konˈsiʎʎare/",
+    "sentences": [
+      {
+        "en": "Ti consiglio di leggere questo libro.",
+        "tr": "Bu kitabı okumanı tavsiye ederim."
+      }
+    ]
+  },
+  {
+    "word": "permettersi",
+    "translation": "kendi kendine izin vermek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/perˈmetːterːsi/",
+    "sentences": [
+      {
+        "en": "Non posso permettermi di comprare quella macchina.",
+        "tr": "O arabayı satın alacak kadar param yok."
+      }
+    ]
+  },
+  {
+    "word": "età",
+    "translation": "yaş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/eˈta/",
+    "sentences": [
+      {
+        "en": "Qual è la tua età?",
+        "tr": "Kaç yaşındasın?"
+      }
+    ]
+  },
+  {
+    "word": "invecchiato",
+    "translation": "yaşlanmış",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/invekˈkjato/",
+    "sentences": [
+      {
+        "en": "Lui è invecchiato bene.",
+        "tr": "O iyi yaşlandı."
+      }
+    ]
+  },
+  {
+    "word": "agente",
+    "translation": "ajans",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aˈdʒɛnte/",
+    "sentences": [
+      {
+        "en": "L'agente di polizia è arrivato in fretta.",
+        "tr": "Polis ajansı hızla geldi."
+      }
+    ]
+  },
+  {
+    "word": "avanti",
+    "translation": "ileriye",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/aˈvanti/",
+    "sentences": [
+      {
+        "en": "Dobbiamo andare avanti con il progetto.",
+        "tr": "Projeye devam etmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "scopo",
+    "translation": "amaç",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈskopo/",
+    "sentences": [
+      {
+        "en": "Il mio scopo è aiutare gli altri.",
+        "tr": "Amacım başkalarına yardım etmek."
+      }
+    ]
+  },
+  {
+    "word": "allarme",
+    "translation": "alarm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/alˈlarme/",
+    "sentences": [
+      {
+        "en": "L'allarme è suonato nel cuore della notte.",
+        "tr": "Alarm gece yarısı çaldı."
+      }
+    ]
+  },
+  {
+    "word": "album",
+    "translation": "albüm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈalbum/",
+    "sentences": [
+      {
+        "en": "Ho comprato un nuovo album di musica.",
+        "tr": "Yeni bir müzik albümü aldım."
+      }
+    ]
+  },
+  {
+    "word": "alcol",
+    "translation": "alkol",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈalkol/",
+    "sentences": [
+      {
+        "en": "Non bevo alcol.",
+        "tr": "Alkol almıyorum."
+      }
+    ]
+  },
+  {
+    "word": "alcolico",
+    "translation": "alkollü",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/alˈkɔliko/",
+    "sentences": [
+      {
+        "en": "Non mi piace il vino alcolico.",
+        "tr": "Alkollü şarabı sevmiyorum."
+      }
+    ]
+  },
+  {
+    "word": "alternativa",
+    "translation": "alternatif",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/alˈtɛrnativa/",
+    "sentences": [
+      {
+        "en": "C'è un'alternativa migliore a questo piano.",
+        "tr": "Bu plana daha iyi bir alternatif var."
+      }
+    ]
+  },
+  {
+    "word": "stupito",
+    "translation": "şaşırmış",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/stuˈpito/",
+    "sentences": [
+      {
+        "en": "Ero stupito dalla notizia.",
+        "tr": "Haber karşısında şaşırdım."
+      }
+    ]
+  },
+  {
+    "word": "fastidio",
+    "translation": "rahatsızlık",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/fa'sti.djo/",
+    "sentences": [
+      {
+        "en": "Il fastidio che provochi è insopportabile.",
+        "tr": "Yarattığın rahatsızlık dayanılmaz."
+      }
+    ]
+  },
+  {
+    "word": "ramo",
+    "translation": "dal",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/'ra.mo/",
+    "sentences": [
+      {
+        "en": "Il ramo dell'albero è spezzato.",
+        "tr": "Ağacın dalı kırıldı."
+      }
+    ]
+  },
+  {
+    "word": "marchio",
+    "translation": "marka",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/'mar.kjo/",
+    "sentences": [
+      {
+        "en": "Questo marchio è molto famoso.",
+        "tr": "Bu marka çok ünlü."
+      }
+    ]
+  },
+  {
+    "word": "coraggioso",
+    "translation": "cesur",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ko.ra'dʒo.zo/",
+    "sentences": [
+      {
+        "en": "È stato coraggioso ad affrontare la situazione.",
+        "tr": "Durumu yüzleşmekte cesur davrandı."
+      }
+    ]
+  },
+  {
+    "word": "respiro",
+    "translation": "nefes",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/re'spi.ro/",
+    "sentences": [
+      {
+        "en": "Prendi un profondo respiro.",
+        "tr": "Derin bir nefes al."
+      }
+    ]
+  },
+  {
+    "word": "respirare",
+    "translation": "nefes almak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/res.pi'ra.re/",
+    "sentences": [
+      {
+        "en": "Devi respirare profondamente per rilassarti.",
+        "tr": "Rahatlamak için derin nefes almalısın."
+      }
+    ]
+  },
+  {
+    "word": "respirazione",
+    "translation": "nefes alma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/res.pi.ra'tsjo.ne/",
+    "sentences": [
+      {
+        "en": "La respirazione è fondamentale per la vita.",
+        "tr": "Nefes alma yaşam için temeldir."
+      }
+    ]
+  },
+  {
+    "word": "sposa",
+    "translation": "gelin",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/'spo.za/",
+    "sentences": [
+      {
+        "en": "La sposa indossava un bellissimo abito bianco.",
+        "tr": "Gelin çok güzel bir beyaz elbise giyiyordu."
+      }
+    ]
+  },
+  {
+    "word": "bolla",
+    "translation": "baloncuk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/'bol.la/",
+    "sentences": [
+      {
+        "en": "La bolla di sapone è volata via.",
+        "tr": "Sabun baloncuğu havaya uçtu."
+      }
+    ]
+  },
+  {
+    "word": "seppellire",
+    "translation": "gömmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/sep.pel'li.re/",
+    "sentences": [
+      {
+        "en": "Hanno deciso di seppellire il tesoro nel giardino.",
+        "tr": "Hazineyi bahçeye gömmeye karar verdiler."
+      }
+    ]
+  },
+  {
+    "word": "di",
+    "translation": "tarafından",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/di/",
+    "sentences": [
+      {
+        "en": "Questo libro è scritto di un autore famoso.",
+        "tr": "Bu kitap ünlü bir yazar tarafından yazılmıştır."
+      }
+    ]
+  },
+  {
+    "word": "calma",
+    "translation": "sakin",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/'kal.ma/",
+    "sentences": [
+      {
+        "en": "Devi rimanere calma in situazioni difficili.",
+        "tr": "Zor durumlarda sakin kalmalısın."
+      }
+    ]
+  },
+  {
+    "word": "campus",
+    "translation": "kampüs",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/'kam.pus/",
+    "sentences": [
+      {
+        "en": "Il campus universitario è molto grande.",
+        "tr": "Üniversite kampüsü çok büyük."
+      }
+    ]
+  },
+  {
+    "word": "candidato",
+    "translation": "aday",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kan.di'da.to/",
+    "sentences": [
+      {
+        "en": "Il candidato ha presentato il suo programma.",
+        "tr": "Aday programını sundu."
+      }
+    ]
+  },
+  {
+    "word": "berretto",
+    "translation": "şapka",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ber'ret.to/",
+    "sentences": [
+      {
+        "en": "Indossa un berretto rosso.",
+        "tr": "Kırmızı bir şapka takıyor."
+      }
+    ]
+  },
+  {
+    "word": "capitano",
+    "translation": "kaptan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ka.pi'ta.no/",
+    "sentences": [
+      {
+        "en": "Il capitano della nave è esperto.",
+        "tr": "Geminin kaptanı deneyimlidir."
+      }
+    ]
+  },
+  {
+    "word": "sbadato",
+    "translation": "dikkatsiz",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/sba'da.to/",
+    "sentences": [
+      {
+        "en": "È un po' sbadato quando guida.",
+        "tr": "Araç kullanırken biraz dikkatsiz."
+      }
+    ]
+  },
+  {
+    "word": "categoria",
+    "translation": "kategori",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ka.te'go.rja/",
+    "sentences": [
+      {
+        "en": "Questa categoria di prodotti è in offerta.",
+        "tr": "Bu ürün kategorisi indirimde."
+      }
+    ]
+  },
+  {
+    "word": "soffitto",
+    "translation": "tavan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/sof'fit.to/",
+    "sentences": [
+      {
+        "en": "Il soffitto è decorato con affreschi.",
+        "tr": "Tavan fresklerle süslenmiştir."
+      }
+    ]
+  },
+  {
+    "word": "celebrazione",
+    "translation": "kutlama",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tʃe.le.bra'tsjone/",
+    "sentences": [
+      {
+        "en": "La celebrazione è stata molto emozionante.",
+        "tr": "Kutlama çok heyecan vericiydi."
+      }
+    ]
+  },
+  {
+    "word": "centrale",
+    "translation": "merkezi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/tʃen'tra.le/",
+    "sentences": [
+      {
+        "en": "La stazione centrale è affollata.",
+        "tr": "Merkez istasyon kalabalık."
+      }
+    ]
+  },
+  {
+    "word": "centro",
+    "translation": "merkez",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/'tʃen.tro/",
+    "sentences": [
+      {
+        "en": "Dobbiamo centro l'attenzione sui problemi importanti.",
+        "tr": "Önemli sorunlara dikkat etmeliyiz."
+      }
+    ]
+  },
+  {
+    "word": "cerimonia",
+    "translation": "tören",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tʃe.ri'mo.nja/",
+    "sentences": [
+      {
+        "en": "La cerimonia di matrimonio è stata bellissima.",
+        "tr": "Düğün töreni çok güzeldi."
+      }
+    ]
+  },
+  {
+    "word": "catena",
+    "translation": "zincir",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ka'te.na/",
+    "sentences": [
+      {
+        "en": "La catena è rotta e deve essere riparata.",
+        "tr": "Zincir kırıldı ve tamir edilmesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "combinare",
+    "translation": "birleştirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kom.bi'nar.e/",
+    "sentences": [
+      {
+        "en": "Puoi combinare i colori come preferisci.",
+        "tr": "Renkleri istediğin gibi birleştirebilirsin."
+      }
+    ]
+  },
+  {
+    "word": "commento",
+    "translation": "yorum",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/komˈmɛn.to/",
+    "sentences": [
+      {
+        "en": "Il commento del critico è stato molto positivo.",
+        "tr": "Eleştirmenin yorumu çok olumlu oldu."
+      }
+    ]
+  },
+  {
+    "word": "commerciale",
+    "translation": "ticari",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kom.merˈtʃa.le/",
+    "sentences": [
+      {
+        "en": "Abbiamo bisogno di un approccio commerciale.",
+        "tr": "Ticari bir yaklaşıma ihtiyacımız var."
+      }
+    ]
+  },
+  {
+    "word": "impegnarsi",
+    "translation": "taahhüt etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/im.penˈɲar.si/",
+    "sentences": [
+      {
+        "en": "Devi impegnarti di più per raggiungere i tuoi obiettivi.",
+        "tr": "Hedeflerine ulaşmak için daha fazla taahhüt etmelisin."
+      }
+    ]
+  },
+  {
+    "word": "comunicazione",
+    "translation": "iletişim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ko.mu.ni.kaˈtsjo.ne/",
+    "sentences": [
+      {
+        "en": "La comunicazione è fondamentale in ogni relazione.",
+        "tr": "İletişim her ilişkide temeldir."
+      }
+    ]
+  },
+  {
+    "word": "confronto",
+    "translation": "karşılaştırma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/konˈfron.to/",
+    "sentences": [
+      {
+        "en": "Il confronto tra le due idee è interessante.",
+        "tr": "İki fikir arasındaki karşılaştırma ilginç."
+      }
+    ]
+  },
+  {
+    "word": "concorrente",
+    "translation": "rakip",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.korˈren.te/",
+    "sentences": [
+      {
+        "en": "Il nostro concorrente ha lanciato un nuovo prodotto.",
+        "tr": "Rakibimiz yeni bir ürün çıkardı."
+      }
+    ]
+  },
+  {
+    "word": "competitivo",
+    "translation": "rekabetçi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kom.pe.tiˈti.vo/",
+    "sentences": [
+      {
+        "en": "Il mercato è diventato molto competitivo.",
+        "tr": "Pazar çok rekabetçi hale geldi."
+      }
+    ]
+  },
+  {
+    "word": "denuncia",
+    "translation": "şikayet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/deˈnun.tʃa/",
+    "sentences": [
+      {
+        "en": "Ho fatto una denuncia per il furto.",
+        "tr": "Hırsızlık için bir şikayet yaptım."
+      }
+    ]
+  },
+  {
+    "word": "complesso",
+    "translation": "karmaşık",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/komˈplɛs.so/",
+    "sentences": [
+      {
+        "en": "Il problema è molto complesso da risolvere.",
+        "tr": "Sorun çözülmesi çok karmaşık."
+      }
+    ]
+  },
+  {
+    "word": "concentrarsi",
+    "translation": "konsantre olmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kon.tʃenˈtraːr.si/",
+    "sentences": [
+      {
+        "en": "Devo concentrarmi sui miei studi.",
+        "tr": "Çalışmalarıma konsantre olmalıyım."
+      }
+    ]
+  },
+  {
+    "word": "concludere",
+    "translation": "sonuçlandırmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/konˈklu.de.re/",
+    "sentences": [
+      {
+        "en": "Spero di concludere il progetto entro la settimana.",
+        "tr": "Projeyi bu hafta içinde sonuçlandırmayı umuyorum."
+      }
+    ]
+  },
+  {
+    "word": "conclusione",
+    "translation": "sonuç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.kluˈzjo.ne/",
+    "sentences": [
+      {
+        "en": "La conclusione del rapporto è chiara.",
+        "tr": "Raporun sonucu açıktır."
+      }
+    ]
+  },
+  {
+    "word": "fiducioso",
+    "translation": "güvenli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fi.duˈtʃo.zo/",
+    "sentences": [
+      {
+        "en": "Sono fiducioso riguardo al risultato finale.",
+        "tr": "Sonuç hakkında güvenliyim."
+      }
+    ]
+  },
+  {
+    "word": "confermare",
+    "translation": "onaylamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kon.ferˈma.re/",
+    "sentences": [
+      {
+        "en": "Devi confermare la tua partecipazione all'evento.",
+        "tr": "Etkinliğe katılımını onaylamalısın."
+      }
+    ]
+  },
+  {
+    "word": "confondere",
+    "translation": "kafasını karıştırmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/konˈfɔn.de.re/",
+    "sentences": [
+      {
+        "en": "Non voglio confondere le idee.",
+        "tr": "Fikirleri kafanı karıştırmak istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "confuso",
+    "translation": "kafası karışık",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/konˈfu.zo/",
+    "sentences": [
+      {
+        "en": "Mi sento confuso dopo quella spiegazione.",
+        "tr": "O açıklamadan sonra kafam karışık hissediyorum."
+      }
+    ]
+  },
+  {
+    "word": "connessione",
+    "translation": "bağlantı",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.neˈtsjo.ne/",
+    "sentences": [
+      {
+        "en": "La connessione Internet è molto lenta.",
+        "tr": "İnternet bağlantısı çok yavaş."
+      }
+    ]
+  },
+  {
+    "word": "conseguenza",
+    "translation": "sonuç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.seˈɡwen.tsa/",
+    "sentences": [
+      {
+        "en": "Ogni azione ha una conseguenza.",
+        "tr": "Her eylemin bir sonucu vardır."
+      }
+    ]
+  },
+  {
+    "word": "consistere",
+    "translation": "oluşmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/konˈsist.e.re/",
+    "sentences": [
+      {
+        "en": "Il lavoro consiste in diverse attività.",
+        "tr": "İş, çeşitli faaliyetlerden oluşmaktadır."
+      }
+    ]
+  },
+  {
+    "word": "consumare",
+    "translation": "tüketmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kon.suˈma.re/",
+    "sentences": [
+      {
+        "en": "Dobbiamo consumare meno energia.",
+        "tr": "Daha az enerji tüketmeliyiz."
+      }
+    ]
+  },
+  {
+    "word": "consumatore",
+    "translation": "tüketici",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.su.maˈto.re/",
+    "sentences": [
+      {
+        "en": "Il consumatore ha diritto a informazioni chiare.",
+        "tr": "Tüketicinin net bilgilere erişim hakkı vardır."
+      }
+    ]
+  },
+  {
+    "word": "contatto",
+    "translation": "iletişim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/konˈtat.to/",
+    "sentences": [
+      {
+        "en": "Ho perso il contatto con i miei amici.",
+        "tr": "Arkadaşlarımla iletişimi kaybettim."
+      }
+    ]
+  },
+  {
+    "word": "contenitore",
+    "translation": "konteyner",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.te.niˈto.re/",
+    "sentences": [
+      {
+        "en": "Il contenitore è pieno di frutta.",
+        "tr": "Konteyner meyve dolu."
+      }
+    ]
+  },
+  {
+    "word": "contenuto1",
+    "translation": "içerik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/kon.teˈnu.to/",
+    "sentences": [
+      {
+        "en": "Il contenuto del libro è molto interessante.",
+        "tr": "Kitabın içeriği çok ilginç."
+      }
+    ]
+  },
+  {
+    "word": "documentario",
+    "translation": "belgesel",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/do.ku.menˈta.rjo/",
+    "sentences": [
+      {
+        "en": "Ho visto un documentario sull'ambiente.",
+        "tr": "Çevre hakkında bir belgesel izledim."
+      }
+    ]
+  },
+  {
+    "word": "donare",
+    "translation": "bağışlamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/doˈna.re/",
+    "sentences": [
+      {
+        "en": "È importante donare per aiutare chi ne ha bisogno.",
+        "tr": "İhtiyacı olanlara yardım etmek için bağışlamak önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "doppio",
+    "translation": "çift",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ˈdɔp.pjo/",
+    "sentences": [
+      {
+        "en": "Ho ordinato un caffè doppio per svegliarmi.",
+        "tr": "Uyanmak için çift kahve sipariş ettim."
+      }
+    ]
+  },
+  {
+    "word": "dubbio",
+    "translation": "şüphe",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdub.bjo/",
+    "sentences": [
+      {
+        "en": "Non ho alcun dubbio sulla tua capacità.",
+        "tr": "Senin yeteneğin hakkında hiçbir şüphem yok."
+      }
+    ]
+  },
+  {
+    "word": "vestito",
+    "translation": "giyinmiş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/vesˈti.to/",
+    "sentences": [
+      {
+        "en": "Era vestito elegantemente per l'occasione.",
+        "tr": "O, olay için şık bir şekilde giyinmişti."
+      }
+    ]
+  },
+  {
+    "word": "goccia",
+    "translation": "damla",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɡot.tʃa/",
+    "sentences": [
+      {
+        "en": "Una goccia d'acqua è caduta sul tavolo.",
+        "tr": "Bir damla su masanın üzerine düştü."
+      }
+    ]
+  },
+  {
+    "word": "tamburo",
+    "translation": "davul",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/tamˈbu.ro/",
+    "sentences": [
+      {
+        "en": "Il tamburo risuonava forte nella sala.",
+        "tr": "Davul odada yüksek sesle yankılanıyordu."
+      }
+    ]
+  },
+  {
+    "word": "dovuto",
+    "translation": "borçlu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/doˈvu.to/",
+    "sentences": [
+      {
+        "en": "Il pagamento è dovuto entro la fine del mese.",
+        "tr": "Ödeme ay sonuna kadar yapılmalıdır."
+      }
+    ]
+  },
+  {
+    "word": "polvere",
+    "translation": "toz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈpol.ve.re/",
+    "sentences": [
+      {
+        "en": "C'era molta polvere sul vecchio libro.",
+        "tr": "Eski kitabın üzerinde çok toz vardı."
+      }
+    ]
+  },
+  {
+    "word": "dovere",
+    "translation": "görev",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/doˈve.re/",
+    "sentences": [
+      {
+        "en": "Il dovere di un insegnante è educare gli studenti.",
+        "tr": "Bir öğretmenin görevi öğrencilere eğitim vermektir."
+      }
+    ]
+  },
+  {
+    "word": "terremoto",
+    "translation": "deprem",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ter.reˈmo.to/",
+    "sentences": [
+      {
+        "en": "Il terremoto ha causato molti danni in città.",
+        "tr": "Deprem şehirde birçok hasara neden oldu."
+      }
+    ]
+  },
+  {
+    "word": "orientale",
+    "translation": "doğu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/orienˈta.le/",
+    "sentences": [
+      {
+        "en": "La cucina orientale è molto variegata.",
+        "tr": "Doğu mutfağı çok çeşitlidir."
+      }
+    ]
+  },
+  {
+    "word": "economia",
+    "translation": "ekonomi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/e.koˈno.mja/",
+    "sentences": [
+      {
+        "en": "L'economia del paese sta migliorando.",
+        "tr": "Ülkenin ekonomisi iyileşiyor."
+      }
+    ]
+  },
+  {
+    "word": "editore",
+    "translation": "editör",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/e.diˈto.re/",
+    "sentences": [
+      {
+        "en": "L'editore ha deciso di pubblicare il nuovo libro.",
+        "tr": "Editör yeni kitabı yayımlamaya karar verdi."
+      }
+    ]
+  },
+  {
+    "word": "educare",
+    "translation": "eğitmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ed.uˈka.re/",
+    "sentences": [
+      {
+        "en": "Educare i bambini è una responsabilità importante.",
+        "tr": "Çocukları eğitmek önemli bir sorumluluktur."
+      }
+    ]
+  },
+  {
+    "word": "istruito",
+    "translation": "eğitimli",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/is.truiˈto/",
+    "sentences": [
+      {
+        "en": "È un uomo istruito e competente.",
+        "tr": "Eğitimli ve yetkin bir adamdır."
+      }
+    ]
+  },
+  {
+    "word": "educativo",
+    "translation": "eğitici",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ed.uˈka.ti.vo/",
+    "sentences": [
+      {
+        "en": "Il film ha un messaggio educativo molto forte.",
+        "tr": "Filmin çok güçlü bir eğitici mesajı var."
+      }
+    ]
+  },
+  {
+    "word": "efficace",
+    "translation": "etkili",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ef.fiˈka.tʃe/",
+    "sentences": [
+      {
+        "en": "Questa strategia si è rivelata efficace.",
+        "tr": "Bu strateji etkili olduğunu kanıtladı."
+      }
+    ]
+  },
+  {
+    "word": "in modo efficace",
+    "translation": "etkili bir şekilde",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/in ˈmo.do ef.fiˈka.tʃe/",
+    "sentences": [
+      {
+        "en": "Devi lavorare in modo efficace per avere successo.",
+        "tr": "Başarılı olmak için etkili bir şekilde çalışmalısın."
+      }
+    ]
+  },
+  {
+    "word": "sforzo",
+    "translation": "çaba",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈsfor.tso/",
+    "sentences": [
+      {
+        "en": "Il tuo sforzo sarà premiato.",
+        "tr": "Çaban ödüllendirilecektir."
+      }
+    ]
+  },
+  {
+    "word": "elezione",
+    "translation": "seçim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/eleˈt͡sjo.ne/",
+    "sentences": [
+      {
+        "en": "Le elezioni si terranno il prossimo mese.",
+        "tr": "Seçimler önümüzdeki ay yapılacak."
+      }
+    ]
+  },
+  {
+    "word": "elemento",
+    "translation": "öğe",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/e.leˈmen.to/",
+    "sentences": [
+      {
+        "en": "Ogni elemento è fondamentale per il progetto.",
+        "tr": "Her öğe proje için temel bir öneme sahiptir."
+      }
+    ]
+  },
+  {
+    "word": "imbarazzato",
+    "translation": "mahcup",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/im.baˈrat.tsa.to/",
+    "sentences": [
+      {
+        "en": "Era imbarazzato per la situazione.",
+        "tr": "Durumdan dolayı mahcup olmuştu."
+      }
+    ]
+  },
+  {
+    "word": "imbarazzante",
+    "translation": "mahcup edici",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/im.baˈrat.t͡san.te/",
+    "sentences": [
+      {
+        "en": "La sua domanda era molto imbarazzante.",
+        "tr": "Onun sorusu çok mahcup ediciydi."
+      }
+    ]
+  },
+  {
+    "word": "emergenza",
+    "translation": "acil durum",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/e.merˈd͡ʒen.tsa/",
+    "sentences": [
+      {
+        "en": "In caso di emergenza, segui le istruzioni.",
+        "tr": "Acil durumda talimatları takip et."
+      }
+    ]
+  },
+  {
+    "word": "emozione",
+    "translation": "duygular",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/e.mot͡sjo.ne/",
+    "sentences": [
+      {
+        "en": "L'emozione era palpabile nell'aria.",
+        "tr": "Duygu havada hissedilebilirdi."
+      }
+    ]
+  },
+  {
+    "word": "bandiera",
+    "translation": "bayrak",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/banˈdje.ra/",
+    "sentences": [
+      {
+        "en": "La bandiera italiana è verde, bianca e rossa.",
+        "tr": "İtalyan bayrağı yeşil, beyaz ve kırmızıdır."
+      }
+    ]
+  },
+  {
+    "word": "alluvione",
+    "translation": "sel",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/alluˈvjone/",
+    "sentences": [
+      {
+        "en": "L'alluvione ha causato molti danni alla città.",
+        "tr": "Sel, şehre çok fazla zarar verdi."
+      }
+    ]
+  },
+  {
+    "word": "farina",
+    "translation": "un",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/faˈri.na/",
+    "sentences": [
+      {
+        "en": "Per fare il pane, serve della farina di grano.",
+        "tr": "Ekmek yapmak için buğday unu gerekir."
+      }
+    ]
+  },
+  {
+    "word": "flusso",
+    "translation": "akış",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈflus.so/",
+    "sentences": [
+      {
+        "en": "Il flusso del fiume è molto forte dopo la pioggia.",
+        "tr": "Yağmurdan sonra nehrin akışı çok güçlü."
+      }
+    ]
+  },
+  {
+    "word": "gente",
+    "translation": "insanlar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈdʒen.te/",
+    "sentences": [
+      {
+        "en": "La gente in piazza applaude il cantante.",
+        "tr": "Meydandaki insanlar şarkıcıya alkış tutuyor."
+      }
+    ]
+  },
+  {
+    "word": "seguente",
+    "translation": "sonraki",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/seˈɡwente/",
+    "sentences": [
+      {
+        "en": "Il seguente capitolo spiega la teoria.",
+        "tr": "Sonraki bölüm teoriyi açıklıyor."
+      }
+    ]
+  },
+  {
+    "word": "forza",
+    "translation": "güç",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈfort.sa/",
+    "sentences": [
+      {
+        "en": "La forza del vento è aumentata durante la tempesta.",
+        "tr": "Fırtına sırasında rüzgarın gücü arttı."
+      }
+    ]
+  },
+  {
+    "word": "per sempre",
+    "translation": "sonsuza dek",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/per ˈsɛm.pre/",
+    "sentences": [
+      {
+        "en": "Ti amerò per sempre.",
+        "tr": "Seni sonsuza dek seveceğim."
+      }
+    ]
+  },
+  {
+    "word": "cornice",
+    "translation": "çerçeve",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/korˈni.tʃe/",
+    "sentences": [
+      {
+        "en": "La cornice della foto è di legno.",
+        "tr": "Fotoğrafın çerçevesi ahşaptır."
+      }
+    ]
+  },
+  {
+    "word": "congelare",
+    "translation": "dondurmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/kondʒeˈla.re/",
+    "sentences": [
+      {
+        "en": "Devi congelare il pesce se non lo mangi subito.",
+        "tr": "Balığı hemen yemezsen dondurmalısın."
+      }
+    ]
+  },
+  {
+    "word": "frequentemente",
+    "translation": "sıklıkla",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/frekwenˈte.men.te/",
+    "sentences": [
+      {
+        "en": "Vado al cinema frequentemente.",
+        "tr": "Sıklıkla sinemaya gidiyorum."
+      }
+    ]
+  },
+  {
+    "word": "spaventare",
+    "translation": "korkutmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/spavenˈta.re/",
+    "sentences": [
+      {
+        "en": "Non voglio spaventare i bambini.",
+        "tr": "Çocukları korkutmak istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "spaventato",
+    "translation": "korkmuş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/spavenˈta.to/",
+    "sentences": [
+      {
+        "en": "Il cane sembra spaventato dal tuono.",
+        "tr": "Köpek gök gürültüsünden korkmuş görünüyor."
+      }
+    ]
+  },
+  {
+    "word": "spaventoso",
+    "translation": "korkutucu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/spavenˈto.so/",
+    "sentences": [
+      {
+        "en": "Quello film era davvero spaventoso.",
+        "tr": "O film gerçekten korkutucuydu."
+      }
+    ]
+  },
+  {
+    "word": "congelato",
+    "translation": "donmuş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/konʤeˈla.to/",
+    "sentences": [
+      {
+        "en": "Il gelato è stato congelato per un'ora.",
+        "tr": "Dondurma bir saat boyunca donduruldu."
+      }
+    ]
+  },
+  {
+    "word": "friggere",
+    "translation": "kızartmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈfri.dʒe.re/",
+    "sentences": [
+      {
+        "en": "Puoi friggere le patate fino a dorarle.",
+        "tr": "Patatesleri altın rengini alana kadar kızartabilirsin."
+      }
+    ]
+  },
+  {
+    "word": "carburante",
+    "translation": "yakıt",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/karbuˈran.te/",
+    "sentences": [
+      {
+        "en": "Il carburante è aumentato di prezzo.",
+        "tr": "Yakıt fiyatı arttı."
+      }
+    ]
+  },
+  {
+    "word": "funzione",
+    "translation": "işlev",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/funˈtsjo.ne/",
+    "sentences": [
+      {
+        "en": "La funzione del computer è molto importante.",
+        "tr": "Bilgisayarın işlevi çok önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "pelliccia",
+    "translation": "kürk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/pelˈli.tʃa/",
+    "sentences": [
+      {
+        "en": "La pelliccia che indossi è molto bella.",
+        "tr": "Giydiğin kürk çok güzel."
+      }
+    ]
+  },
+  {
+    "word": "ulteriormente",
+    "translation": "daha ileri",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ulteri.orˈmen.te/",
+    "sentences": [
+      {
+        "en": "Ulteriormente, dobbiamo considerare altre opzioni.",
+        "tr": "Daha ileri olarak, başka seçenekler de göz önünde bulundurmalıyız."
+      }
+    ]
+  },
+  {
+    "word": "garage",
+    "translation": "garaj",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ɡaˈra.dʒe/",
+    "sentences": [
+      {
+        "en": "Ho parcheggiato l'auto nel garage.",
+        "tr": "Arabayı garaja park ettim."
+      }
+    ]
+  },
+  {
+    "word": "raccogliere",
+    "translation": "toplamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/rakˈkɔʎ.ʎe.re/",
+    "sentences": [
+      {
+        "en": "È tempo di raccogliere i frutti dell'orto.",
+        "tr": "Bahçedeki meyveleri toplama zamanı."
+      }
+    ]
+  },
+  {
+    "word": "generalmente",
+    "translation": "genellikle",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/dʒeneˈral.men.te/",
+    "sentences": [
+      {
+        "en": "Generalmente, mi sveglio presto al mattino.",
+        "tr": "Genellikle sabah erken uyanırım."
+      }
+    ]
+  },
+  {
+    "word": "generazione",
+    "translation": "nesil",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/dʒeneˈra.tsjo.ne/",
+    "sentences": [
+      {
+        "en": "La nuova generazione ha idee innovative.",
+        "tr": "Yeni nesil yenilikçi fikirlere sahip."
+      }
+    ]
+  },
+  {
+    "word": "generoso",
+    "translation": "cömert",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dʒe.neˈro.so/",
+    "sentences": [
+      {
+        "en": "È una persona molto generosa.",
+        "tr": "O çok cömert bir insandır."
+      }
+    ]
+  },
+  {
+    "word": "ambizione",
+    "translation": "hırs",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/am.biʣiˈt͡sjo.ne/",
+    "sentences": [
+      {
+        "en": "La sua ambizione è quello di diventare un grande artista.",
+        "tr": "Onun hırsı büyük bir sanatçı olmaktır."
+      }
+    ]
+  },
+  {
+    "word": "ambizioso",
+    "translation": "hırslı",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/am.biˈt͡sjo.zo/",
+    "sentences": [
+      {
+        "en": "È un ragazzo molto ambizioso e determinato.",
+        "tr": "O çok hırslı ve kararlı bir çocuk."
+      }
+    ]
+  },
+  {
+    "word": "analizzare",
+    "translation": "analiz etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/a.na.liˈt͡sa.re/",
+    "sentences": [
+      {
+        "en": "Dobbiamo analizzare i dati prima di prendere una decisione.",
+        "tr": "Bir karar vermeden önce verileri analiz etmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "analisi",
+    "translation": "analiz",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/aˈna.li.zi/",
+    "sentences": [
+      {
+        "en": "L'analisi dei risultati è fondamentale per il nostro progetto.",
+        "tr": "Sonuçların analizi projemiz için temeldir."
+      }
+    ]
+  },
+  {
+    "word": "annunciare",
+    "translation": "duyurmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/an.nunˈt͡ʃa.re/",
+    "sentences": [
+      {
+        "en": "Vogliamo annunciare un'importante novità.",
+        "tr": "Önemli bir yeniliği duyurmak istiyoruz."
+      }
+    ]
+  },
+  {
+    "word": "infastidire",
+    "translation": "rahatsız etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/in.fas.tiˈdi.re/",
+    "sentences": [
+      {
+        "en": "Non voglio infastidire nessuno con le mie lamentele.",
+        "tr": "Şikayetlerimle kimseyi rahatsız etmek istemiyorum."
+      }
+    ]
+  },
+  {
+    "word": "infastidito",
+    "translation": "rahatsız olmuş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/in.fas.tiˈdi.to/",
+    "sentences": [
+      {
+        "en": "Era infastidito dal rumore proveniente dalla strada.",
+        "tr": "Sokaktan gelen gürültüden rahatsız olmuştu."
+      }
+    ]
+  },
+  {
+    "word": "fastidioso",
+    "translation": "rahatsız edici",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/fas.tiˈdjo.so/",
+    "sentences": [
+      {
+        "en": "Quel suono è molto fastidioso per me.",
+        "tr": "O ses benim için çok rahatsız edici."
+      }
+    ]
+  },
+  {
+    "word": "a parte",
+    "translation": "hariç",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/a ˈpar.te/",
+    "sentences": [
+      {
+        "en": "A parte questo, tutto va bene.",
+        "tr": "Bunun dışında her şey yolunda."
+      }
+    ]
+  },
+  {
+    "word": "chiedere scusa",
+    "translation": "özür dilemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈkje.de.re ˈsku.za/",
+    "sentences": [
+      {
+        "en": "Devo chiedere scusa per il mio comportamento.",
+        "tr": "Davranışım için özür dilemeliyim."
+      }
+    ]
+  },
+  {
+    "word": "applicazione",
+    "translation": "başvuru",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ap.pli.kaˈt͡sjo.ne/",
+    "sentences": [
+      {
+        "en": "L'applicazione deve essere inviata entro domani.",
+        "tr": "Başvuru yarına kadar gönderilmelidir."
+      }
+    ]
+  },
+  {
+    "word": "appuntamento",
+    "translation": "randevu",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ap.pun.taˈmen.to/",
+    "sentences": [
+      {
+        "en": "Ho un appuntamento dal dottore alle tre.",
+        "tr": "Saat üçte doktordan randevum var."
+      }
+    ]
+  },
+  {
+    "word": "apprezzare",
+    "translation": "takdir etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ap.pret.t͡saˈre/",
+    "sentences": [
+      {
+        "en": "Apprezzo molto il tuo aiuto.",
+        "tr": "Yardımını çok takdir ediyorum."
+      }
+    ]
+  },
+  {
+    "word": "circa",
+    "translation": "yaklaşık",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ˈt͡ʃir.ka/",
+    "sentences": [
+      {
+        "en": "Ci vorranno circa due ore per arrivare.",
+        "tr": "Oraya ulaşmak yaklaşık iki saat alacak."
+      }
+    ]
+  },
+  {
+    "word": "arresto",
+    "translation": "tutuklama",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/arˈrɛ.sto/",
+    "sentences": [
+      {
+        "en": "La polizia ha effettuato un arresto ieri.",
+        "tr": "Polis dün bir tutuklama gerçekleştirdi."
+      }
+    ]
+  },
+  {
+    "word": "arrivo",
+    "translation": "varış",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/arˈri.vo/",
+    "sentences": [
+      {
+        "en": "L'arrivo del treno è previsto per le sette.",
+        "tr": "Trenin varışı yedide bekleniyor."
+      }
+    ]
+  },
+  {
+    "word": "incarico",
+    "translation": "görev",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/inˈka.ri.ko/",
+    "sentences": [
+      {
+        "en": "Ho ricevuto un incarico importante.",
+        "tr": "Önemli bir görev aldım."
+      }
+    ]
+  },
+  {
+    "word": "assistere",
+    "translation": "yardımcı olmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/asˈsi.ste.re/",
+    "sentences": [
+      {
+        "en": "Posso assistere gli studenti nel loro lavoro.",
+        "tr": "Öğrencilerin çalışmalarında yardımcı olabilirim."
+      }
+    ]
+  },
+  {
+    "word": "atmosfera",
+    "translation": "atmosfer",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/at.mosˈfe.ra/",
+    "sentences": [
+      {
+        "en": "L'atmosfera del locale era molto accogliente.",
+        "tr": "Mekan atmosferi çok sıcak ve misafirperverdi."
+      }
+    ]
+  },
+  {
+    "word": "allegare",
+    "translation": "eklemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/al.leˈɡa.re/",
+    "sentences": [
+      {
+        "en": "Devo allegare il documento alla mail.",
+        "tr": "Belgeyi e-postaya eklemem gerekiyor."
+      }
+    ]
+  },
+  {
+    "word": "atteggiamento",
+    "translation": "tutum",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/at.te.d͡ʒjaˈmen.to/",
+    "sentences": [
+      {
+        "en": "Il suo atteggiamento è molto positivo.",
+        "tr": "Onun tutumu çok olumlu."
+      }
+    ]
+  },
+  {
+    "word": "attrarre",
+    "translation": "çekmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/atˈtra.re/",
+    "sentences": [
+      {
+        "en": "Questa strategia può attrarre nuovi clienti.",
+        "tr": "Bu strateji yeni müşteriler çekebilir."
+      }
+    ]
+  },
+  {
+    "word": "attrazione",
+    "translation": "çekim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/at.tratˈtsjo.ne/",
+    "sentences": [
+      {
+        "en": "L'attrazione tra di loro è immediata.",
+        "tr": "Aralarındaki çekim hemen hissedildi."
+      }
+    ]
+  },
+  {
+    "word": "autorità",
+    "translation": "otorite",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/au.to.riˈta/",
+    "sentences": [
+      {
+        "en": "Le autorità locali stanno indagando sull'incidente.",
+        "tr": "Yerel otoriteler olayı araştırıyor."
+      }
+    ]
+  },
+  {
+    "word": "occupazione",
+    "translation": "istihdam",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ok.kup.patˈtsjo.ne/",
+    "sentences": [
+      {
+        "en": "L'occupazione è aumentata negli ultimi anni.",
+        "tr": "Son yıllarda istihdam arttı."
+      }
+    ]
+  },
+  {
+    "word": "vuoto",
+    "translation": "boş",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈvwɔːto/",
+    "sentences": [
+      {
+        "en": "La bottiglia è vuota.",
+        "tr": "Şişe boş."
+      }
+    ]
+  },
+  {
+    "word": "incoraggiare",
+    "translation": "teşvik etmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/inkoraˈdʒaːre/",
+    "sentences": [
+      {
+        "en": "Devi incoraggiare i tuoi amici.",
+        "tr": "Arkadaşlarını teşvik etmelisin."
+      }
+    ]
+  },
+  {
+    "word": "nemico",
+    "translation": "düşman",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/neˈmiːko/",
+    "sentences": [
+      {
+        "en": "Il nemico è vicino.",
+        "tr": "Düşman yakında."
+      }
+    ]
+  },
+  {
+    "word": "impegnato",
+    "translation": "meşgul",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/impeˈɲaːto/",
+    "sentences": [
+      {
+        "en": "Sono impegnato con il lavoro.",
+        "tr": "İşle meşgulüm."
+      }
+    ]
+  },
+  {
+    "word": "ingegneria",
+    "translation": "mühendislik",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/indʒeˈneria/",
+    "sentences": [
+      {
+        "en": "Studia ingegneria all'università.",
+        "tr": "Üniversitede mühendislik okuyor."
+      }
+    ]
+  },
+  {
+    "word": "intrattenere",
+    "translation": "eğlendirmek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/intrattenere/",
+    "sentences": [
+      {
+        "en": "Lui sa come intrattenere il pubblico.",
+        "tr": "O, seyirciyi nasıl eğlendireceğini biliyor."
+      }
+    ]
+  },
+  {
+    "word": "intrattenimento",
+    "translation": "eğlence",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/intratteniˈmento/",
+    "sentences": [
+      {
+        "en": "L'intrattenimento è importante per la felicità.",
+        "tr": "Eğlence, mutluluk için önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "ingresso",
+    "translation": "giriş",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/inˈɡresso/",
+    "sentences": [
+      {
+        "en": "L'ingresso è al piano terra.",
+        "tr": "Giriş zemin kattadır."
+      }
+    ]
+  },
+  {
+    "word": "ambientale",
+    "translation": "çevresel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ambienˈtale/",
+    "sentences": [
+      {
+        "en": "La protezione ambientale è molto importante.",
+        "tr": "Çevre koruma çok önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "episodio",
+    "translation": "bölüm",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/epiˈzɔːdjo/",
+    "sentences": [
+      {
+        "en": "Il prossimo episodio sarà interessante.",
+        "tr": "Bir sonraki bölüm ilginç olacak."
+      }
+    ]
+  },
+  {
+    "word": "uguale",
+    "translation": "eşit",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/uˈɡwaːle/",
+    "sentences": [
+      {
+        "en": "I due risultati sono uguali.",
+        "tr": "İki sonuç eşittir."
+      }
+    ]
+  },
+  {
+    "word": "ugualmente",
+    "translation": "eşit şekilde",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/ugwalˈmente/",
+    "sentences": [
+      {
+        "en": "Tutti devono essere trattati ugualmente.",
+        "tr": "Herkes eşit şekilde muamele görmelidir."
+      }
+    ]
+  },
+  {
+    "word": "fuggire",
+    "translation": "kaçmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/fudˈdʒiːre/",
+    "sentences": [
+      {
+        "en": "Voglio fuggire dalla città.",
+        "tr": "Şehirden kaçmak istiyorum."
+      }
+    ]
+  },
+  {
+    "word": "essenziale",
+    "translation": "temel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/esˈsentsjale/",
+    "sentences": [
+      {
+        "en": "L'acqua è essenziale per la vita.",
+        "tr": "Su, yaşam için gereklidir."
+      }
+    ]
+  },
+  {
+    "word": "eventualmente",
+    "translation": "sonunda",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/eventualˈmente/",
+    "sentences": [
+      {
+        "en": "Eventualmente troverò una soluzione.",
+        "tr": "Sonunda bir çözüm bulacağım."
+      }
+    ]
+  },
+  {
+    "word": "esaminare",
+    "translation": "incelemek",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ezamiˈnare/",
+    "sentences": [
+      {
+        "en": "Devo esaminare il rapporto prima della riunione.",
+        "tr": "Toplantıdan önce raporu incelemeliyim."
+      }
+    ]
+  },
+  {
+    "word": "tranne",
+    "translation": "hariç",
+    "partOfSpeech": "preposition",
+    "phoneticUS": "/ˈtranne/",
+    "sentences": [
+      {
+        "en": "Tutti sono venuti tranne Marco.",
+        "tr": "Marco hariç herkes geldi."
+      }
+    ]
+  },
+  {
+    "word": "scambio",
+    "translation": "değişim",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈskambjo/",
+    "sentences": [
+      {
+        "en": "Abbiamo fatto uno scambio di idee.",
+        "tr": "Fikir alışverişi yaptık."
+      }
+    ]
+  },
+  {
+    "word": "eccitazione",
+    "translation": "heyecan",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/etʃitaˈtsjone/",
+    "sentences": [
+      {
+        "en": "C'è molta eccitazione per il concerto.",
+        "tr": "Konser için çok heyecan var."
+      }
+    ]
+  },
+  {
+    "word": "mostra",
+    "translation": "sergi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈmostra/",
+    "sentences": [
+      {
+        "en": "La mostra d'arte è stata un successo.",
+        "tr": "Sanat sergisi başarılı oldu."
+      }
+    ]
+  },
+  {
+    "word": "fuoco",
+    "translation": "ateş",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈfwɔːko/",
+    "sentences": [
+      {
+        "en": "Lui ha acceso il fuoco nel camino.",
+        "tr": "O, şömineye ateşi yaktı."
+      }
+    ]
+  },
+  {
+    "word": "forma fisica",
+    "translation": "fiziksel durum",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈfɔːrma ˈfizika/",
+    "sentences": [
+      {
+        "en": "Mi sto allenando per migliorare la forma fisica.",
+        "tr": "Fiziksel durumumu geliştirmek için çalışıyorum."
+      }
+    ]
+  },
+  {
+    "word": "fisso",
+    "translation": "sabit",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈfisso/",
+    "sentences": [
+      {
+        "en": "Ho un lavoro fisso.",
+        "tr": "Sabit bir işim var."
+      }
+    ]
+  },
+  {
+    "word": "gentile",
+    "translation": "nazik",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dʒenˈtile/",
+    "sentences": [
+      {
+        "en": "È molto gentile con gli altri.",
+        "tr": "Başkalarına çok nazik."
+      }
+    ]
+  },
+  {
+    "word": "gentiluomo",
+    "translation": "centilmen",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˌdʒɛntiˈlwɔːmo/",
+    "sentences": [
+      {
+        "en": "Lui è un vero gentiluomo.",
+        "tr": "O gerçek bir centilmendir."
+      }
+    ]
+  },
+  {
+    "word": "fantasma",
+    "translation": "hayalet",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/fanˈtazma/",
+    "sentences": [
+      {
+        "en": "Il fantasma si aggira nella casa.",
+        "tr": "Hayalet evde dolaşıyor."
+      }
+    ]
+  },
+  {
+    "word": "gigante",
+    "translation": "dev",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/dʒiˈɡante/",
+    "sentences": [
+      {
+        "en": "Il gigante era molto forte.",
+        "tr": "Dev çok güçlüydü."
+      }
+    ]
+  },
+  {
+    "word": "felice",
+    "translation": "mutlu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/feˈliʧe/",
+    "sentences": [
+      {
+        "en": "Sono felice di vederti.",
+        "tr": "Seni gördüğüm için mutluyum."
+      }
+    ]
+  },
+  {
+    "word": "globale",
+    "translation": "küresel",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ɡloˈbaːle/",
+    "sentences": [
+      {
+        "en": "La crisi globale ha colpito molti paesi.",
+        "tr": "Küresel kriz birçok ülkeyi etkiledi."
+      }
+    ]
+  },
+  {
+    "word": "guanto",
+    "translation": "eldiven",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɡwanto/",
+    "sentences": [
+      {
+        "en": "Ho perso un guanto nel parco.",
+        "tr": "Parkta bir eldiven kaybettim."
+      }
+    ]
+  },
+  {
+    "word": "vai",
+    "translation": "git",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/vai/",
+    "sentences": [
+      {
+        "en": "Vai a casa subito!",
+        "tr": "Hemen eve git!"
+      }
+    ]
+  },
+  {
+    "word": "merci",
+    "translation": "mallar",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈmɛrʧi/",
+    "sentences": [
+      {
+        "en": "Le merci sono state consegnate ieri.",
+        "tr": "Mallar dün teslim edildi."
+      }
+    ]
+  },
+  {
+    "word": "grado",
+    "translation": "derece",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɡrado/",
+    "sentences": [
+      {
+        "en": "Ha ottenuto il massimo grado.",
+        "tr": "En yüksek dereceyi aldı."
+      }
+    ]
+  },
+  {
+    "word": "laureato",
+    "translation": "mezun",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/lauˈreːato/",
+    "sentences": [
+      {
+        "en": "È un laureato in medicina.",
+        "tr": "O, tıp mezunudur."
+      }
+    ]
+  },
+  {
+    "word": "grano",
+    "translation": "buğday",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɡrano/",
+    "sentences": [
+      {
+        "en": "Il grano è stato raccolto nei campi.",
+        "tr": "Buğday tarlalardan toplanmıştı."
+      }
+    ]
+  },
+  {
+    "word": "grato",
+    "translation": "minnettar",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈɡrato/",
+    "sentences": [
+      {
+        "en": "Ti sono molto grato per l'aiuto.",
+        "tr": "Yardımın için sana çok minnettarım."
+      }
+    ]
+  },
+  {
+    "word": "crescita",
+    "translation": "büyüme",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈkrɛʃʃita/",
+    "sentences": [
+      {
+        "en": "La crescita dell'economia è stata notevole.",
+        "tr": "Ekonominin büyümesi kayda değerdi."
+      }
+    ]
+  },
+  {
+    "word": "guardia",
+    "translation": "bekçi",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɡwardja/",
+    "sentences": [
+      {
+        "en": "La guardia ha fermato il ladro.",
+        "tr": "Bekçi hırsızı durdurdu."
+      }
+    ]
+  },
+  {
+    "word": "colpevole",
+    "translation": "suçlu",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/kolˈpɛvole/",
+    "sentences": [
+      {
+        "en": "Il colpevole è stato arrestato.",
+        "tr": "Suçlu tutuklandı."
+      }
+    ]
+  },
+  {
+    "word": "mano",
+    "translation": "el",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈmano/",
+    "sentences": [
+      {
+        "en": "Mi hai dato una mano!",
+        "tr": "Bana bir el verdin!"
+      }
+    ]
+  },
+  {
+    "word": "appendere",
+    "translation": "asmak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/apˈpɛndere/",
+    "sentences": [
+      {
+        "en": "Devi appendere il quadro alla parete.",
+        "tr": "Tabloyu duvara asmalısın."
+      }
+    ]
+  },
+  {
+    "word": "felicità",
+    "translation": "mutluluk",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/feliˈʧita/",
+    "sentences": [
+      {
+        "en": "La felicità è importante nella vita.",
+        "tr": "Mutluluk hayatında önemlidir."
+      }
+    ]
+  },
+  {
+    "word": "difficilmente",
+    "translation": "zor",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/difˈfiʧilmente/",
+    "sentences": [
+      {
+        "en": "Difficilmente troverai un posto migliore.",
+        "tr": "Daha iyi bir yer zor bulursun."
+      }
+    ]
+  },
+  {
+    "word": "odio",
+    "translation": "nefret",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈɔdjo/",
+    "sentences": [
+      {
+        "en": "L'odio non porta a nulla di buono.",
+        "tr": "Nefret hiçbir iyi şeye yol açmaz."
+      }
+    ]
+  },
+  {
+    "word": "testa",
+    "translation": "baş",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/ˈtɛsta/",
+    "sentences": [
+      {
+        "en": "Non pensare solo con la testa.",
+        "tr": "Sadece başınla düşünme."
+      }
+    ]
+  },
+  {
+    "word": "titolo",
+    "translation": "başlık",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˈtitolo/",
+    "sentences": [
+      {
+        "en": "Il titolo del libro è interessante.",
+        "tr": "Kitabın başlığı ilginç."
+      }
+    ]
+  },
+  {
+    "word": "riscaldamento",
+    "translation": "ısınma",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/riskaldaˈmento/",
+    "sentences": [
+      {
+        "en": "Il riscaldamento della casa è acceso.",
+        "tr": "Evin ısınması açıldı."
+      }
+    ]
+  },
+  {
+    "word": "pesantemente",
+    "translation": "ağır şekilde",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/pezanˈtemente/",
+    "sentences": [
+      {
+        "en": "Ha camminato pesantemente sulla neve.",
+        "tr": "Karın üstünde ağır şekilde yürüdü."
+      }
+    ]
+  },
+  {
+    "word": "elicottero",
+    "translation": "helikopter",
+    "partOfSpeech": "noun",
+    "phoneticUS": "/ˌɛlikɔˈtɛrro/",
+    "sentences": [
+      {
+        "en": "L'elicottero ha sorvolato la città.",
+        "tr": "Helikopter şehir üzerinde uçtu."
+      }
+    ]
+  },
+  {
+    "word": "evidenziare",
+    "translation": "vurgulamak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/e.vi.denˈtsja.re/",
+    "sentences": [
+      {
+        "en": "Il professore ha evidenziato l'importanza di studiare ogni giorno.",
+        "tr": "Öğretmen, her gün çalışmanın önemini vurguladı."
+      }
+    ]
+  },
+  {
+    "word": "altamente",
+    "translation": "yüksek derecede",
+    "partOfSpeech": "adverb",
+    "phoneticUS": "/al.taˈme.nte/",
+    "sentences": [
+      {
+        "en": "L'azienda è altemente rispettata nel settore.",
+        "tr": "Şirket, sektörde yüksek derecede saygı duyuluyor."
+      }
+    ]
+  },
+  {
+    "word": "assumere",
+    "translation": "işe almak",
+    "partOfSpeech": "verb",
+    "phoneticUS": "/asˈsu.me.re/",
+    "sentences": [
+      {
+        "en": "La compagnia ha deciso di assumere nuovi dipendenti.",
+        "tr": "Şirket, yeni çalışanlar almayı kararlaştırdı."
+      }
+    ]
+  },
+  {
+    "word": "storico",
+    "translation": "tarihi",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/ˈsto.ri.ko/",
+    "sentences": [
+      {
+        "en": "Il Colosseo è un sito storico di Roma.",
+        "tr": "Kolezyum, Roma'nın tarihi bir yeridir."
+      }
+    ]
+  },
+  {
+    "word": "onesto",
+    "translation": "dürüst",
+    "partOfSpeech": "adjective",
+    "phoneticUS": "/oˈnɛ.sto/",
+    "sentences": [
+      {
+        "en": "Lui è una persona onesta e affidabile.",
+        "tr": "O, dürüst ve güvenilir bir insandır."
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LexiCard</string>
+    <string name="title_activity_main">LexiCard</string>
+    <string name="package_name">com.lexicard.app</string>
+    <string name="custom_url_scheme">com.lexicard.app</string>
+</resources>
